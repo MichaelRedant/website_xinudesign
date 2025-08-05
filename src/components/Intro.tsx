@@ -23,7 +23,9 @@ const services = [
 
 export default function Intro() {
   return (
+
     <section className="px-4 py-16 mx-auto text-center max-w-5xl animate-fadeInUp">
+
       <h2 className="text-3xl font-semibold">Xinudesign in een notendop</h2>
       <p className="mt-4 text-gray-700">
         Van strategie tot uitvoering: alle digitale diensten onder \u00e9\u00e9n
