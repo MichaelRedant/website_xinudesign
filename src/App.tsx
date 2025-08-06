@@ -1,15 +1,11 @@
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import Hero from "./components/Hero";
-import Intro from "./components/Intro";
-import ToolsMarquee from "./components/ToolsMarquee";
-import NewSection from "./components/NewSection";
-import Specializations from "./components/Specializations";
-import ProjectSection from "./components/ProjectSection";
-import CvSection from "./components/CvSection";
-import Footer from "./components/Footer";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
+import { Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import Contact from "./pages/Contact";
 
 export default function App() {
   useEffect(() => {
@@ -19,13 +15,10 @@ export default function App() {
   return (
     <>
       <Header />
-      <Hero />
-      <Intro />
-      <ToolsMarquee />
-      <NewSection />
-      <Specializations />
-      <ProjectSection />
-      <CvSection />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
       <Footer />
     </>
   );
