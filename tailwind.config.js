@@ -12,10 +12,15 @@ export default {
           "0%, 100%": { transform: "translateY(-3%)" },
           "50%": { transform: "translateY(3%)" },
         },
+        marquee: {
+          "0%": { transform: "translateX(0)" },
+          "100%": { transform: "translateX(-50%)" },
+        },
       },
       animation: {
         fadeInUp: "fadeInUp 0.6s ease-out forwards",
         float: "float 4s ease-in-out infinite",
+        marquee: "marquee 30s linear infinite",
       },
     },
   },
