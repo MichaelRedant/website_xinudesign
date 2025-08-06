@@ -31,6 +31,7 @@ const tools: Tool[] = [
 ];
 
 export default function ToolsMarquee() {
+
   const [isPaused, setIsPaused] = useState(false);
 
   return (
@@ -56,6 +57,7 @@ export default function ToolsMarquee() {
             </GlassPane>
           </div>
         ))}
+
       </div>
     </section>
   );
