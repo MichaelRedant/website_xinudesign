@@ -1,6 +1,6 @@
 export default function CvSection() {
   return (
-    <section className="px-4 py-16 animate-fadeInUp">
+    <section className="px-4 py-24 bg-white animate-fadeInUp">
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="text-3xl font-semibold">CV</h2>
         <p className="mt-4 text-gray-700">

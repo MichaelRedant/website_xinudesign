@@ -1,6 +1,6 @@
 export default function ProjectSection() {
   return (
-    <section className="px-4 py-16 bg-gray-50 animate-fadeInUp">
+    <section className="px-4 py-24 bg-white animate-fadeInUp">
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="text-3xl font-semibold">Projecten</h2>
         <div className="mt-8">
