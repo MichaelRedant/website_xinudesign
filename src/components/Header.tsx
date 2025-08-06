@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
+import { FaBars, FaTimes } from "react-icons/fa";
 
 const navItems = [
   /* { to: "/", label: "Home" },
@@ -13,6 +14,7 @@ const navItems = [
 
 export default function Header() {
   const [scrolled, setScrolled] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 50);
@@ -26,7 +28,7 @@ export default function Header() {
         scrolled ? "backdrop-blur-md bg-white/70 shadow-lg" : "bg-transparent"
       }`}
     >
-      <div className="flex items-center justify-between max-w-[1400px] mx-auto px-8 py-6">
+      <div className="relative flex items-center justify-between max-w-[1400px] mx-auto px-4 md:px-8 py-6">
         {/* ─────────────── Logo + tekst samen ─────────────── */}
         <Link to="/" className="flex items-center gap-3 select-none">
           <img
@@ -44,7 +46,24 @@ export default function Header() {
           </span>
         </Link>
 
-        {/* ─────────────── Navigatie ─────────────── */}
+        {/* ─────────────── Mobile menu button ─────────────── */}
+        <button
+          aria-label="Toggle navigation"
+          className="md:hidden p-2"
+          onClick={() => setMenuOpen((prev) => !prev)}
+        >
+          {menuOpen ? (
+            <FaTimes
+              className={`text-2xl ${scrolled ? "text-gray-800" : "text-black"}`}
+            />
+          ) : (
+            <FaBars
+              className={`text-2xl ${scrolled ? "text-gray-800" : "text-black"}`}
+            />
+          )}
+        </button>
+
+        {/* ─────────────── Navigatie desktop ─────────────── */}
         <ul className="hidden md:flex gap-12">
           {navItems.map(({ to, label }) => (
             <li key={to}>
@@ -68,6 +87,27 @@ export default function Header() {
             </li>
           ))}
         </ul>
+
+        {/* ─────────────── Mobile dropdown ─────────────── */}
+        {menuOpen && (
+          <ul
+            className={`absolute top-full left-0 right-0 flex flex-col items-center gap-6 py-6 mt-2 rounded-b-xl shadow-lg backdrop-blur-md ${
+              scrolled ? "bg-white/90" : "bg-white/80"
+            }`}
+          >
+            {navItems.map(({ to, label }) => (
+              <li key={to}>
+                <NavLink
+                  to={to}
+                  onClick={() => setMenuOpen(false)}
+                  className="font-medium text-gray-800"
+                >
+                  {label}
+                </NavLink>
+              </li>
+            ))}
+          </ul>
+        )}
       </div>
     </nav>
   );

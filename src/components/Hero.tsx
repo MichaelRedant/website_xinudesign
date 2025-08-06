@@ -20,9 +20,7 @@ export default function Hero() {
           className="w-32 h-32 mb-6 rounded-full shadow-lg object-cover animate-float"
         />
         <h1 className="text-4xl font-bold md:text-6xl">Michaël Redant</h1>
-        <p className="mt-4 text-xl md:text-S2xl">
-          Marketeer &amp; Webdeveloper
-        </p>
+        <p className="mt-4 text-xl md:text-2xl">Marketeer &amp; Webdeveloper</p>
         <Link
           to="/contact"
           className="px-8 py-3 mt-6 text-lg font-medium text-white transition-transform bg-blue-600 rounded-full hover:scale-105"

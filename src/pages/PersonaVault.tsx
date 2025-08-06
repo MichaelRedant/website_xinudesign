@@ -1,4 +1,4 @@
-import type { IconType } from 'react-icons';
+import type { IconType } from "react-icons";
 import {
   FaShareAlt,
   FaTag,
@@ -9,38 +9,38 @@ import {
   FaFlask,
   FaCalendarAlt,
   FaRocket,
-} from 'react-icons/fa';
+} from "react-icons/fa";
 
 const features: { icon: IconType; title: string; text: string }[] = [
   {
     icon: FaShareAlt,
-    title: '1-Click Share Links',
-    text: 'Spin up read-only links for clients and teammates—no login required.',
+    title: "1-Click Share Links",
+    text: "Spin up read-only links for clients and teammates—no login required.",
   },
   {
     icon: FaTag,
-    title: 'Smart Tagging',
-    text: 'Auto-suggest tags and filter personas & prompts at scale.',
+    title: "Smart Tagging",
+    text: "Auto-suggest tags and filter personas & prompts at scale.",
   },
   {
     icon: FaSearch,
-    title: 'Instant Fuzzy Search',
-    text: 'Spot the right prompt in <120 ms, even with typos.',
+    title: "Instant Fuzzy Search",
+    text: "Spot the right prompt in <120 ms, even with typos.",
   },
   {
     icon: FaCodeBranch,
-    title: 'Version Control & Diff',
-    text: 'Track every tweak, rollback any time, compare side-by-side.',
+    title: "Version Control & Diff",
+    text: "Track every tweak, rollback any time, compare side-by-side.",
   },
   {
     icon: FaFolderOpen,
-    title: 'Collections',
-    text: 'Bundle prompts, personas & examples into reusable playbooks.',
+    title: "Collections",
+    text: "Bundle prompts, personas & examples into reusable playbooks.",
   },
   {
     icon: FaUsersCog,
-    title: 'Workspaces',
-    text: 'Separate teams, roles and projects—granular permissions included.',
+    title: "Workspaces",
+    text: "Separate teams, roles and projects—granular permissions included.",
   },
 ];
 
@@ -48,20 +48,24 @@ export default function PersonaVault() {
   return (
     <main className="px-4 py-24 bg-gradient-to-b from-white to-sky-50 dark:from-gray-900 dark:to-gray-800">
       {/* ───── Hero ───── */}
-      <section className="mx-auto max-w-6xl text-center space-y-8" data-aos="fade-up">
+      <section
+        className="mx-auto max-w-6xl text-center space-y-8"
+        data-aos="fade-up"
+      >
         <div className="flex justify-center">
-    <img
-      src="https://www.xinudesign.be/vault/logo-light.svg"
-      alt="Persona Vault Logo"
-      className="h-27 w-27 rounded-full bg-white shadow-lg p-8"
-    />
-  </div>
+          <img
+            src="https://www.xinudesign.be/vault/logo-light.svg"
+            alt="Persona Vault Logo"
+            className="h-27 w-27 rounded-full bg-white shadow-lg p-8"
+          />
+        </div>
         <h1 className="text-5xl md:text-6xl font-extrabold text-slate-900 dark:text-white">
           Your AI Persona & Prompt Vault
         </h1>
         <p className="max-w-2xl mx-auto text-lg md:text-xl text-slate-600 dark:text-slate-300">
-          Centralize, version and deploy your <strong>AI personas & prompts</strong> in a
-          single, secure workspace—built for product, marketing and dev teams.
+          Centralize, version and deploy your{" "}
+          <strong>AI personas & prompts</strong> in a single, secure
+          workspace—built for product, marketing and dev teams.
         </p>
 
         <div className="flex flex-col items-center gap-3 text-sm text-slate-500 dark:text-slate-400">
@@ -80,7 +84,7 @@ export default function PersonaVault() {
 
       {/* ───── Features ───── */}
       <section
-        className="mx-auto mt-28 grid gap-10 max-w-6xl md:grid-cols-3"
+        className="mx-auto mt-28 grid gap-10 max-w-6xl md:grid-cols-2 lg:grid-cols-3"
         data-aos="fade-up"
         data-aos-delay="100"
       >
@@ -99,27 +103,27 @@ export default function PersonaVault() {
       </section>
 
       {/* ───── Product Peek ───── */}
-<section
-  className="mt-32 mx-auto max-w-6xl text-center"
-  data-aos="fade-up"
-  data-aos-delay="200"
->
-  <h2 className="text-3xl md:text-4xl font-bold mb-4 text-slate-900 dark:text-white">
-    A 60-second look inside
-  </h2>
+      <section
+        className="mt-32 mx-auto max-w-6xl text-center"
+        data-aos="fade-up"
+        data-aos-delay="200"
+      >
+        <h2 className="text-3xl md:text-4xl font-bold mb-4 text-slate-900 dark:text-white">
+          A 60-second look inside
+        </h2>
 
-  <p className="text-slate-600 dark:text-slate-400 mb-10 max-w-3xl mx-auto">
-    Draft a persona, add smart tags, share a link, track every iteration—<br className="hidden md:inline" />
-    all from one streamlined dashboard.
-  </p>
+        <p className="text-slate-600 dark:text-slate-400 mb-10 max-w-3xl mx-auto">
+          Draft a persona, add smart tags, share a link, track every iteration—
+          <br className="hidden md:inline" />
+          all from one streamlined dashboard.
+        </p>
 
-  <img
-    src="/assets/img/screenVault.png"
-    alt="Persona Vault dashboard"
-    className="rounded-2xl shadow-2xl mx-auto w-full"
-  />
-</section>
-
+        <img
+          src="/assets/img/screenVault.png"
+          alt="Persona Vault dashboard"
+          className="rounded-2xl shadow-2xl mx-auto w-full"
+        />
+      </section>
 
       {/* ───── Social Proof ───── */}
       <section
@@ -156,12 +160,13 @@ export default function PersonaVault() {
           View source on GitHub
         </a>
         <p className="mt-6 text-xs text-slate-500 dark:text-slate-400 max-w-3xl mx-auto px-4 leading-relaxed">
-          Persona Vault is an open-source side-project by Xinudesign.
-          Manage AI personas, prompts and playground snippets with full
-          version-history and API access. Try the beta on&nbsp;
+          Persona Vault is an open-source side-project by Xinudesign. Manage AI
+          personas, prompts and playground snippets with full version-history
+          and API access. Try the beta on&nbsp;
           <a href="/vault/" className="underline text-blue-600">
             xinudesign.be/vault
-          </a>.
+          </a>
+          .
         </p>
       </section>
     </main>
