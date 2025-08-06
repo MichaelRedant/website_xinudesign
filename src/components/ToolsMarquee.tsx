@@ -31,34 +31,39 @@ const tools: Tool[] = [
 ];
 
 export default function ToolsMarquee() {
-  const [isPaused, setIsPaused] = useState(false);
+  const [paused, setPaused]     = useState(false);
+  const [hoveredIdx, setIdx]    = useState<number | null>(null);
 
   return (
-
-    <section className="py-24 bg-white overflow-hidden animate-fadeInUp">
+    <section className="py-24 bg-white dark:bg-black overflow-hidden">
+      {/* x verbergen → geen scrollbar, y zichtbaar → tooltip kan uitsteken */}
       <div className="overflow-x-hidden overflow-y-visible">
-
         <div
-          className="flex items-center gap-8 animate-marquee w-max"
-          style={{ animationPlayState: isPaused ? "paused" : "running" }}
+          className="flex items-center gap-14 w-max animate-marquee"
+          style={{ animationPlayState: paused ? 'paused' : 'running' }}
         >
-          {tools.concat(tools).map((tool, index) => (
+          {tools.concat(tools).map((t, i) => (
             <div
-              key={`${tool.src}-${index}`}
-              className="relative group flex items-center cursor-pointer"
-              onMouseEnter={() => setIsPaused(true)}
-              onMouseLeave={() => setIsPaused(false)}
+              key={`${t.src}-${i}`}
+              className="relative flex items-center justify-center"
+              onMouseEnter={() => { setPaused(true);  setIdx(i);   }}
+              onMouseLeave={() => { setPaused(false); setIdx(null); }}
             >
+              {/* ① logo vergroot; parent div laat voldoende ruimte */}
               <img
-                src={tool.src}
-                alt={tool.name}
-                className="h-12 w-auto transition-transform duration-300 group-hover:scale-110"
+                src={t.src}
+                alt={t.name}
+                className={`h-12 w-auto transition-transform duration-300 ${
+                  hoveredIdx === i ? 'scale-125' : ''
+                }`}
               />
 
-              <GlassPane className="absolute bottom-full left-1/2 mb-2 -translate-x-1/2 translate-y-2 px-3 py-1 text-xs text-gray-800 whitespace-nowrap opacity-0 scale-95 pointer-events-none transition-all duration-200 ease-out group-hover:opacity-100 group-hover:translate-y-0 group-hover:scale-100 bg-white/20 dark:bg-black/20 border border-white/40 shadow-lg rounded-lg z-10">
-
-                {tool.name}
-              </GlassPane>
+              {/* ② tooltip boven logo  */}
+              {hoveredIdx === i && (
+                <GlassPane className="absolute bottom-full left-1/2 -translate-x-1/2 mb-3 px-4 py-1.5 text-sm text-white dark:text-white whitespace-nowrap z-[999] animate-fadeIn">
+                  {t.name}
+                </GlassPane>
+              )}
             </div>
           ))}
         </div>

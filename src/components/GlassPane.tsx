@@ -1,17 +1,11 @@
-import React from "react";
-
 interface GlassPaneProps {
   children: React.ReactNode;
   className?: string;
 }
-
-export default function GlassPane({
-  children,
-  className = "",
-}: GlassPaneProps) {
+export default function GlassPane({ children, className = '' }: GlassPaneProps) {
   return (
     <div
-      className={`bg-white/30 backdrop-blur-md border border-white/40 rounded-md shadow-sm ${className}`}
+      className={`bg-white/30 dark:bg-white/10 backdrop-blur-md border border-white/25 dark:border-white/15 rounded-xl shadow-lg ${className}`}
     >
       {children}
     </div>
