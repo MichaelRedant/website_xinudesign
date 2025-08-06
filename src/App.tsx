@@ -1,3 +1,6 @@
+import { useEffect } from "react";
+import AOS from "aos";
+import "aos/dist/aos.css";
 import Hero from "./components/Hero";
 import Intro from "./components/Intro";
 import ToolsMarquee from "./components/ToolsMarquee";
@@ -8,6 +11,10 @@ import CvSection from "./components/CvSection";
 import Footer from "./components/Footer";
 
 export default function App() {
+  useEffect(() => {
+    AOS.init({ duration: 600, once: true });
+  }, []);
+
   return (
     <>
       <Hero />
