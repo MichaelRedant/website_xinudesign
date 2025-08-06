@@ -39,6 +39,8 @@ Herbruikbare UI? → <Button variant="primary" /> componentiseren
 
 Tailwind componentklassen definiëren via @layer components in tailwind.config.js
 
+React-icons gebruiken waar mogelijk
+
 ## Liquid Glass-stijl voor modals/popups (Apple-style)
 
 Gebruik dit visuele effect voor overlays zoals modals, sheets en popups.
