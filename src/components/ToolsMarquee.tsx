@@ -28,11 +28,13 @@ const tools: Tool[] = [
   { src: "/assets/logos/vue.svg", name: "Vue" },
   { src: "/assets/logos/windows.svg", name: "Windows" },
   { src: "/assets/logos/wix.svg", name: "Wix" },
+
 ];
 
 export default function ToolsMarquee() {
   return (
     <section className="py-24 bg-white animate-fadeInUp">
+
       <div className="overflow-x-hidden">
         <div className="flex items-center gap-8 animate-marquee w-max">
           {tools.concat(tools).map((tool, index) => (
@@ -42,6 +44,7 @@ export default function ToolsMarquee() {
                 {tool.name}
               </GlassPane>
             </div>
+
           ))}
         </div>
       </div>
