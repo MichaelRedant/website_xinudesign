@@ -2,7 +2,6 @@ import React from "react";
 
 import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from "react-icons/fa";
 import GlassPane from "./GlassPane";
-import PathDrawing from "./PathDrawing";
 
 interface Activity {
   id: number;
@@ -83,11 +82,11 @@ export default function Intro() {
       className="relative w-full overflow-hidden py-24"
       data-aos="fade-up"
     >
-      <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_20%_20%,rgba(236,72,153,0.3),transparent),radial-gradient(circle_at_80%_30%,rgba(14,165,233,0.3),transparent),radial-gradient(circle_at_60%_80%,rgba(124,58,237,0.3),transparent)] opacity-70 blur-3xl" />
+      <div />
       <div className="absolute inset-0 -z-20 bg-gradient-to-b from-transparent to-white dark:to-black" />
       <div className="relative max-w-5xl px-4 mx-auto">
         <GlassPane className="p-8 text-center">
-          <PathDrawing />
+         
           <h2 className="text-3xl font-semibold">Xinudesign in een notendop</h2>
           <p className="mt-4 text-gray-700 dark:text-gray-300">
             Van strategie tot uitvoering: alle digitale diensten onder één dak.
