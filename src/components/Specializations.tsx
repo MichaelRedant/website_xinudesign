@@ -2,17 +2,17 @@ const items = [
   {
     title: "Digitale marketing",
     description: "SEO, automation, advertising",
-    icon: "/assets/logos/google-analytics.svg",
+    icon: "/assets/logos/google-ads.svg",
   },
   {
     title: "Webontwikkeling",
     description: "React, WordPress, Laravel",
-    icon: "/assets/logos/laravel.svg",
+    icon: "/assets/logos/html.png",
   },
   {
     title: "AI-toepassingen",
-    description: "Eigen GPT\u2019s, data-gedreven campagnes",
-    icon: "/assets/logos/power-bi.svg",
+    description: "Eigen GPT\u2019s, Vibe coding, Persona building",
+    icon: "/assets/logos/openai.svg",
   },
   {
     title: "3D-printing",

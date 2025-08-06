@@ -16,7 +16,7 @@ export default function Hero() {
         <img
           src="/assets/img/profile.jpg"
           alt="Michaël Redant"
-          className="w-32 h-32 mb-6 rounded-full shadow-lg animate-float"
+          className="w-32 h-32 mb-6 rounded-full shadow-lg object-cover animate-float"
         />
         <h1 className="text-4xl font-bold md:text-6xl">Michaël Redant</h1>
         <p className="mt-4 text-xl md:text-S2xl">

@@ -12,7 +12,7 @@ import Footer from "./components/Footer";
 
 export default function App() {
   useEffect(() => {
-    AOS.init({ duration: 600, once: true });
+    AOS.init({ duration: 600, once: false });
   }, []);
 
   return (
