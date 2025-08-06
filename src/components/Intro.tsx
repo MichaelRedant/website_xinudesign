@@ -1,5 +1,7 @@
 import React from "react";
+
 import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from "react-icons/fa";
+
 
 interface Activity {
   id: number;
@@ -10,14 +12,17 @@ interface Activity {
 const activities: Activity[] = [
   {
     id: 1,
+
     name: "Contentcreatie",
     description:
       "Sterke content maken gaat vandaag sneller dan ooit. Met slimme AI-tools zoals GPT en DALL·E maak je in geen tijd teksten, beelden en ideeën die blijven plakken.",
+
   },
   {
     id: 2,
     name: "Automatisering",
     description:
+
       "Laat je marketingcampagnes en workflows automatisch draaien met slimme AI-koppelingen. Minder handwerk, meer resultaat.",
   },
   {
@@ -37,35 +42,45 @@ const activities: Activity[] = [
     name: "Data-gedreven Strategie",
     description:
       "Zet je data om in actie. Met duidelijke dashboards en inzichten bouwen we samen een strategie die werkt.",
+
   },
   {
     id: 6,
     name: "Webdesign",
     description:
+
       "Een frisse website die werkt op elk scherm. Visueel sterk, gebruiksvriendelijk en makkelijk aanpasbaar via een CMS.",
+
   },
   {
     id: 7,
     name: "Webdevelopment",
     description:
+
       "We bouwen schaalbare, performante webapplicaties op maat van jouw noden – met moderne technologie én een tikkeltje 'vibe coding'.",
+
   },
   {
     id: 8,
     name: "UI/UX",
     description:
+
       "Sterk design begint bij een fijne ervaring. We ontwerpen gebruiksvriendelijke interfaces met Figma die logisch aanvoelen én er goed uitzien.",
+
   },
   {
     id: 9,
     name: "Lokale SEO",
     description:
+
       "Word beter zichtbaar in je regio met slimme, lokaal geoptimaliseerde landingspagina’s en vindbare content.",
+
   },
 ];
 
 const socialLinks = [
   {
+
     name: "LinkedIn",
     icon: FaLinkedin,
     url: "https://www.linkedin.com/in/michael-redant",
@@ -88,15 +103,18 @@ const socialLinks = [
     icon: FaFacebook,
     url: "https://www.facebook.com/michael-redant",
     color: "text-blue-700 hover:text-blue-900",
+
   },
 ];
 
 export default function Intro() {
   return (
+
     <section
       className="px-4 py-24 mx-auto text-center bg-white max-w-5xl"
       data-aos="fade-up"
     >
+
       <img
         src="/assets/xinu.png"
         alt="Xinudesign"
@@ -107,6 +125,7 @@ export default function Intro() {
         Van strategie tot uitvoering: alle digitale diensten onder één dak.
       </p>
       <div className="flex justify-center mt-6 space-x-3">
+
         {socialLinks.map(({ name, icon: Icon, url, color }) => (
           <a
             key={url}
@@ -117,6 +136,7 @@ export default function Intro() {
           >
             <span className="sr-only">{name}</span>
             <Icon className="w-5 h-5" />
+
           </a>
         ))}
       </div>

@@ -36,6 +36,7 @@ export default function Footer() {
           <a href="mailto:info@xinudesign.be" className="hover:underline">
             info@xinudesign.be
           </a>
+
           {socialLinks.map(({ name, icon: Icon, url, color }) => (
             <a
               key={url}
@@ -48,6 +49,25 @@ export default function Footer() {
               <Icon className="w-5 h-5" />
             </a>
           ))}
+
+          <a
+            href="https://github.com/michael-redant"
+            className="hover:underline"
+          >
+            GitHub
+          </a>
+          <a
+            href="https://www.instagram.com/michael-redant"
+            className="hover:underline"
+          >
+            Instagram
+          </a>
+          <a
+            href="https://www.facebook.com/michael-redant"
+            className="hover:underline"
+          >
+            Facebook
+          </a>
           <a
             href="#contact"
             className="px-4 py-2 text-sm font-medium text-white transition-transform bg-blue-600 rounded hover:bg-blue-700 hover:scale-105"
