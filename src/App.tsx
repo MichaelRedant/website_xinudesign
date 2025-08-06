@@ -9,6 +9,7 @@ import Specializations from "./components/Specializations";
 import ProjectSection from "./components/ProjectSection";
 import CvSection from "./components/CvSection";
 import Footer from "./components/Footer";
+import Header from "./components/Header";
 
 export default function App() {
   useEffect(() => {
@@ -17,6 +18,7 @@ export default function App() {
 
   return (
     <>
+      <Header />
       <Hero />
       <Intro />
       <ToolsMarquee />
