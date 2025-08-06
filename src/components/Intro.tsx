@@ -9,7 +9,6 @@ interface Activity {
 }
 
 const activities: Activity[] = [
-
   {
     id: 3,
     name: "SEO / SEA",

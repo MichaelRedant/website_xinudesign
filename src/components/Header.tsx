@@ -1,12 +1,12 @@
-import { useEffect, useState } from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { useEffect, useState } from "react";
+import { Link, NavLink } from "react-router-dom";
 
 const navItems = [
-  { to: '/',        label: 'Home'     },
-  { to: '/about',   label: 'Over'    },
-  { to: '/services',label: 'Services' },
-  { to: '/werk',    label: 'Werk'     },
-  { to: '/contact', label: 'Contact'  },
+  { to: "/", label: "Home" },
+  { to: "/about", label: "Over" },
+  { to: "/services", label: "Services" },
+  { to: "/werk", label: "Werk" },
+  { to: "/contact", label: "Contact" },
 ];
 
 export default function Header() {
@@ -14,14 +14,14 @@ export default function Header() {
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 50);
-    window.addEventListener('scroll', onScroll);
-    return () => window.removeEventListener('scroll', onScroll);
+    window.addEventListener("scroll", onScroll);
+    return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
   return (
     <nav
       className={`fixed inset-x-0 top-0 z-50 transition-all duration-300 ${
-        scrolled ? 'backdrop-blur-md bg-white/70 shadow-lg' : 'bg-transparent'
+        scrolled ? "backdrop-blur-md bg-white/70 shadow-lg" : "bg-transparent"
       }`}
     >
       <div className="flex items-center justify-between max-w-[1400px] mx-auto px-8 py-6">
@@ -35,7 +35,7 @@ export default function Header() {
           />
           <span
             className={`font-bold tracking-wide transition-colors ${
-              scrolled ? 'text-[#0362c8] text-3xl' : 'text-black text-3xl'
+              scrolled ? "text-[#0362c8] text-3xl" : "text-black text-3xl"
             }`}
           >
             XINUDESIGN
@@ -55,10 +55,10 @@ export default function Header() {
                    hover:before:w-full hover:after:w-full
                    ${
                      scrolled
-                       ? 'text-gray-800 before:bg-[#0362c8] after:bg-[#0362c8]'
-                       : 'text-black   before:bg-black     after:bg-black'
+                       ? "text-gray-800 before:bg-[#0362c8] after:bg-[#0362c8]"
+                       : "text-black   before:bg-black     after:bg-black"
                    }
-                   hover:text-[#509ef1] ${isActive ? 'before:w-full after:w-full' : ''}`
+                   hover:text-[#509ef1] ${isActive ? "before:w-full after:w-full" : ""}`
                 }
               >
                 {label}
