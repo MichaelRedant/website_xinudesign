@@ -16,8 +16,8 @@ export default function Hero() {
           className="w-32 h-32 mb-6 rounded-full shadow-lg animate-float"
         />
         <h1 className="text-4xl font-bold md:text-6xl">Michaël Redant</h1>
-        <p className="mt-4 text-xl md:text-2xl">
-          Freelance marketeer &amp; webdeveloper
+        <p className="mt-4 text-xl md:text-S2xl">
+          Marketeer &amp; Webdeveloper
         </p>
         <a
           href="#contact"
