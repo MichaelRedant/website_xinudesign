@@ -1,3 +1,4 @@
+
 import GlassPane from "./GlassPane";
 
 interface Tool {
@@ -28,6 +29,7 @@ const tools: Tool[] = [
   { src: "/assets/logos/vue.svg", name: "Vue" },
   { src: "/assets/logos/windows.svg", name: "Windows" },
   { src: "/assets/logos/wix.svg", name: "Wix" },
+
 ];
 
 export default function ToolsMarquee() {
@@ -35,6 +37,7 @@ export default function ToolsMarquee() {
     <section className="py-24 bg-white animate-fadeInUp">
       <div className="overflow-hidden">
         <div className="flex items-center gap-8 animate-marquee w-max">
+
           {tools.concat(tools).map((tool, index) => (
             <div key={`${tool.src}-${index}`} className="relative group flex items-center">
               <img src={tool.src} alt={tool.name} className="h-12 w-auto" />
@@ -42,6 +45,7 @@ export default function ToolsMarquee() {
                 {tool.name}
               </GlassPane>
             </div>
+
           ))}
         </div>
       </div>
