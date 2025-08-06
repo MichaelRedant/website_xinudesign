@@ -23,7 +23,7 @@ const items = [
 
 export default function Specializations() {
   return (
-    <section className="px-4 py-24 bg-white animate-fadeInUp">
+    <section className="px-4 py-24 bg-white" data-aos="fade-up">
       <div className="max-w-5xl mx-auto">
         <h2 className="text-3xl font-semibold text-center">Specialisaties</h2>
         <div className="grid gap-6 mt-8 md:grid-cols-2">

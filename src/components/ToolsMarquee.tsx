@@ -37,11 +37,10 @@ const tools: Tool[] = [
 ];
 
 export default function ToolsMarquee() {
-
   const [isPaused, setIsPaused] = useState(false);
 
   return (
-    <section className="py-24 bg-white overflow-x-hidden animate-fadeInUp">
+    <section className="py-24 bg-white overflow-x-hidden" data-aos="fade-up">
       <div
         className="flex items-center gap-8 animate-marquee w-max"
         style={{ animationPlayState: isPaused ? "paused" : "running" }}
@@ -63,7 +62,6 @@ export default function ToolsMarquee() {
             </GlassPane>
           </div>
         ))}
-
       </div>
     </section>
   );

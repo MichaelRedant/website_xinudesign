@@ -9,7 +9,10 @@ export default function Hero() {
         muted
       />
       <div className="absolute inset-0 bg-black/40" />
-      <div className="relative z-10 flex flex-col items-center px-4 text-center text-white animate-fadeInUp">
+      <div
+        className="relative z-10 flex flex-col items-center px-4 text-center text-white"
+        data-aos="fade-up"
+      >
         <img
           src="/assets/img/profile.jpg"
           alt="Michaël Redant"
