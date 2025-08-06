@@ -9,31 +9,14 @@ interface Activity {
 }
 
 const activities: Activity[] = [
-  {
-    id: 1,
 
-    name: "Contentcreatie",
-    description:
-      "Sterke content maken gaat vandaag sneller dan ooit. Met slimme AI-tools zoals GPT en DALL·E maak je in geen tijd teksten, beelden en ideeën die blijven plakken.",
-  },
-  {
-    id: 2,
-    name: "Automatisering",
-    description:
-      "Laat je marketingcampagnes en workflows automatisch draaien met slimme AI-koppelingen. Minder handwerk, meer resultaat.",
-  },
   {
     id: 3,
     name: "SEO / SEA",
     description:
       "Zorg dat je gevonden wordt op Google, met AI-gestuurde zoekanalyse, slimme optimalisaties en gerichte campagnes.",
   },
-  {
-    id: 4,
-    name: "Workshops & Trainingen",
-    description:
-      "Leer zelf aan de slag gaan met AI voor marketing, content of automatisering. Praktisch, helder en afgestemd op jouw tempo.",
-  },
+
   {
     id: 5,
     name: "Data-gedreven Strategie",

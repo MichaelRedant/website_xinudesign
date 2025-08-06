@@ -29,32 +29,26 @@ const socialLinks = [
 
 export default function Footer() {
   return (
-    <footer className="px-4 py-8 text-gray-200 bg-gray-900" data-aos="fade-up">
+    <footer className="px-4 py-8 text-gray-200 bg-gray-900" >
       <div className="flex flex-col items-center max-w-5xl mx-auto space-y-4 md:flex-row md:justify-between md:space-y-0">
         <span>© {new Date().getFullYear()} Xinudesign</span>
         <div className="flex flex-wrap items-center justify-center gap-4 md:justify-end">
-          <a href="mailto:info@xinudesign.be" className="hover:underline">
-            info@xinudesign.be
+          <a href="mailto:michael@xinudesign.be" className="hover:underline">
+            michael@xinudesign.be
           </a>
 
-          {socialLinks.map(({ name, icon: Icon, url, color }) => (
-            <a
-              key={url}
-              href={url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className={color}
-            >
-              <span className="sr-only">{name}</span>
-              <Icon className="w-5 h-5" />
-            </a>
-          ))}
 
           <a
             href="https://github.com/michael-redant"
             className="hover:underline"
           >
             GitHub
+          </a>
+          <a
+            href="https://www.linkedin.com/in/michael-redant"
+            className="hover:underline"
+          >
+            LinkedIn
           </a>
           <a
             href="https://www.instagram.com/michael-redant"
