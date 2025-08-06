@@ -30,6 +30,7 @@ src/
 ```
 
 ## Stylingrichtlijnen (Tailwind)
+
 Gebruik utility-first benadering (geen externe CSS tenzij nodig)
 
 Lange klassenreeksen? Gebruik clsx() of classnames
@@ -38,10 +39,12 @@ Herbruikbare UI? → <Button variant="primary" /> componentiseren
 
 Tailwind componentklassen definiëren via @layer components in tailwind.config.js
 
-##  Liquid Glass-stijl voor modals/popups (Apple-style)
+## Liquid Glass-stijl voor modals/popups (Apple-style)
+
 Gebruik dit visuele effect voor overlays zoals modals, sheets en popups.
 
-##  Voorbeeldimplementatie (React + Tailwind)
+## Voorbeeldimplementatie (React + Tailwind)
+
 ```tsx
 Kopiëren
 Bewerken
@@ -52,7 +55,9 @@ Bewerken
   </div>
 </div>
 ```
-##  Designrichtlijnen
+
+## Designrichtlijnen
+
 bg-white/10 + backdrop-blur-2xl voor glasachtig effect
 
 rounded-2xl, border-white/20, shadow-xl voor diepte
@@ -64,6 +69,7 @@ Donkere modus via dark:bg-black/30
 Sluitknop positioneren met absolute top-2 right-2
 
 ## Gebruik voor:
+
 <Modal />
 
 <Popup />
@@ -73,6 +79,7 @@ Sluitknop positioneren met absolute top-2 right-2
 <Overlay />
 
 ## Componentconventies
+
 Component in eigen map (indien complex):
 
 ```txt
@@ -83,6 +90,7 @@ Bewerken
 └── MyComponent.module.ts
 Componentnaam = PascalCase
 ```
+
 Functies schrijven als functionele componenten met typing:
 
 ```tsx
@@ -95,6 +103,7 @@ Gebruik default exports tenzij meerdere exports logisch zijn
 ```
 
 ## TypeScript conventies
+
 Gebruik interface voor props, type voor unions
 
 Globale types in src/types/
@@ -103,17 +112,18 @@ Vermijd Partial, any, as tenzij goed onderbouwd
 
 Alles expliciet typiseren
 
-
 ## Pre-commit checks
+
 bash
 Kopiëren
 Bewerken
-npm run format     # Code formatteren
-npm run lint       # Linting controleren
-npm run build      # Build valideren
-npm run dev        # (Optioneel) lokaal previewen
+npm run format # Code formatteren
+npm run lint # Linting controleren
+npm run build # Build valideren
+npm run dev # (Optioneel) lokaal previewen
 
 ## Deploymentrichtlijnen
+
 Dev-server: npm run dev
 
 Build: npm run build
@@ -123,6 +133,7 @@ Deploy target: Vercel (auto via GitHub)
 Gevoelige info in .env.local (niet commiten)
 
 ## Naming & Consistency
+
 Bestandnamen: PascalCase
 
 Assets: kebab-case (bijv. hero-bg.jpg)
@@ -134,7 +145,8 @@ Routes/URLs: kebab-case (/about-us, /diensten/webdesign)
 Taal: code in Engels, tekstinhoud Belgisch, Vlaams, menselijk klinkend
 
 ## Documentatie & Changelogs
-Gebruik /** ... */ JSDoc voor complexe functies
+
+Gebruik `/** ... */` JSDoc voor complexe functies
 
 Changelog bijhouden in /CHANGELOG.md of via GitHub Releases
 
