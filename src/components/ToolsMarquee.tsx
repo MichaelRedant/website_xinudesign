@@ -18,7 +18,6 @@ const tools: Tool[] = [
   { src: "/assets/logos/google-gke.svg", name: "Google GKE" },
   { src: "/assets/logos/indesign.svg", name: "Adobe InDesign" },
   { src: "/assets/logos/laravel.svg", name: "Laravel" },
-  { src: "/assets/logos/link-intact.svg", name: "Link" },
   { src: "/assets/logos/openai.svg", name: "OpenAI" },
   { src: "/assets/logos/php.svg", name: "PHP" },
   { src: "/assets/logos/power-bi.svg", name: "Power BI" },
