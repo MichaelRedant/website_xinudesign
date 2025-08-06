@@ -1,42 +1,14 @@
-import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from "react-icons/fa";
-
-const socialLinks = [
-  {
-    name: "LinkedIn",
-    icon: FaLinkedin,
-    url: "https://www.linkedin.com/in/michael-redant",
-    color: "text-primary hover:text-hover",
-  },
-  {
-    name: "GitHub",
-    icon: FaGithub,
-    url: "https://github.com/michael-redant",
-    color: "text-text hover:text-hover",
-  },
-  {
-    name: "Instagram",
-    icon: FaInstagram,
-    url: "https://www.instagram.com/michael-redant",
-    color: "text-secondary hover:text-hover",
-  },
-  {
-    name: "Facebook",
-    icon: FaFacebook,
-    url: "https://www.facebook.com/michael-redant",
-    color: "text-blue-700 hover:text-blue-900",
-  },
-];
+// Social links are rendered manually below; remove unused arrays to satisfy linting.
 
 export default function Footer() {
   return (
-    <footer className="px-4 py-8 text-gray-200 bg-gray-900" >
+    <footer className="px-4 py-8 text-gray-200 bg-gray-900">
       <div className="flex flex-col items-center max-w-5xl mx-auto space-y-4 md:flex-row md:justify-between md:space-y-0">
         <span>© {new Date().getFullYear()} Xinudesign</span>
         <div className="flex flex-wrap items-center justify-center gap-4 md:justify-end">
           <a href="mailto:michael@xinudesign.be" className="hover:underline">
             michael@xinudesign.be
           </a>
-
 
           <a
             href="https://github.com/michael-redant"
