@@ -1,8 +1,8 @@
-import { useState } from 'react';
-import GlassPane from '../components/GlassPane';
+import { useState } from "react";
+import GlassPane from "../components/GlassPane";
 
 export default function Contact() {
-  const [status,    setStatus]  = useState<string | null>(null);
+  const [status, setStatus] = useState<string | null>(null);
   const [isSending, setSending] = useState(false);
 
   const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -14,17 +14,17 @@ export default function Contact() {
     const data = new FormData(form);
 
     try {
-      const res    = await fetch('/contact.php', { method: 'POST', body: data });
+      const res = await fetch("/contact.php", { method: "POST", body: data });
       const result = await res.json();
 
       if (result.success) {
-        setStatus('Bedankt voor je bericht! Ik neem snel contact op.');
+        setStatus("Bedankt voor je bericht! Ik neem snel contact op.");
         form.reset();
       } else {
-        setStatus('Er liep iets mis. Probeer later opnieuw.');
+        setStatus("Er liep iets mis. Probeer later opnieuw.");
       }
     } catch {
-      setStatus('Er liep iets mis. Probeer later opnieuw.');
+      setStatus("Er liep iets mis. Probeer later opnieuw.");
     } finally {
       setSending(false);
     }
@@ -81,7 +81,13 @@ export default function Contact() {
           {/* honeypot */}
           <div className="hidden">
             <label htmlFor="website">Website</label>
-            <input id="website" name="website" type="text" tabIndex={-1} autoComplete="off" />
+            <input
+              id="website"
+              name="website"
+              type="text"
+              tabIndex={-1}
+              autoComplete="off"
+            />
           </div>
 
           {/* Knop */}
@@ -90,7 +96,7 @@ export default function Contact() {
             type="submit"
             className="w-full rounded-md bg-blue-600 py-2 px-4 font-medium text-white transition hover:bg-blue-700 disabled:opacity-60"
           >
-            {isSending ? 'Versturen…' : 'Verstuur'}
+            {isSending ? "Versturen…" : "Verstuur"}
           </button>
         </form>
 

@@ -1,4 +1,4 @@
-import GlassPane from '../components/GlassPane';
+import GlassPane from "../components/GlassPane";
 import {
   FaBriefcase,
   FaGraduationCap,
@@ -8,7 +8,7 @@ import {
   FaLanguage,
   FaCertificate,
   FaProjectDiagram,
-} from 'react-icons/fa';
+} from "react-icons/fa";
 
 export default function Cv() {
   return (
@@ -18,10 +18,12 @@ export default function Cv() {
         <header className="text-center" data-aos="fade-up">
           <h1 className="text-4xl font-bold text-blue-800">Michaël Redant</h1>
           <p className="mt-2 text-gray-600">
-            Provincieweg 34a · Borsbeke • +32 496 90 85 03 • michael.redant2@telenet.be
+            Provincieweg 34a · Borsbeke • +32 496 90 85 03 •
+            michael.redant2@telenet.be
           </p>
           <p className="max-w-xl mx-auto mt-3 italic text-gray-500">
-            “People rarely succeed unless they have fun in what they are doing.” – Dale Carnegie
+            “People rarely succeed unless they have fun in what they are doing.”
+            – Dale Carnegie
           </p>
         </header>
 
@@ -31,9 +33,9 @@ export default function Cv() {
             <FaUserTie /> Over mezelf
           </h2>
           <p>
-            Ik combineer een analytische blik met creatieve drive. Na 16 jaar in de optiek –
-            waarvan een groot stuk zelfstandig – leg ik mij nu toe op
-            datagedreven marketing, AI-toepassingen en webontwikkeling. Met
+            Ik combineer een analytische blik met creatieve drive. Na 16 jaar in
+            de optiek – waarvan een groot stuk zelfstandig – leg ik mij nu toe
+            op datagedreven marketing, AI-toepassingen en webontwikkeling. Met
             dashboards en glasheldere inzichten vertaal ik complexe data naar
             haalbare acties.
           </p>
@@ -218,8 +220,7 @@ function Experience({ company, role, period, location, details }: ExpProps) {
   return (
     <div>
       <h3 className="text-xl font-semibold text-blue-800">
-        {company}{' '}
-        <span className="font-normal text-gray-700">({period})</span>
+        {company} <span className="font-normal text-gray-700">({period})</span>
       </h3>
       <p className="ml-4">
         <span className="font-medium">{role}</span> – {location}. {details}
@@ -243,7 +244,14 @@ interface ProjProps {
   skills: string;
   company: string;
 }
-function Project({ title, link, period, description, skills, company }: ProjProps) {
+function Project({
+  title,
+  link,
+  period,
+  description,
+  skills,
+  company,
+}: ProjProps) {
   return (
     <div className="space-y-1">
       <a
@@ -253,7 +261,7 @@ function Project({ title, link, period, description, skills, company }: ProjProp
         className="font-semibold text-blue-800 hover:underline"
       >
         {title}
-      </a>{' '}
+      </a>{" "}
       <span className="text-gray-600">({period})</span>
       <p className="ml-4">{description}</p>
       <p className="ml-4 text-sm text-gray-700">

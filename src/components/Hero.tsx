@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 export default function Hero() {
   return (
     <section className="relative flex items-center justify-center min-h-screen overflow-hidden">
