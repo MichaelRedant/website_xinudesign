@@ -6,6 +6,7 @@ const navItems = [
   { to: "/about", label: "Over" },
   { to: "/services", label: "Services" },
   { to: "/werk", label: "Werk" }, */
+  { to: "/persona-vault", label: "Persona Vault" },
   { to: "/cv", label: "Mijn cv" },
   { to: "/contact", label: "Contact" },
 ];

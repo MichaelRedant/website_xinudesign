@@ -86,7 +86,6 @@ export default function Intro() {
       <div className="absolute inset-0 -z-20 bg-gradient-to-b from-transparent to-white dark:to-black" />
       <div className="relative max-w-5xl px-4 mx-auto">
         <GlassPane className="p-8 text-center">
-         
           <h2 className="text-3xl font-semibold">Xinudesign in een notendop</h2>
           <p className="mt-4 text-gray-700 dark:text-gray-300">
             Van strategie tot uitvoering: alle digitale diensten onder één dak.
