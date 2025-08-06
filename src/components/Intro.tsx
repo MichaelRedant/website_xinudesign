@@ -1,6 +1,8 @@
 import React from "react";
 
 import { FaLinkedin, FaGithub, FaInstagram, FaFacebook } from "react-icons/fa";
+import GlassPane from "./GlassPane";
+import PathDrawing from "./PathDrawing";
 
 interface Activity {
   id: number;
@@ -78,42 +80,46 @@ const socialLinks = [
 export default function Intro() {
   return (
     <section
-      className="px-4 py-24 mx-auto text-center bg-white max-w-5xl"
+      className="relative w-full overflow-hidden py-24"
       data-aos="fade-up"
     >
-      <img
-        src="/assets/xinu.png"
-        alt="Xinudesign"
-        className="w-24 h-24 mx-auto mb-6"
-      />
-      <h2 className="text-3xl font-semibold">Xinudesign in een notendop</h2>
-      <p className="mt-4 text-gray-700">
-        Van strategie tot uitvoering: alle digitale diensten onder één dak.
-      </p>
-      <div className="flex justify-center mt-6 space-x-3">
-        {socialLinks.map(({ name, icon: Icon, url, color }) => (
-          <a
-            key={url}
-            href={url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className={`flex items-center justify-center w-10 h-10 bg-white border rounded-full ${color}`}
-          >
-            <span className="sr-only">{name}</span>
-            <Icon className="w-5 h-5" />
-          </a>
-        ))}
-      </div>
-      <div className="grid gap-6 mt-12 md:grid-cols-2 lg:grid-cols-3">
-        {activities.map((activity) => (
-          <div
-            key={activity.id}
-            className="p-6 transition-transform bg-white border rounded-lg hover:-translate-y-1"
-          >
-            <h3 className="text-xl font-medium">{activity.name}</h3>
-            <p className="mt-2 text-gray-700">{activity.description}</p>
+      <div className="absolute inset-0 -z-10 bg-[radial-gradient(circle_at_20%_20%,rgba(236,72,153,0.3),transparent),radial-gradient(circle_at_80%_30%,rgba(14,165,233,0.3),transparent),radial-gradient(circle_at_60%_80%,rgba(124,58,237,0.3),transparent)] opacity-70 blur-3xl" />
+      <div className="absolute inset-0 -z-20 bg-gradient-to-b from-transparent to-white dark:to-black" />
+      <div className="relative max-w-5xl px-4 mx-auto">
+        <GlassPane className="p-8 text-center">
+          <PathDrawing />
+          <h2 className="text-3xl font-semibold">Xinudesign in een notendop</h2>
+          <p className="mt-4 text-gray-700 dark:text-gray-300">
+            Van strategie tot uitvoering: alle digitale diensten onder één dak.
+          </p>
+          <div className="flex justify-center mt-6 space-x-3">
+            {socialLinks.map(({ name, icon: Icon, url, color }) => (
+              <a
+                key={url}
+                href={url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className={`flex items-center justify-center w-10 h-10 bg-white border rounded-full ${color}`}
+              >
+                <span className="sr-only">{name}</span>
+                <Icon className="w-5 h-5" />
+              </a>
+            ))}
           </div>
-        ))}
+          <div className="grid gap-6 mt-12 md:grid-cols-2 lg:grid-cols-3">
+            {activities.map((activity) => (
+              <div
+                key={activity.id}
+                className="p-6 transition-transform bg-white/80 dark:bg-black/20 border rounded-lg hover:-translate-y-1"
+              >
+                <h3 className="text-xl font-medium">{activity.name}</h3>
+                <p className="mt-2 text-gray-700 dark:text-gray-300">
+                  {activity.description}
+                </p>
+              </div>
+            ))}
+          </div>
+        </GlassPane>
       </div>
     </section>
   );
