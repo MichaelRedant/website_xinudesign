@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
+import Cv from "./pages/Cv";
 
 export default function App() {
   useEffect(() => {
@@ -17,6 +18,7 @@ export default function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/cv" element={<Cv />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
       <Footer />

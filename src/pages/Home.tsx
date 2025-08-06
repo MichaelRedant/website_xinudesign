@@ -4,7 +4,6 @@ import ToolsMarquee from "../components/ToolsMarquee";
 import NewSection from "../components/NewSection";
 import Specializations from "../components/Specializations";
 import ProjectSection from "../components/ProjectSection";
-import CvSection from "../components/CvSection";
 
 const Home: React.FC = () => {
   return (
@@ -15,7 +14,6 @@ const Home: React.FC = () => {
       <NewSection />
       <Specializations />
       <ProjectSection />
-      <CvSection />
     </>
   );
 };
