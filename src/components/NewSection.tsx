@@ -1,5 +1,6 @@
 import GlassPane from "./GlassPane";
 import { FaBolt, FaMagic, FaRocket } from "react-icons/fa";
+import { Link } from 'react-router-dom';
 
 export default function NewSection() {
   return (
@@ -44,10 +45,13 @@ export default function NewSection() {
             </p>
 
             <div className="mt-8 flex justify-center">
-              <div className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-violet-600 text-white font-medium shadow-lg hover:bg-violet-700 transition">
-                <FaRocket />
-                Ontdek wat we voor jou kunnen bouwen
-              </div>
+              <Link
+              to="/contact"
+              className="inline-flex items-center gap-2 px-5 py-3 rounded-full bg-violet-600 text-white font-medium shadow-lg hover:bg-violet-700 transition"
+            >
+              <FaRocket />
+              Ontdek wat we voor jou kunnen bouwen
+            </Link>
             </div>
           </div>
         </GlassPane>

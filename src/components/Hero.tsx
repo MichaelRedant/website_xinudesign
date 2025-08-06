@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 export default function Hero() {
   return (
     <section className="relative flex items-center justify-center min-h-screen overflow-hidden">
@@ -22,12 +23,12 @@ export default function Hero() {
         <p className="mt-4 text-xl md:text-S2xl">
           Marketeer &amp; Webdeveloper
         </p>
-        <a
-          href="#contact"
+        <Link
+          to="/contact"
           className="px-8 py-3 mt-6 text-lg font-medium text-white transition-transform bg-blue-600 rounded-full hover:scale-105"
         >
           Let&apos;s Talk
-        </a>
+        </Link>
       </div>
     </section>
   );
