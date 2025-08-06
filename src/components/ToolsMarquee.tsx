@@ -34,8 +34,10 @@ export default function ToolsMarquee() {
   const [isPaused, setIsPaused] = useState(false);
 
   return (
+
     <section className="py-24 bg-white overflow-hidden animate-fadeInUp">
       <div className="overflow-x-hidden overflow-y-visible">
+
         <div
           className="flex items-center gap-8 animate-marquee w-max"
           style={{ animationPlayState: isPaused ? "paused" : "running" }}
@@ -52,7 +54,9 @@ export default function ToolsMarquee() {
                 alt={tool.name}
                 className="h-12 w-auto transition-transform duration-300 group-hover:scale-110"
               />
+
               <GlassPane className="absolute bottom-full left-1/2 mb-2 -translate-x-1/2 translate-y-2 px-3 py-1 text-xs text-gray-800 whitespace-nowrap opacity-0 scale-95 pointer-events-none transition-all duration-200 ease-out group-hover:opacity-100 group-hover:translate-y-0 group-hover:scale-100 bg-white/20 dark:bg-black/20 border border-white/40 shadow-lg rounded-lg z-10">
+
                 {tool.name}
               </GlassPane>
             </div>
