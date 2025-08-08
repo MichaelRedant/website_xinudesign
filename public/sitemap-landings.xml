@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://www.xinudesign.be/lokale-seo/herzele</loc>
+    <loc>https://www.xinudesign.be/diensten/aalst</loc>
+    <lastmod>2025-08-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/herzele</loc>
     <lastmod>2025-08-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

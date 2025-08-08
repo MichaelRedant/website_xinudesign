@@ -17,17 +17,19 @@ export default function App() {
   }, []);
 
   return (
-    <>
+    <div className="flex min-h-screen flex-col">
       <ScrollToTop />
       <Header />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/persona-vault" element={<PersonaVault />} />
-        <Route path="/cv" element={<Cv />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/lokale-seo/:city" element={<LokaleSeoPage />} />
-      </Routes>
+      <div className="flex-grow">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/persona-vault" element={<PersonaVault />} />
+          <Route path="/cv" element={<Cv />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/diensten/:city" element={<LokaleSeoPage />} />
+        </Routes>
+      </div>
       <Footer />
-    </>
+    </div>
   );
 }

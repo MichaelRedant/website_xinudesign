@@ -25,7 +25,7 @@ try {
 
     const stats = await fs.stat(path.join(landingsDir, file));
     const lastmod = data.lastmod || stats.mtime.toISOString().split("T")[0];
-    const loc = data.canonical || `${baseUrl}/lokale-seo/${slug}`;
+    const loc = data.canonical || `${baseUrl}/diensten/${slug}`;
 
     entries += `
   <url>

@@ -10,7 +10,7 @@ secondaryKeywords:
   - "webdesigner Herzele"
   - "lokale SEO Herzele"
 description: "Zoek je een webdesigner of SEO‑specialist in Herzele? Xinudesign helpt kmo’s met snelle, vindbare websites, AI‑marketing en lokale SEO."
-canonical: "https://www.xinudesign.be/lokale-seo/herzele"
+canonical: "https://www.xinudesign.be/diensten/herzele"
 phone: "+32 496 90 85 03"
 email: "michael.redant2@telenet.be"
 address:
@@ -31,9 +31,9 @@ services:
 faqs:
   - q: "Werken jullie ook op locatie in Herzele?"
     a: "Ja. We werken hybride: remote en op locatie indien nodig."
-  - q: "Hoe snel staat mijn website online?"
-    a: "MVP binnen 2–4 weken afhankelijk van content & scope."
-  - q: "Doen jullie ook Google Ads?"
+  - q: "Hoe snel staat mijn website voor een bedrijf in Herzele online?"
+    a: "Een eerste versie staat er meestal binnen 2–4 weken, afhankelijk van content en scope."
+  - q: "Beheren jullie ook Google Ads voor ondernemingen uit Herzele?"
     a: "Ja, van set‑up tot optimalisatie met duidelijke KPI’s."
 related:
   - title: "SEO tips voor kmo's"

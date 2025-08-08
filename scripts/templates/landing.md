@@ -11,7 +11,7 @@ secondaryKeywords:
   - "webdeveloper {{City}}"
   - "lokale SEO {{City}}"
 description: "Zoek je een webdeveloper of SEA, SEO‑specialist in {{City}}? Xinudesign helpt kmo’s met snelle, vindbare websites, AI‑marketing en lokale SEO."
-canonical: "https://www.xinudesign.be/lokale-seo/{{slug}}"
+canonical: "https://www.xinudesign.be/diensten/{{slug}}"
 services:
   - name: "Webdevelopment"
     short: "Maatwerk websites met focus op snelheid, SEO en conversie."
@@ -23,8 +23,7 @@ related:
   - title: "SEO tips voor kmo's"
     url: "/blog/seo-tips"
 faqs:
-  - q: "Werken jullie ook op locatie in {{City}}?"
-    a: "We werken remote als bijberoep."
+{{faqs}}
 lastmod: "YYYY-MM-DD"
 ---
 

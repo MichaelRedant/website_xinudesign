@@ -73,7 +73,7 @@ export default function LokaleSeoPage() {
   // SEO/meta tags
   useEffect(() => {
     if (!fm) return;
-    document.title = fm.title || `Lokale SEO ${fm.city} | Xinudesign`;
+    document.title = fm.title || `Diensten ${fm.city} | Xinudesign`;
 
     const setMeta = (
       selector: string,
@@ -188,8 +188,8 @@ export default function LokaleSeoPage() {
         {
           "@type": "ListItem",
           position: 2,
-          name: "Lokale SEO",
-          item: "https://www.xinudesign.be/lokale-seo",
+          name: "Diensten",
+          item: "https://www.xinudesign.be/diensten",
         },
         { "@type": "ListItem", position: 3, name: fm.city, item: fm.canonical },
       ],
