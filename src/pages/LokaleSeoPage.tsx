@@ -213,32 +213,52 @@ export default function LokaleSeoPage() {
   }
 
   return (
-    <main className="px-4 py-20 bg-gradient-to-b from-white to-blue-50 dark:from-gray-900 dark:to-gray-800">
-      <article className="prose prose-slate dark:prose-invert max-w-3xl mx-auto">
-        <header className="mb-8">
-          <h1>{fm.h1 ?? fm.title}</h1>
-          <p className="text-slate-600">{fm.description}</p>
+
+    <main>
+      <section className="px-4 py-24 text-center bg-gradient-to-r from-blue-600 to-sky-500 text-white">
+        <div className="max-w-3xl mx-auto">
+          <h1 className="text-4xl font-bold mb-4">{fm.h1 ?? fm.title}</h1>
+          <p className="text-lg opacity-90">{fm.description}</p>
           <a
             href="/contact"
-            className="inline-block mt-4 bg-blue-600 text-white px-5 py-3 rounded hover:bg-blue-700"
+            className="inline-block mt-6 bg-white text-blue-700 px-5 py-3 rounded font-medium hover:bg-slate-100"
           >
             Plan een gesprek
           </a>
-          {fm.services?.length ? (
-            <ul className="not-prose mt-4 grid gap-3">
-              {fm.services.map((s) => (
-                <li
-                  key={s.name}
-                  className="p-3 rounded border border-slate-200 dark:border-slate-700"
-                >
-                  <strong>{s.name}:</strong> {s.short}
+        </div>
+      </section>
+
+      <article className="prose prose-slate dark:prose-invert max-w-3xl mx-auto px-4 py-16">
+        {fm.services?.length ? (
+          <ul className="not-prose my-8 grid gap-4 sm:grid-cols-2">
+            {fm.services.map((s) => (
+              <li
+                key={s.name}
+                className="p-4 rounded border border-slate-200 dark:border-slate-700"
+              >
+                <strong>{s.name}:</strong> {s.short}
+              </li>
+            ))}
+          </ul>
+        ) : null}
+
+        <section dangerouslySetInnerHTML={{ __html: html }} />
+
+        {fm.related?.length ? (
+          <section className="mt-12">
+            <h2>Lees ook</h2>
+            <ul className="list-disc ml-5">
+              {fm.related.map((r) => (
+                <li key={r.url}>
+                  <a href={r.url} className="text-blue-600 hover:underline">
+                    {r.title}
+                  </a>
+
                 </li>
               ))}
             </ul>
-          ) : null}
-        </header>
-
-        <section dangerouslySetInnerHTML={{ __html: html }} />
+          </section>
+        ) : null}
 
         {fm.related?.length ? (
           <section className="mt-12">
@@ -257,15 +277,22 @@ export default function LokaleSeoPage() {
 
         {fm.faqs?.length ? (
           <section className="mt-12">
-            <h2>Veelgestelde vragen over {fm.city}.</h2>
-            <dl className="space-y-4">
+            <h2>Veelgestelde vragen</h2>
+            <div className="space-y-4">
               {fm.faqs.map(({ q, a }) => (
-                <div key={q}>
-                  <dt className="font-semibold">{q}</dt>
-                  <dd className="text-slate-700 dark:text-slate-300">{a}</dd>
-                </div>
+                <details
+                  key={q}
+                  className="border border-slate-200 dark:border-slate-700 rounded"
+                >
+                  <summary className="cursor-pointer px-4 py-2 font-medium">
+                    {q}
+                  </summary>
+                  <div className="px-4 pb-4 text-slate-700 dark:text-slate-300">
+                    {a}
+                  </div>
+                </details>
               ))}
-            </dl>
+            </div>
           </section>
         ) : null}
 
