@@ -9,6 +9,7 @@
     "generate:sitemap": "node scripts/generate-sitemap-static.js && node scripts/generate-sitemap-blogs.js && node scripts/generate-sitemap-landings.js && node scripts/generate-sitemap-index.js",
     "build:with-sitemap": "npm run generate:sitemap && npm run build",
     "preview": "vite preview",
+    "new:landing": "node scripts/new-landing.js",
     "lint": "eslint \"src/**/*.{ts,tsx}\"",
     "format": "prettier --check .",
     "format:write": "prettier --write .",
@@ -16,6 +17,7 @@
   },
   "dependencies": {
     "aos": "^2.3.4",
+    "buffer": "^6.0.3",
     "fs": "^0.0.1-security",
     "gray-matter": "^4.0.3",
     "markdown-it": "^14.1.0",

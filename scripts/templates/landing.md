@@ -1,15 +1,16 @@
 ---
-title: "Webdesign & SEO in {{City}} | Xinudesign"
-h1: "Webdesign & SEO in {{City}}"
+title: "Development, SEA & SEO in {{City}} | Xinudesign"
+h1: "Development, SEA & SEO in {{City}}"
 slug: "{{slug}}"
 city: "{{City}}"
 province: ""
-primaryKeyword: "webdesign {{City}}"
+primaryKeyword: "marketing {{City}}"
 secondaryKeywords:
   - "SEO {{City}}"
-  - "webdesigner {{City}}"
+  - "SEA {{City}}"
+  - "webdeveloper {{City}}"
   - "lokale SEO {{City}}"
-description: "Zoek je een webdesigner of SEO‑specialist in {{City}}? Xinudesign helpt kmo’s met snelle, vindbare websites, AI‑marketing en lokale SEO."
+description: "Zoek je een webdeveloper of SEA, SEO‑specialist in {{City}}? Xinudesign helpt kmo’s met snelle, vindbare websites, AI‑marketing en lokale SEO."
 canonical: "https://www.xinudesign.be/lokale-seo/{{slug}}"
 services:
   - name: "SEO / SEA"
@@ -19,7 +20,7 @@ related:
     url: "/blog/seo-tips"
 faqs:
   - q: "Werken jullie ook op locatie in {{City}}?"
-    a: "Ja. We werken hybride: remote en op locatie indien nodig."
+    a: "We werken remote als bijberoep."
 lastmod: "YYYY-MM-DD"
 ---
 
