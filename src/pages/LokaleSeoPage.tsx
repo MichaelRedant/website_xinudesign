@@ -28,6 +28,7 @@ type Frontmatter = {
   services?: { name: string; short: string }[];
   faqs?: { q: string; a: string }[];
   lastmod?: string;
+  related?: { title: string; url: string }[];
 };
 
 export default function LokaleSeoPage() {
@@ -37,7 +38,7 @@ export default function LokaleSeoPage() {
 
   const mdPath = useMemo(
     () => `/src/content/landings/${city?.toLowerCase()}.md`,
-    [city]
+    [city],
   );
 
   useEffect(() => {
@@ -45,7 +46,10 @@ export default function LokaleSeoPage() {
     (async () => {
       try {
         // Dynamisch importeren via Vite: gebruik absolute url via import.meta.glob (veiliger)
-        const files = import.meta.glob("/src/content/landings/*.md", { as: "raw" });
+        const files = import.meta.glob("/src/content/landings/*.md", {
+          query: "?raw",
+          import: "default",
+        });
         const key = `/src/content/landings/${city?.toLowerCase()}.md`;
         if (!files[key]) throw new Error("Pagina niet gevonden");
 
@@ -55,12 +59,14 @@ export default function LokaleSeoPage() {
 
         setFm(data as Frontmatter);
         setHtml(md.render(content));
-      } catch (e) {
+      } catch {
         setFm(null);
         setHtml("<p>Deze stadspagina werd nog niet aangemaakt.</p>");
       }
     })();
-    return () => { isMounted = false; };
+    return () => {
+      isMounted = false;
+    };
   }, [mdPath, city]);
 
   // SEO/meta tags
@@ -68,7 +74,12 @@ export default function LokaleSeoPage() {
     if (!fm) return;
     document.title = fm.title || `Lokale SEO ${fm.city} | Xinudesign`;
 
-    const setMeta = (selector: string, attr: "name" | "property", value: string, content: string) => {
+    const setMeta = (
+      selector: string,
+      attr: "name" | "property",
+      value: string,
+      content: string,
+    ) => {
       let tag = document.querySelector(`meta[${attr}='${value}']`);
       if (!tag) {
         tag = document.createElement("meta");
@@ -98,31 +109,46 @@ export default function LokaleSeoPage() {
 
     // JSON‑LD: LocalBusiness + FAQ (indien aanwezig)
     // Verwijder bestaande scripts die we eerder injecteerden
-    Array.from(document.querySelectorAll("script[data-ld='local']")).forEach(s => s.remove());
-    Array.from(document.querySelectorAll("script[data-ld='faq']")).forEach(s => s.remove());
+    Array.from(document.querySelectorAll("script[data-ld='local']")).forEach(
+      (s) => s.remove(),
+    );
+    Array.from(document.querySelectorAll("script[data-ld='faq']")).forEach(
+      (s) => s.remove(),
+    );
+    Array.from(
+      document.querySelectorAll("script[data-ld='breadcrumbs']"),
+    ).forEach((s) => s.remove());
 
     if (fm.address) {
       const localBusiness = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": "Xinudesign",
-        "image": "https://www.xinudesign.be/apple-touch-icon.png",
-        "url": fm.canonical,
-        "telephone": fm.phone,
-        "email": fm.email,
-        "address": {
+        name: "Xinudesign",
+        image: "https://www.xinudesign.be/apple-touch-icon.png",
+        url: fm.canonical,
+        telephone: fm.phone,
+        email: fm.email,
+        address: {
           "@type": "PostalAddress",
-          "streetAddress": fm.address.street,
-          "addressLocality": fm.address.locality,
-          "postalCode": fm.address.postalCode,
-          "addressCountry": fm.address.country
+          streetAddress: fm.address.street,
+          addressLocality: fm.address.locality,
+          postalCode: fm.address.postalCode,
+          addressCountry: fm.address.country,
         },
-        "areaServed": fm.city,
-        ...(fm.geo ? { "geo": { "@type": "GeoCoordinates", "latitude": fm.geo.lat, "longitude": fm.geo.lng } } : {}),
-        "sameAs": [
+        areaServed: fm.city,
+        ...(fm.geo
+          ? {
+              geo: {
+                "@type": "GeoCoordinates",
+                latitude: fm.geo.lat,
+                longitude: fm.geo.lng,
+              },
+            }
+          : {}),
+        sameAs: [
           "https://www.linkedin.com/in/michael-redant",
-          "https://www.instagram.com/michael-redant"
-        ]
+          "https://www.instagram.com/michael-redant",
+        ],
       };
       const s = document.createElement("script");
       s.type = "application/ld+json";
@@ -135,11 +161,11 @@ export default function LokaleSeoPage() {
       const faqLd = {
         "@context": "https://schema.org",
         "@type": "FAQPage",
-        "mainEntity": fm.faqs.map(f => ({
+        mainEntity: fm.faqs.map((f) => ({
           "@type": "Question",
-          "name": f.q,
-          "acceptedAnswer": { "@type": "Answer", "text": f.a }
-        }))
+          name: f.q,
+          acceptedAnswer: { "@type": "Answer", text: f.a },
+        })),
       };
       const s = document.createElement("script");
       s.type = "application/ld+json";
@@ -147,10 +173,43 @@ export default function LokaleSeoPage() {
       s.innerHTML = JSON.stringify(faqLd);
       document.head.appendChild(s);
     }
+
+    const breadcrumbLd = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: [
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: "https://www.xinudesign.be/",
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: "Lokale SEO",
+          item: "https://www.xinudesign.be/lokale-seo",
+        },
+        { "@type": "ListItem", position: 3, name: fm.city, item: fm.canonical },
+      ],
+    };
+    const b = document.createElement("script");
+    b.type = "application/ld+json";
+    b.dataset.ld = "breadcrumbs";
+    b.innerHTML = JSON.stringify(breadcrumbLd);
+    document.head.appendChild(b);
   }, [fm]);
 
   if (!fm) {
-    return <main className="px-4 py-20"><h1>Stad niet gevonden</h1><p>Maak eerst de landingspagina aan in <code>src/content/landings/{city}.md</code>.</p></main>;
+    return (
+      <main className="px-4 py-20">
+        <h1>Stad niet gevonden</h1>
+        <p>
+          Maak eerst de landingspagina aan in{" "}
+          <code>src/content/landings/{city}.md</code>.
+        </p>
+      </main>
+    );
   }
 
   return (
@@ -159,10 +218,19 @@ export default function LokaleSeoPage() {
         <header className="mb-8">
           <h1>{fm.h1 ?? fm.title}</h1>
           <p className="text-slate-600">{fm.description}</p>
+          <a
+            href="/contact"
+            className="inline-block mt-4 bg-blue-600 text-white px-5 py-3 rounded hover:bg-blue-700"
+          >
+            Plan een gesprek
+          </a>
           {fm.services?.length ? (
             <ul className="not-prose mt-4 grid gap-3">
-              {fm.services.map(s => (
-                <li key={s.name} className="p-3 rounded border border-slate-200 dark:border-slate-700">
+              {fm.services.map((s) => (
+                <li
+                  key={s.name}
+                  className="p-3 rounded border border-slate-200 dark:border-slate-700"
+                >
                   <strong>{s.name}:</strong> {s.short}
                 </li>
               ))}
@@ -171,6 +239,21 @@ export default function LokaleSeoPage() {
         </header>
 
         <section dangerouslySetInnerHTML={{ __html: html }} />
+
+        {fm.related?.length ? (
+          <section className="mt-12">
+            <h2>Lees ook</h2>
+            <ul className="list-disc ml-5">
+              {fm.related.map((r) => (
+                <li key={r.url}>
+                  <a href={r.url} className="text-blue-600 hover:underline">
+                    {r.title}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ) : null}
 
         {fm.faqs?.length ? (
           <section className="mt-12">
@@ -186,8 +269,11 @@ export default function LokaleSeoPage() {
           </section>
         ) : null}
 
-        <footer className="mt-12">
-          <a href="/contact" className="inline-block bg-blue-600 text-white px-5 py-3 rounded hover:bg-blue-700">
+        <footer className="mt-12 text-center">
+          <a
+            href="/contact"
+            className="inline-block bg-blue-600 text-white px-5 py-3 rounded hover:bg-blue-700"
+          >
             Plan een gesprek
           </a>
         </footer>

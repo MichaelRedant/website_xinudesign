@@ -17,11 +17,19 @@ try {
     const slug = file.replace(/\.mdx?$/, "");
     const content = await fs.readFile(path.join(landingsDir, file), "utf8");
     const { data } = matter(content);
-    const lastmod = data.date || new Date().toISOString().split("T")[0];
+
+    if (!data.slug || !data.canonical) {
+      console.warn(`⚠️ ${file} mist verplichte frontmatter (slug/canonical)`);
+      continue;
+    }
+
+    const stats = await fs.stat(path.join(landingsDir, file));
+    const lastmod = data.lastmod || stats.mtime.toISOString().split("T")[0];
+    const loc = data.canonical || `${baseUrl}/lokale-seo/${slug}`;
 
     entries += `
   <url>
-    <loc>${baseUrl}/landings/${slug}</loc>
+    <loc>${loc}</loc>
     <lastmod>${lastmod}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
