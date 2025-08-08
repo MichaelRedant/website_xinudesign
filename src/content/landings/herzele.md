@@ -39,6 +39,11 @@ faqs:
     a: "MVP binnen 2–4 weken afhankelijk van content & scope."
   - q: "Doen jullie ook Google Ads?"
     a: "Ja, van set‑up tot optimalisatie met duidelijke KPI’s."
+related:
+  - title: "SEO tips voor kmo's"
+    url: "/blog/seo-tips"
+  - title: "Case: Persona Vault"
+    url: "/projecten/persona-vault"
 lastmod: "2025-08-08"
 ---
 

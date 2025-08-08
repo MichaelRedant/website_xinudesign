@@ -26,7 +26,6 @@ export default function App() {
         <Route path="/cv" element={<Cv />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/lokale-seo/:city" element={<LokaleSeoPage />} />
-
       </Routes>
       <Footer />
     </>
