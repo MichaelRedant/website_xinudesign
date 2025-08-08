@@ -9,15 +9,19 @@ const date = new Date().toISOString();
 const sitemapFiles = [
   "sitemap-static.xml",
   "sitemap-blogs.xml",
-  "sitemap-landings.xml"
+  "sitemap-landings.xml",
 ];
 
-const entries = sitemapFiles.map(file => `
+const entries = sitemapFiles
+  .map(
+    (file) => `
   <sitemap>
     <loc>${baseUrl}/${file}</loc>
     <lastmod>${date}</lastmod>
   </sitemap>
-`).join("");
+`,
+  )
+  .join("");
 
 const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
