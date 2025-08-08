@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import { useEffect, useMemo, useState } from "react";
 import matter from "gray-matter";
 import MarkdownIt from "markdown-it";
+import { FaBullhorn, FaChartLine, FaCode } from "react-icons/fa";
 
 const md = new MarkdownIt({ html: true, linkify: true });
 
@@ -72,7 +73,7 @@ export default function LokaleSeoPage() {
   // SEO/meta tags
   useEffect(() => {
     if (!fm) return;
-    document.title = fm.title || `Lokale SEO ${fm.city} | Xinudesign`;
+    document.title = fm.title || `Diensten ${fm.city} | Xinudesign`;
 
     const setMeta = (
       selector: string,
@@ -187,8 +188,8 @@ export default function LokaleSeoPage() {
         {
           "@type": "ListItem",
           position: 2,
-          name: "Lokale SEO",
-          item: "https://www.xinudesign.be/lokale-seo",
+          name: "Diensten",
+          item: "https://www.xinudesign.be/diensten",
         },
         { "@type": "ListItem", position: 3, name: fm.city, item: fm.canonical },
       ],
@@ -212,10 +213,15 @@ export default function LokaleSeoPage() {
     );
   }
 
-  return (
+  const icons: Record<string, React.ComponentType> = {
+    Webdevelopment: FaCode,
+    "Advertising (Google & Meta)": FaBullhorn,
+    "Online marketing": FaChartLine,
+  };
 
+  return (
     <main>
-      <section className="px-4 py-24 text-center bg-gradient-to-r from-blue-600 to-sky-500 text-white">
+      <section className="px-4 py-24 text-center bg-gradient-to-br from-blue-600 via-purple-600 to-sky-500 text-white">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-4xl font-bold mb-4">{fm.h1 ?? fm.title}</h1>
           <p className="text-lg opacity-90">{fm.description}</p>
@@ -228,37 +234,28 @@ export default function LokaleSeoPage() {
         </div>
       </section>
 
-      <article className="prose prose-slate dark:prose-invert max-w-3xl mx-auto px-4 py-16">
+      <article className="prose prose-slate dark:prose-invert max-w-4xl mx-auto px-4 py-16">
         {fm.services?.length ? (
-          <ul className="not-prose my-8 grid gap-4 sm:grid-cols-2">
-            {fm.services.map((s) => (
-              <li
-                key={s.name}
-                className="p-4 rounded border border-slate-200 dark:border-slate-700"
-              >
-                <strong>{s.name}:</strong> {s.short}
-              </li>
-            ))}
-          </ul>
+          <div className="not-prose my-12 grid gap-6 md:grid-cols-3">
+            {fm.services.map((s) => {
+              const Icon = icons[s.name] ?? FaCode;
+              return (
+                <div
+                  key={s.name}
+                  className="p-6 bg-white dark:bg-slate-800 rounded-xl shadow border border-slate-100 dark:border-slate-700"
+                >
+                  <Icon className="w-6 h-6 text-blue-600 mb-4" />
+                  <h3 className="text-lg font-semibold mb-2">{s.name}</h3>
+                  <p className="text-sm text-slate-600 dark:text-slate-300">
+                    {s.short}
+                  </p>
+                </div>
+              );
+            })}
+          </div>
         ) : null}
 
         <section dangerouslySetInnerHTML={{ __html: html }} />
-
-        {fm.related?.length ? (
-          <section className="mt-12">
-            <h2>Lees ook</h2>
-            <ul className="list-disc ml-5">
-              {fm.related.map((r) => (
-                <li key={r.url}>
-                  <a href={r.url} className="text-blue-600 hover:underline">
-                    {r.title}
-                  </a>
-
-                </li>
-              ))}
-            </ul>
-          </section>
-        ) : null}
 
         {fm.related?.length ? (
           <section className="mt-12">
