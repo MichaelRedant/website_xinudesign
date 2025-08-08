@@ -213,6 +213,7 @@ export default function LokaleSeoPage() {
   }
 
   return (
+
     <main>
       <section className="px-4 py-24 text-center bg-gradient-to-r from-blue-600 to-sky-500 text-white">
         <div className="max-w-3xl mx-auto">
@@ -242,6 +243,22 @@ export default function LokaleSeoPage() {
         ) : null}
 
         <section dangerouslySetInnerHTML={{ __html: html }} />
+
+        {fm.related?.length ? (
+          <section className="mt-12">
+            <h2>Lees ook</h2>
+            <ul className="list-disc ml-5">
+              {fm.related.map((r) => (
+                <li key={r.url}>
+                  <a href={r.url} className="text-blue-600 hover:underline">
+                    {r.title}
+                  </a>
+
+                </li>
+              ))}
+            </ul>
+          </section>
+        ) : null}
 
         {fm.related?.length ? (
           <section className="mt-12">
