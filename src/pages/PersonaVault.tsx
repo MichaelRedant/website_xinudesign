@@ -119,7 +119,7 @@ export default function PersonaVault() {
         </p>
 
         <img
-          src="/assets/img/screenVault.png"
+          src="/assets/img/screenshot.png"
           alt="Persona Vault dashboard"
           className="rounded-2xl shadow-2xl mx-auto w-full"
         />

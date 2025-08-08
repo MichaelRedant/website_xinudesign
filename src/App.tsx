@@ -9,6 +9,7 @@ import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import Cv from "./pages/Cv";
 import PersonaVault from "./pages/PersonaVault";
+import LokaleSeoPage from "./pages/LokaleSeoPage";
 
 export default function App() {
   useEffect(() => {
@@ -24,6 +25,8 @@ export default function App() {
         <Route path="/persona-vault" element={<PersonaVault />} />
         <Route path="/cv" element={<Cv />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/lokale-seo/:city" element={<LokaleSeoPage />} />
+
       </Routes>
       <Footer />
     </>

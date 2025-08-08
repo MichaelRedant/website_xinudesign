@@ -30,7 +30,7 @@ export default function ProjectSection() {
               </li>
             </ul>
             <a
-              href="https://personavault.xinudesign.be"
+              href="https://www.xinudesign.be/vault/"
               className="inline-flex items-center gap-2 px-8 py-4 mt-8 text-white bg-blue-600 rounded-full hover:bg-blue-700 hover:scale-105 transition"
             >
               <FaRocket />
@@ -39,7 +39,7 @@ export default function ProjectSection() {
           </div>
           <div className="relative" data-aos="zoom-in" data-aos-delay="100">
             <img
-              src="/assets/img/screenVault.png"
+              src="/assets/img/screenshot.png"
               alt="Persona Vault scherm"
               className="w-full rounded-2xl shadow-2xl border border-white/20"
             />
