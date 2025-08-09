@@ -15,7 +15,7 @@ const Home: React.FC = () => {
       <NewSection />
       <Specializations />
       <ProjectSection />
-      <RegionSection />
+
     </>
   );
 };

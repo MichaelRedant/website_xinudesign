@@ -1,16 +1,20 @@
 ---
-title: "Webdesign & SEO in Herzele | Xinudesign"
-h1: "Webdesign & SEO in Herzele"
+title: "Webdesign, Advertising & SEO in Herzele | Xinudesign"
+h1: "Webdesign, Advertising & SEO in Herzele"
 slug: "herzele"
 city: "Herzele"
 province: "Oost-Vlaanderen"
 primaryKeyword: "webdesign Herzele"
 secondaryKeywords:
   - "SEO Herzele"
+  - "SEA Herzele"
   - "webdesigner Herzele"
   - "lokale SEO Herzele"
-description: "Zoek je een webdesigner of SEO‑specialist in Herzele? Xinudesign helpt kmo’s met snelle, vindbare websites, AI‑marketing en lokale SEO."
+  - "Google Ads Herzele"
+description: "Xinudesign helpt Herzeelse ondernemers groeien met snelle websites, slimme advertenties en lokale SEO die écht opvalt."
 canonical: "https://www.xinudesign.be/diensten/herzele"
+image: "/assets/img/landingpages/herzele.png"
+video: "/assets/video/ai_video.mp4"
 phone: "+32 496 90 85 03"
 email: "michael.redant2@telenet.be"
 address:
@@ -23,31 +27,36 @@ geo:
   lng: 3.8864
 services:
   - name: "Webdevelopment"
-    short: "Maatwerk websites met focus op snelheid, SEO en conversie."
+    short: "Razendsnelle, mobielvriendelijke websites die scoren in Google én klanten overtuigen."
   - name: "Advertising (Google & Meta)"
-    short: "Gerichte campagnes via Google Ads en Meta voor meer leads."
-  - name: "Online marketing"
-    short: "Strategieën en content die je merk lokaal doet groeien."
+    short: "Slim getargete campagnes die Herzeelse klanten rechtstreeks naar jouw aanbod brengen."
+  - name: "Lokale SEO & Online marketing"
+    short: "Strategieën die lokale zoekopdrachten omzetten in concrete aanvragen en verkopen."
 faqs:
-  - q: "Werken jullie ook op locatie in Herzele?"
-    a: "Ja. We werken hybride: remote en op locatie indien nodig."
-  - q: "Hoe snel staat mijn website voor een bedrijf in Herzele online?"
-    a: "Een eerste versie staat er meestal binnen 2–4 weken, afhankelijk van content en scope."
-  - q: "Beheren jullie ook Google Ads voor ondernemingen uit Herzele?"
-    a: "Ja, van set‑up tot optimalisatie met duidelijke KPI’s."
-related:
-  - title: "SEO tips voor kmo's"
-    url: "/blog/seo-tips"
-  - title: "Case: Persona Vault"
-    url: "/projecten/persona-vault"
-lastmod: "2025-08-08"
+  - q: "Werken jullie ook ter plaatse in Herzele?"
+    a: "Zeker! We komen graag bij je langs in Herzele of één van de deelgemeenten zoals Borsbeke, Hillegem of Ressegem voor een persoonlijke strategie-sessie."
+  - q: "Hoe spelen jullie in op Herzeelse eigenheid?"
+    a: "We verwerken lokale herkenningspunten zoals het Kasteel van Ressegem, de Sint-Martinuskerk en evenementen zoals de Jaarmarkt in je content en advertenties. Dat verhoogt de herkenbaarheid en binding."
+  - q: "Hoe snel kan mijn nieuwe website online staan?"
+    a: "Bij vlotte samenwerking en complete content is jouw website vaak binnen 2 tot 3 weken live."
+  - q: "Kunnen jullie advertenties specifiek op Herzele richten?"
+    a: "Ja. We segmenteren doelgroepen op locatie, interesses en gedrag om precies de Herzeelse consument te bereiken die je zoekt."
+  - q: "Hoe zorgen jullie dat ik bovenaan in lokale zoekresultaten kom?"
+    a: "Door je Google Business-profiel, NAP-gegevens, lokale backlinks en trefwoorden zoals 'Herzeelse webdesigner' te optimaliseren. We koppelen dat aan relevante lokale evenementen voor maximale impact."
+lastmod: "2025-08-09"
 ---
 
-**Digitale oplossingen voor Herzeelse kmo’s**
-We ontwikkelen snelle en schaalbare websites die inspelen op de noden van ondernemingen in Herzele. Je site wordt gebouwd met oog voor conversie en geoptimaliseerd voor zoekmachines.
+**Digitale groei op maat van Herzele**  
+Xinudesign bouwt snelle, gebruiksvriendelijke websites voor ondernemingen in en rond Herzele. Of je nu een gezellige winkel in het centrum runt of een groeiend bedrijf in één van de deelgemeenten, wij zorgen voor een professionele online uitstraling die scoort.
 
-**Bereik je publiek met slimme advertenties**
-Met advertenties op Google en Meta spreken we inwoners van Herzele en omstreken gericht aan. Via continue A/B‑testing en rapportage halen we het maximum uit je marketingbudget.
+**Advertenties die de Herzeelse markt raken**  
+Met hypergerichte Google Ads en Meta-campagnes bereiken we exact de mensen die jij wil aanspreken. Dankzij voortdurende analyse en optimalisatie blijft je advertentiebudget maximaal renderen.
 
-**Online marketing die je merk versterkt**
-We combineren lokale SEO, contentcreatie en marketingautomatisatie om je bedrijf in Herzele duurzaam te laten groeien. Geen losse acties, maar een doordachte digitale strategie.
+**Lokale SEO met herkenningseffect**  
+Wij stemmen je zoekmachine-optimalisatie af op de zoektermen en interesses van inwoners van Herzele. Door lokale troeven en herkenbare plekken te verwerken in je online content, stijg je niet alleen in ranking, maar ook in relevantie.
+
+**Content met een Herzeels tintje**  
+Van blogartikelen tot social media-posts: wij creëren content die aansluit bij het leven in Herzele. Met slimme AI-ondersteuning zorgen we dat jouw boodschap altijd actueel, vindbaar en overtuigend blijft.
+
+**Langetermijnpartnerschap voor blijvend succes**  
+Onze samenwerking stopt niet na de lancering. We monitoren, sturen bij en blijven je strategie verfijnen zodat je onderneming ook in de toekomst digitaal vooroploopt in Herzele en daarbuiten.

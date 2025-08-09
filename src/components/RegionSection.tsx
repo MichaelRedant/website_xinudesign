@@ -17,7 +17,7 @@ export default function RegionSection() {
       const { data } = matter(raw);
       return { city: data.city as string, slug: data.slug as string };
     })
-    .slice(0, 6);
+
 
   if (!cityLinks.length) return null;
 
