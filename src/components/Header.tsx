@@ -8,6 +8,7 @@ const navItems = [
   { to: "/services", label: "Services" },
   { to: "/werk", label: "Werk" }, */
   { to: "/persona-vault", label: "Persona Vault" },
+  { to: "/portfolio", label: "Portfolio" },
   { to: "/cv", label: "Mijn cv" },
   { to: "/contact", label: "Contact" },
 ];

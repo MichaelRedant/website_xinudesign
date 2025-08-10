@@ -11,6 +11,7 @@ import Cv from "./pages/Cv";
 import PersonaVault from "./pages/PersonaVault";
 import LokaleSeoPage from "./pages/LokaleSeoPage";
 import RegionSection from "./components/RegionSection";
+import Portfolio from "./pages/Portfolio";
 
 export default function App() {
   useEffect(() => {
@@ -25,6 +26,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/persona-vault" element={<PersonaVault />} />
+          <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/cv" element={<Cv />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/diensten/:city" element={<LokaleSeoPage />} />
