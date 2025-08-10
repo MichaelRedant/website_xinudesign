@@ -60,3 +60,6 @@ Blogs, nieuwsbrieven en landingspagina’s krijgen een lokale touch, waardoor ze
 
 **Blijvende ondersteuning en groei**  
 We volgen je prestaties op en sturen je strategie bij waar nodig, zodat je online aanwezigheid blijft meegroeien met je onderneming in Wetteren.
+
+**Klaar om Wetteren online te veroveren?**
+Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Wetteren.

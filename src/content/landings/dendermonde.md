@@ -60,3 +60,6 @@ We creëren teksten, visuals en landingspagina’s die de Dendermondse klant aan
 
 **Blijvende online ondersteuning**  
 We blijven je resultaten monitoren en optimaliseren, zodat je onderneming digitaal blijft groeien in Dendermonde en omgeving.
+
+**Klaar om Dendermonde online te veroveren?**
+Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Dendermonde.

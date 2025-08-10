@@ -47,6 +47,7 @@ lastmod: "2025-08-09"
 ---
 
 ---
+
 **Digitale groei voor Ledese ondernemers**
 Xinudesign bouwt websites die niet alleen mooi ogen, maar ook resultaat opleveren. Van een kapsalon in Oordegem tot een KMO in het centrum van Lede: wij zorgen dat jouw online aanwezigheid klanten aantrekt én omzet genereert.
 
@@ -61,3 +62,6 @@ Of het nu gaat om landingspagina’s, blogs of social media posts: wij maken con
 
 **Een partner voor de lange termijn**
 We denken mee met jouw groeiverhaal en passen je strategie aan wanneer de markt verandert. Zo blijft je bedrijf digitaal sterk staan.
+
+**Klaar om Lede online te veroveren?**
+Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Lede.

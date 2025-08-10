@@ -60,3 +60,6 @@ We creëren blogs, nieuwsbrieven en visuals die inspelen op lokale evenementen, 
 
 **Langdurige samenwerking en groei**  
 We volgen je resultaten op, passen strategieën aan en zorgen dat je digitaal blijft groeien — jaar na jaar.
+
+**Klaar om Oudenaarde online te veroveren?**
+Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Oudenaarde.

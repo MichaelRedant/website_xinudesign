@@ -60,3 +60,6 @@ Blogs, social media-posts en landingspagina’s krijgen een lokaal tintje dat in
 
 **Samen sterk op lange termijn**  
 Na de lancering blijven we meten, analyseren en bijsturen, zodat je bedrijf ook in de toekomst digitaal sterk blijft in Erpe-Mere en omgeving.
+
+**Klaar om Erpe-Mere online te veroveren?**
+Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Erpe-Mere.

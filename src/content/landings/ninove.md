@@ -60,3 +60,6 @@ We maken blogs, nieuwsbrieven en landingspagina’s die inspelen op Ninoofse the
 
 **Duurzame digitale samenwerking**  
 We blijven je resultaten opvolgen en je strategie verfijnen, zodat jouw online aanwezigheid meegroeit met je onderneming in Ninove.
+
+**Klaar om Ninove online te veroveren?**
+Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Ninove.

@@ -60,3 +60,6 @@ Blogs, social media en landingspagina’s krijgen een Geraardsbergse toets, zoda
 
 **Een partner die meedenkt en meegroeit**  
 We blijven je strategie opvolgen, optimaliseren en aanpassen aan de markt. Zo blijft je bedrijf ook op lange termijn relevant in Geraardsbergen en omgeving.
+
+**Klaar om Geraardsbergen online te veroveren?**
+Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Geraardsbergen.
