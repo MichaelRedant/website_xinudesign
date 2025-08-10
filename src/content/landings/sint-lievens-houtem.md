@@ -62,4 +62,4 @@ Landingspagina’s, blogs en social posts worden geschreven met een lokale inste
 We blijven je strategie opvolgen, verfijnen en uitbreiden zodat je online positie jaar na jaar sterker wordt in Sint-Lievens-Houtem en omgeving.
 
 **Klaar om Sint-Lievens-Houtem online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Sint-Lievens-Houtem.
+Bel gratis naar +32 496 90 85 03 of mail naar michael@xinudesign.be voor een vrijblijvend gesprek in Sint-Lievens-Houtem.
