@@ -5,26 +5,29 @@ import { FaExternalLinkAlt } from "react-icons/fa";
 
 interface PortfolioItem {
   title: string;
+  url?: string;
 }
 
+const defaultLink = "https://pixapop.be/webdesign-realisaties/";
+
 const items: PortfolioItem[] = [
-  
   { title: "Ann Coene" },
   { title: "Aqualand Fit & Sports Center" },
   { title: "Asbest Keuren Vlaanderen" },
   { title: "BP-Pleisterwerken" },
-  
+
   { title: "Cirusso Art" },
- 
+
   { title: "De Speelerij" },
- 
+
   { title: "Golfbiljart Aalst" },
 
-  { title: "Berenatelier Jill & Jules" },
+  { title: "Berenatelier Jill & Jules", url: "https://www.jill-jules.be/" },
   { title: "Home-To-Bees" },
-
-
-
+  {
+    title: "Planten en Zaden Ponnet",
+    url: "https://www.plantenenzadenponnet.be",
+  },
 
   { title: "Lexarix" },
   { title: "Malok" },
@@ -33,15 +36,12 @@ const items: PortfolioItem[] = [
   { title: "Pixapop" },
   { title: "Poezen op Zolder" },
 
-
-
   { title: "Rouwatelier" },
-
 
   { title: "Spirit By Lien" },
   { title: "Summa Pace" },
-  { title: "Octopus" },
-  { title: "Octopus Academy" },
+  { title: "Octopus", url: "https://www.octopus.be" },
+  { title: "Octopus Academy", url: "https://academy.octopus.be/nl/" },
 ];
 
 export default function Portfolio() {
@@ -77,13 +77,15 @@ export default function Portfolio() {
               </a>{" "}
               – een ervaren webdesigner. Samen realiseren we{" "}
               <strong>professionele websites</strong> die niet alleen visueel
-              sterk zijn, maar ook{" "}
-              <strong>SEO-geoptimaliseerd</strong> en gericht op conversie.
+              sterk zijn, maar ook <strong>SEO-geoptimaliseerd</strong> en
+              gericht op conversie.
             </p>
             <p className="mt-4 text-gray-700 dark:text-gray-300">
-              Hieronder vind je een greep uit de projecten waar we trots op zijn.
-              Deze realisaties tonen onze brede expertise: van lokale kmo’s en
-              zelfstandigen tot sportcentra en e-commerceplatformen.
+              Hieronder vind je een greep uit de projecten waar we trots op
+              zijn. Deze realisaties tonen onze brede expertise: van lokale
+              kmo’s en zelfstandigen tot sportcentra en e-commerceplatformen.
+              Het merendeel van deze projecten werd ontwikkeld in opdracht van
+              Pixapop; eigen projecten linken rechtstreeks naar de website.
             </p>
           </motion.div>
         </section>
@@ -103,10 +105,10 @@ export default function Portfolio() {
               },
             }}
           >
-            {items.map(({ title }) => (
+            {items.map(({ title, url }) => (
               <motion.a
                 key={title}
-                href="https://pixapop.be/webdesign-realisaties/"
+                href={url ?? defaultLink}
                 target="_blank"
                 rel="noopener noreferrer"
                 initial={{ opacity: 0, y: 20 }}
