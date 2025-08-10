@@ -3,7 +3,7 @@ export default function Hero() {
   return (
     <section className="relative flex items-center justify-center min-h-screen overflow-hidden">
       <video
-        src="/assets/video/ai_video.mp4"
+        src="/assets/video/ai_videowm.webm"
         className="absolute inset-0 object-cover w-full h-full"
         autoPlay
         loop
