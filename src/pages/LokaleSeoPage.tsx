@@ -193,6 +193,7 @@ export default function LokaleSeoPage() {
         jsonLd={jsonLd}
         image={imageUrl}
         keywords={keywordList}
+        lastmod={fm.lastmod}
       />
       <main className="relative overflow-hidden">
         {/* HERO: vaste video + stadsspecifieke image overlay */}

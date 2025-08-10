@@ -12,12 +12,10 @@ export default function RegionSection() {
     eager: true,
   }) as Record<string, string>;
 
-  const cityLinks: CityLink[] = Object.values(files)
-    .map((raw) => {
-      const { data } = matter(raw);
-      return { city: data.city as string, slug: data.slug as string };
-    })
-
+  const cityLinks: CityLink[] = Object.values(files).map((raw) => {
+    const { data } = matter(raw);
+    return { city: data.city as string, slug: data.slug as string };
+  });
 
   if (!cityLinks.length) return null;
 
@@ -34,9 +32,7 @@ export default function RegionSection() {
           {cityLinks.map((link) => (
             <a
               key={link.slug}
-
               href={`/diensten/${link.slug}`}
-
               className={[
                 "p-4 text-center rounded border border-slate-200 dark:border-slate-700",
                 "hover:bg-blue-50 dark:hover:bg-gray-800 transition",

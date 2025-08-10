@@ -60,3 +60,6 @@ Van blogartikelen tot social media-posts: wij creëren content die aansluit bij 
 
 **Langetermijnpartnerschap voor blijvend succes**  
 Onze samenwerking stopt niet na de lancering. We monitoren, sturen bij en blijven je strategie verfijnen zodat je onderneming ook in de toekomst digitaal vooroploopt in Herzele en daarbuiten.
+
+**Klaar om Herzele online te veroveren?**
+Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Herzele.

@@ -7,6 +7,7 @@ interface SeoProps {
   jsonLd?: Record<string, unknown> | Record<string, unknown>[];
   image?: string;
   keywords?: string[];
+  lastmod?: string;
 }
 
 const Seo: React.FC<SeoProps> = ({
@@ -16,6 +17,7 @@ const Seo: React.FC<SeoProps> = ({
   jsonLd,
   image,
   keywords,
+  lastmod,
 }) => {
   const jsonLdArray = Array.isArray(jsonLd) ? jsonLd : jsonLd ? [jsonLd] : [];
   const keywordContent = keywords?.join(", ");
@@ -33,6 +35,9 @@ const Seo: React.FC<SeoProps> = ({
       {image && <meta property="og:image" content={image} />}
       <meta property="og:site_name" content="Xinudesign" />
       <meta property="og:locale" content="nl_BE" />
+      {lastmod && <meta property="article:modified_time" content={lastmod} />}
+      {lastmod && <meta property="og:updated_time" content={lastmod} />}
+      {lastmod && <meta name="last-modified" content={lastmod} />}
       {image && <meta name="twitter:card" content="summary_large_image" />}
       <meta name="twitter:title" content={title} />
       {description && <meta name="twitter:description" content={description} />}

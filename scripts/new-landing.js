@@ -20,7 +20,6 @@ const destPath = path.join(__dirname, "../src/content/landings", `${slug}.md`);
 const tpl = await fs.readFile(templatePath, "utf8");
 const today = new Date().toISOString().split("T")[0];
 
-
 let generatedContent = "";
 let generatedFaqs = [];
 
@@ -45,7 +44,6 @@ try {
           role: "user",
 
           content: `Geef JSON met de keys 'content' en 'faqs'. 'content' bevat ongeveer 800 karakters verdeeld over drie paragrafen over webdevelopment, adverteren via Google en Meta en online marketing voor kmo's in ${city}. 'faqs' is een array met drie relevante veelgestelde vragen en antwoorden over deze diensten in ${city}.`,
-
         },
       ],
     }),
@@ -80,7 +78,6 @@ const faqYaml = generatedFaqs
   )
   .join("\n");
 
-
 const content = tpl
   .replace(/{{City}}/g, city)
   .replace(/{{slug}}/g, slug)
@@ -88,7 +85,6 @@ const content = tpl
 
   .replace(/{{content}}/, generatedContent)
   .replace(/{{faqs}}/, faqYaml);
-
 
 await fs.writeFile(destPath, content);
 console.log(`✅ Landingspagina aangemaakt: ${destPath}`);

@@ -60,3 +60,6 @@ Blogs, landingspagina’s en social media-posts krijgen een Aalsters tintje, zod
 
 **Samen groeien, ook na de lancering**  
 Na de oplevering blijven we je digitale strategie opvolgen, bijsturen en verbeteren, zodat je ook op lange termijn zichtbaar blijft in Aalst en omstreken.
+
+**Klaar om Aalst online te veroveren?**
+Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Aalst.

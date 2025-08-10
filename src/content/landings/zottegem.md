@@ -60,3 +60,6 @@ Blogs, landingspagina’s en social media posts krijgen een lokale touch, waardo
 
 **Blijvende groei, ook na de lancering**  
 We volgen je online prestaties op en sturen bij waar nodig, zodat je jaar na jaar zichtbaarder blijft in Zottegem en omstreken.
+
+**Klaar om Zottegem online te veroveren?**
+Bel gratis naar +32 496 90 85 03 of mail naar michael.redant2@telenet.be voor een vrijblijvend gesprek in Zottegem.
