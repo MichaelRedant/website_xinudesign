@@ -109,6 +109,11 @@ export default function LokaleSeoPage() {
   // Defaults voor media
   const heroVideo = fm.video || "/assets/video/ai_video.mp4";
   const cityImage = fm.image || `/assets/img/landingpages/${fm.slug}.png`;
+  const imageUrl = `https://www.xinudesign.be${cityImage}`;
+  const keywordList = [
+    fm.primaryKeyword,
+    ...(fm.secondaryKeywords ?? []),
+  ].filter(Boolean) as string[];
 
   const jsonLd: Record<string, unknown>[] = [];
   if (fm.address) {
@@ -116,7 +121,8 @@ export default function LokaleSeoPage() {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
       name: "Xinudesign",
-      image: "https://www.xinudesign.be/apple-touch-icon.png",
+      image: imageUrl,
+      logo: "https://www.xinudesign.be/apple-touch-icon.png",
       url: fm.canonical,
       telephone: fm.phone,
       email: fm.email,
@@ -124,10 +130,12 @@ export default function LokaleSeoPage() {
         "@type": "PostalAddress",
         streetAddress: fm.address.street,
         addressLocality: fm.address.locality,
+        ...(fm.province ? { addressRegion: fm.province } : {}),
         postalCode: fm.address.postalCode,
         addressCountry: fm.address.country,
       },
       areaServed: fm.city,
+      ...(keywordList.length ? { keywords: keywordList.join(", ") } : {}),
       ...(fm.geo
         ? {
             geo: {
@@ -183,6 +191,8 @@ export default function LokaleSeoPage() {
         description={fm.description}
         canonical={fm.canonical}
         jsonLd={jsonLd}
+        image={imageUrl}
+        keywords={keywordList}
       />
       <main className="relative overflow-hidden">
         {/* HERO: vaste video + stadsspecifieke image overlay */}
