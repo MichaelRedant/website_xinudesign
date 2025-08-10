@@ -1,50 +1,145 @@
 import { motion } from "framer-motion";
+import { useState } from "react";
 import GlassPane from "../components/GlassPane";
+import Modal from "../components/Modal";
 import Seo from "../components/Seo";
-import { FaExternalLinkAlt } from "react-icons/fa";
+import { FaInfoCircle } from "react-icons/fa";
 
 interface PortfolioItem {
   title: string;
+  description: string;
   url?: string;
 }
 
 const defaultLink = "https://pixapop.be/webdesign-realisaties/";
 
 const items: PortfolioItem[] = [
-  { title: "Ann Coene" },
-  { title: "Aqualand Fit & Sports Center" },
-  { title: "Asbest Keuren Vlaanderen" },
-  { title: "BP-Pleisterwerken" },
-
-  { title: "Cirusso Art" },
-
-  { title: "De Speelerij" },
-
-  { title: "Golfbiljart Aalst" },
-
-  { title: "Berenatelier Jill & Jules", url: "https://www.jill-jules.be/" },
-  { title: "Home-To-Bees" },
+  {
+    title: "Ann Coen",
+    description:
+      "We bouwden lokale landingspagina's en optimaliseerden de on-page SEO zodat haar diensten lokaal beter gevonden worden.",
+  },
+  {
+    title: "Aqualand Fit & Sports Center",
+    description:
+      "We maakten conversiegerichte landingspagina's voor nieuwe sporten en integreerden een gebruiksvriendelijk afsprakensysteem.",
+  },
+  {
+    title: "Asbest Keuren Vlaanderen",
+    description:
+      "Volledige website met lokale landingspagina's en een solide on-page SEO-basis.",
+  },
+  {
+    title: "BP-Pleisterwerken",
+    description:
+      "Strak ontworpen landingspagina's en een uitgewerkte lokale SEO-strategie.",
+  },
+  {
+    title: "Cirusso Art",
+    description:
+      "Een artistieke website in samenwerking en interactieve formulieren die het contact stroomlijnen.",
+  },
+  {
+    title: "De Speelerij",
+    description:
+      "Wervende landingspagina's en SEO-optimalisatie voor meer zichtbaarheid.",
+  },
+  {
+    title: "Golfbiljart Aalst",
+    description:
+      "Laravel webapp met dynamische scorekaarten, live scores en slimme toernooiranking.",
+  },
+  {
+    title: "Berenatelier Jill & Jules",
+    url: "https://www.jill-jules.be/",
+    description: "Een warme website op maat met doordachte on-page SEO.",
+  },
+  {
+    title: "Home-To-Bees",
+    description:
+      "Lokale landingspagina's en on-page SEO voor een sterk regionaal bereik.",
+  },
   {
     title: "Planten en Zaden Ponnet",
     url: "https://www.plantenenzadenponnet.be",
+    description:
+      "Complete webshop met lokale landingspagina's en performante on-page SEO.",
   },
-
-  { title: "Lexarix" },
-  { title: "Malok" },
-  { title: "Merebelle" },
-  { title: "Optiek Optison" },
-  { title: "Pixapop" },
-  { title: "Poezen op Zolder" },
-
-  { title: "Rouwatelier" },
-
-  { title: "Spirit By Lien" },
-  { title: "Summa Pace" },
-  { title: "Octopus", url: "https://www.octopus.be" },
-  { title: "Octopus Academy", url: "https://academy.octopus.be/nl/" },
+  {
+    title: "Lexarix",
+    description: "Grondige on-page SEO-audit en optimalisatie.",
+  },
+  {
+    title: "Malok",
+    description:
+      "On-page SEO, lokale landingspagina's en doelgerichte Google Ads campagnes.",
+  },
+  {
+    title: "Merebelle",
+    description:
+      "Nieuwe landingspagina's – lokaal én algemeen – ondersteund door sterke on-page SEO.",
+  },
+  {
+    title: "Optiek Optison",
+    description:
+      "Volledig webdesign met interactieve formulieren, on-page SEO en lokale landingspagina's.",
+  },
+  {
+    title: "Pixapop",
+    description:
+      "On-page SEO-optimalisatie voor een beter presterend portfolio.",
+  },
+  {
+    title: "Poezen op Zolder",
+    description:
+      "Specifieke lokale landingspagina's om adoptanten in de buurt te bereiken.",
+  },
+  {
+    title: "Rouwatelier",
+    description:
+      "Lokale landingspagina's en on-page SEO voor een hogere zichtbaarheid.",
+  },
+  {
+    title: "Spirit By Lien",
+    description: "On-page SEO zodat haar coachingaanbod beter gevonden wordt.",
+  },
+  {
+    title: "Summa Pace",
+    description:
+      "Lokale landingspagina's, een stevig SEO-fundament en gerichte Google & Meta Ads.",
+  },
+  {
+    title: "Octopus",
+    url: "https://www.octopus.be",
+    description:
+      "Meertalige website uit Figma en WordPress, met interactieve formulieren, geautomatiseerde salesfunnel, afspraakmodule en geïntegreerde Google & Meta Ads.",
+  },
+  {
+    title: "Octopus Academy",
+    url: "https://academy.octopus.be/nl/",
+    description:
+      "Volledige meertalige LMS-site met interactieve formulieren en op maat ontworpen leermanagementsysteem.",
+  },
+  {
+    title: "Persona Vault",
+    description:
+      "Lopend project: een veilige digitale kluis voor gepersonaliseerde data.",
+  },
+  {
+    title: "AI Chatbot",
+    description:
+      "WordPress plugin met directe OpenAI-integratie voor slimme conversaties.",
+  },
+  {
+    title: "Factuur Studio",
+    description:
+      "WordPress plugin om facturen te genereren en Peppol-documenten rechtstreeks te versturen via een Elementor-frontend.",
+  },
 ];
 
 export default function Portfolio() {
+  const [selectedItem, setSelectedItem] = useState<PortfolioItem | null>(null);
+
   return (
     <>
       <Seo
@@ -105,12 +200,11 @@ export default function Portfolio() {
               },
             }}
           >
-            {items.map(({ title, url }) => (
-              <motion.a
-                key={title}
-                href={url ?? defaultLink}
-                target="_blank"
-                rel="noopener noreferrer"
+            {items.map((item) => (
+              <motion.button
+                key={item.title}
+                type="button"
+                onClick={() => setSelectedItem(item)}
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
@@ -118,13 +212,21 @@ export default function Portfolio() {
                 className="p-4 rounded-xl bg-white/50 dark:bg-white/10 backdrop-blur border border-white/20 dark:border-white/10 shadow-sm hover:shadow-lg hover:scale-[1.02] transition-all"
               >
                 <div className="flex items-center justify-between">
-                  <span className="font-medium">{title}</span>
-                  <FaExternalLinkAlt className="h-3 w-3 text-blue-500" />
+                  <span className="font-medium">{item.title}</span>
+                  <FaInfoCircle className="h-4 w-4 text-blue-500" />
                 </div>
-              </motion.a>
+              </motion.button>
             ))}
           </motion.div>
         </GlassPane>
+
+        <Modal
+          isOpen={Boolean(selectedItem)}
+          onClose={() => setSelectedItem(null)}
+          title={selectedItem?.title ?? ""}
+          description={selectedItem?.description ?? ""}
+          link={selectedItem ? (selectedItem.url ?? defaultLink) : undefined}
+        />
 
         {/* CTA */}
         <motion.section
