@@ -15,7 +15,7 @@ const defaultLink = "https://pixapop.be/webdesign-realisaties/";
 
 const items: PortfolioItem[] = [
   {
-    title: "Ann Coen",
+    title: "Ann Coene",
     description:
       "We bouwden lokale landingspagina's en optimaliseerden de on-page SEO zodat haar diensten lokaal beter gevonden worden.",
   },
