@@ -2,12 +2,13 @@ import { useParams } from "react-router-dom";
 import { useEffect, useMemo, useState } from "react";
 import matter from "gray-matter";
 import MarkdownIt from "markdown-it";
-import { motion } from "framer-motion";
+import { motion, easeOut } from "framer-motion";
 
 import { FaBullhorn, FaChartLine, FaCode } from "react-icons/fa";
 import Seo from "../components/Seo";
 
 const md = new MarkdownIt({ html: true, linkify: true });
+const mdFaq = new MarkdownIt({ html: true, linkify: true });
 
 // Frontmatter type
 type Frontmatter = {
@@ -39,7 +40,7 @@ type Frontmatter = {
 // Motion helpers
 const reveal = {
   hidden: { opacity: 0, y: 28 },
-  show: { opacity: 1, y: 0, transition: { duration: 0.55, ease: "easeOut" } },
+  show: { opacity: 1, y: 0, transition: { duration: 0.55, ease: easeOut } },
 };
 const stagger = {
   hidden: { opacity: 0 },
@@ -99,7 +100,7 @@ export default function LokaleSeoPage() {
     );
   }
 
-  const icons: Record<string, React.ComponentType> = {
+  const icons: Record<string, React.ComponentType<React.SVGProps<SVGSVGElement>>> = {
     Webdevelopment: FaCode,
     "Advertising (Google & Meta)": FaBullhorn,
     "Lokale SEO & Online marketing": FaChartLine,
@@ -351,28 +352,28 @@ export default function LokaleSeoPage() {
             </motion.h2>
             <div className="space-y-3">
               {fm.faqs.map(({ q, a }) => (
-                <motion.details
-                  key={q}
-                  variants={reveal}
-                  className="group rounded-xl border border-slate-200/70 bg-white p-4 shadow-sm
-                           dark:bg-slate-900 dark:border-slate-700"
-                >
-                  <summary className="cursor-pointer list-none font-medium flex items-center justify-between">
-                    <span>{q}</span>
-                    <span className="ml-4 text-slate-400 group-open:rotate-180 transition-transform">
-                      ⌄
-                    </span>
-                  </summary>
-                  <motion.div
-                    initial={{ opacity: 0, height: 0 }}
-                    whileInView={{ opacity: 1, height: "auto" }}
-                    viewport={{ once: true }}
-                    className="mt-2 text-slate-700 dark:text-slate-300 overflow-hidden"
-                  >
-                    {a}
-                  </motion.div>
-                </motion.details>
-              ))}
+  <motion.details
+    key={q}
+    variants={reveal}
+    className="group rounded-xl border border-slate-200/70 bg-white p-4 shadow-sm
+             dark:bg-slate-900 dark:border-slate-700"
+  >
+    <summary className="cursor-pointer list-none font-medium flex items-center justify-between">
+      <span dangerouslySetInnerHTML={{ __html: mdFaq.renderInline(q) }} />
+      <span className="ml-4 text-slate-400 group-open:rotate-180 transition-transform">
+        ⌄
+      </span>
+    </summary>
+    <motion.div
+      initial={{ opacity: 0, height: 0 }}
+      whileInView={{ opacity: 1, height: "auto" }}
+      viewport={{ once: true }}
+      className="mt-2 text-slate-700 dark:text-slate-300 overflow-hidden"
+    >
+      <div dangerouslySetInnerHTML={{ __html: mdFaq.render(a) }} />
+    </motion.div>
+  </motion.details>
+))}
             </div>
           </motion.section>
         ) : null}

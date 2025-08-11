@@ -9,14 +9,13 @@ secondaryKeywords:
   - "SEO Aalst"
   - "SEA Aalst"
   - "webdesigner Aalst"
-  - "lokale SEO Aalst"
   - "Google Ads Aalst"
-description: "Xinudesign versterkt Aalsterse ondernemingen met snelle websites, slimme advertenties en lokale SEO die inspeelt op de stad én haar inwoners."
+description: "Xinudesign helpt Aalsterse ondernemers met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en SEO-strategieën die inspelen op de troeven van de stad."
 canonical: "https://www.xinudesign.be/diensten/aalst"
 image: "/assets/img/landingpages/aalst.png"
 video: "/assets/video/ai_video.mp4"
 phone: "+32 496 90 85 03"
-email: "michael.redant2@telenet.be"
+email: "michael@xinudesign.be"
 address:
   street: "Provincieweg 34a"
   postalCode: "9552"
@@ -24,42 +23,59 @@ address:
   country: "BE"
 geo:
   lat: 50.936
-  lng: 4.041
+  lng: 4.040
 services:
   - name: "Webdevelopment"
-    short: "Professionele, snelle websites die Aalsterse klanten overtuigen en in Google scoren."
+    short: "Snelle, veilige websites die Aalsterse klanten overtuigen en converteren."
   - name: "Advertising (Google & Meta)"
-    short: "Gerichte campagnes die inspelen op de interesses en gewoonten van Aalstenaars."
+    short: "Slimme campagnes die inwoners van Aalst en deelgemeenten gericht bereiken."
   - name: "Lokale SEO & Online marketing"
-    short: "Strategieën die je onderneming lokaal op de kaart zetten en leads genereren."
+    short: "Optimalisaties die je zaak beter vindbaar maken in Aalst en omgeving."
 faqs:
   - q: "Werken jullie ook ter plaatse in Aalst?"
-    a: "Absoluut! We komen graag langs in Aalst en deelgemeenten zoals Meldert, Erembodegem en Hofstade voor een persoonlijk overleg."
-  - q: "Hoe spelen jullie in op Aalsterse eigenheid?"
-    a: "We verwerken herkenbare troeven zoals het Aalst Carnaval, de Grote Markt en lokale evenementen in je online content voor maximale herkenning."
-  - q: "Hoe snel kan mijn website online?"
-    a: "Met een goede voorbereiding en tijdige aanlevering van content staat jouw site vaak binnen 2 tot 3 weken live."
+    a: "Ja, indien gewenst plannen we een afspraak in Aalst of in de regio, maar online meetings zijn ook mogelijk voor snelle opvolging."
+  - q: "Hoe gebruiken jullie lokale elementen voor SEO?"
+    a: "We verwerken herkenbare referenties zoals de Grote Markt, de Hopmarkt, de Dender en evenementen zoals Aalst Carnaval in teksten, meta-data en visuals."
+  - q: "Hoe snel kan mijn website online zijn?"
+    a: "Met goede voorbereiding en duidelijke communicatie kan je website doorgaans binnen 2 tot 4 weken live gaan."
   - q: "Kunnen jullie advertenties specifiek richten op Aalst?"
-    a: "Ja. Met Google Ads en Meta-targeting bereiken we doelgroepen in Aalst en omliggende regio’s."
-  - q: "Hoe zorg ik dat mijn zaak bovenaan in Aalst getoond wordt?"
-    a: "We optimaliseren je Google Business-profiel, zorgen voor consistente NAP-gegevens, bouwen lokale backlinks en verwerken trefwoorden zoals 'webdesigner Aalst' in je content."
-lastmod: "2025-08-09"
+    a: "Ja, met Google Ads en Meta-targeting focussen we op Aalst, de deelgemeenten en omliggende regio's."
+  - q: "Hoe zorgen jullie dat mijn zaak lokaal beter gevonden wordt?"
+    a: "We optimaliseren je Google Business-profiel, zorgen voor NAP-consistentie en bouwen lokale backlinks rond zoekwoorden zoals 'webdesigner Aalst'."
+lastmod: "2025-08-11"
 ---
 
-**Digitale groei op Aalsterse maat**  
-Xinudesign ontwerpt en bouwt snelle, gebruiksvriendelijke websites voor bedrijven en handelaars in Aalst. Of je nu gevestigd bent in het hart van de stad of in een van de deelgemeenten, we zorgen dat jouw online aanwezigheid klanten aantrekt.
+**Digitale groei voor Aalsterse ondernemers**  
+Aalst bruist — van de Grote Markt en de Hopmarkt tot langs de Dender. In zo’n dynamische stad wil je dat je online zichtbaarheid net zo sterk is als je fysieke aanwezigheid. Xinudesign bouwt websites en marketingcampagnes die niet alleen mooi ogen, maar vooral nieuwe klanten opleveren. Of je nu een winkel hebt in het centrum, een horecazaak aan de Dender of een dienstverlenend bedrijf in Erembodegem of Nieuwerkerken: wij zorgen dat jouw merk gevonden, begrepen en gekozen wordt.
 
-**Advertenties die Aalst bereiken**  
-Met slimme Google Ads en Meta-campagnes brengen we jouw boodschap onder de aandacht van inwoners van Aalst en de regio. We testen, analyseren en optimaliseren om elk advertentie-euro optimaal te benutten.
+**Webdevelopment op maat van Aalst**  
+We bouwen snelle, gebruiksvriendelijke websites die scoren in Google én converteren. Afhankelijk van je noden werken we in **WordPress** (beheergemak) of realiseren we **maatwerk in HTML, CSS en React** voor maximale performantie. Elke site is mobielvriendelijk, scoort goed op Core Web Vitals en is logisch opgebouwd vanuit UX‑principes. Dankzij duidelijke navigatie, sterke call‑to‑actions en overzichtelijke contactflows verlaag je drempels en verhoog je het aantal aanvragen of bestellingen.
 
-**Lokale SEO met carnavaleske flair**  
-We stemmen je SEO af op de zoekopdrachten van Aalstenaars en koppelen dat aan iconische lokale elementen. Denk aan verwijzingen naar het Carnaval, de Sint-Martinuskerk of bekende pleinen om relevantie te verhogen.
+**Advertising: doelgericht bereik in stad en deelgemeenten**  
+Met **Google Ads** en **Meta Ads** zetten we campagnes op die precies de juiste mensen bereiken. We targeten hyperlokaal: centrum Aalst, maar ook **[Erembodegem](/diensten/erembodegem)**, **[Hofstade](/diensten/hofstade)**, **[Moorsel](/diensten/moorsel)**, **[Nieuwerkerken](/diensten/nieuwerkerken)** en **[Herdersem](/diensten/herdersem)**. Je advertentiebudget gaat zo niet verloren aan irrelevante klikken. Denk aan promospots rond piekmomenten (zaterdagnamiddag in het centrum), retargeting na een winkelbezoek of het uitspelen van seizoensacties.
 
-**Content die verbindt met de stad**  
-Blogs, landingspagina’s en social media-posts krijgen een Aalsters tintje, zodat je doelgroep zich aangesproken voelt. Dankzij AI-optimalisatie blijft je content altijd actueel en aantrekkelijk.
+**Lokale SEO met een Aalsterse insteek**  
+Aalst heeft een uitgesproken identiteit, en die laten we online meewegen. We verwerken herkenningspunten zoals de **Grote Markt**, **de Dender**, **Netwerk Aalst** en **Aalst Carnaval** in je content en metadata. Dat zorgt voor relevantie en herkenning. Intussen optimaliseren we je **Google Business‑profiel**, zorgen we voor **NAP‑consistentie** en bouwen we **lokale backlinks**. Zo verschijn je hoger in Maps en in organische resultaten wanneer iemand zoekt naar “webdesigner Aalst”, “kapper Hopmarkt”, “restaurant Dender”, enz.
 
-**Samen groeien, ook na de lancering**  
-Na de oplevering blijven we je digitale strategie opvolgen, bijsturen en verbeteren, zodat je ook op lange termijn zichtbaar blijft in Aalst en omstreken.
+**Data‑gedreven optimalisatie**  
+Geen nattevingerwerk: we meten, leren en sturen bij. Met **Google Analytics**, **Search Console** en **Piwik Pro** volgen we verkeer, gedrag en conversies op. Welke campagnes leveren de meeste aanvragen op? Waar haken bezoekers af? Welke zoektermen converteren effectief? Op basis van die inzichten scherpen we advertenties, content en UX continu aan.
 
-**Klaar om Aalst online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar [michael@xinudesign.be](mailto:michael@xinudesign.be) voor een vrijblijvend gesprek in Aalst.
+**Waarom kiezen voor Xinudesign in Aalst?**  
+
+- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.  
+- Technische én creatieve expertise onder één dak.  
+- Lokale feeling: we kennen het Aalsterse ondernemersklimaat.  
+- Flexibiliteit: op locatie indien nuttig, vaak ook efficiënt online.  
+- Resultaatgericht: focus op meetbare groei en rendement.
+
+**Interne links: heel Aalst verbonden**  
+Versterk je lokale autoriteit met gerichte interne links naar de deelgemeenten:  
+[Baardegem](/diensten/baardegem) • [Erembodegem](/diensten/erembodegem) • [Gijzegem](/diensten/gijzegem) • [Herdersem](/diensten/herdersem) • [Hofstade](/diensten/hofstade) • [Meldert](/diensten/meldert) • [Moorsel](/diensten/moorsel) • [Nieuwerkerken](/diensten/nieuwerkerken)
+
+Door deze interne verbindingen begrijpt Google dat jij de lokale specialist bent voor de héle regio Aalst.
+
+**Van eerste gesprek tot livegang**  
+We starten met een vrijblijvend gesprek om je doelen scherp te stellen. Vervolgens krijg je een helder plan met timing en deliverables. Tijdens de bouw houden we je op de hoogte en verwerken we feedback snel. Na de lancering blijven we beschikbaar voor onderhoud, uitbreiding en nieuwe campagnes, zodat je digitale aanwezigheid mee blijft groeien.
+
+**Klaar om Aalst online te veroveren?**  
+Bel **+32 496 90 85 03** of mail **[michael@xinudesign.be](mailto:michael@xinudesign.be)**. We denken graag mee — van de eerste schets tot succesvolle lancering.
