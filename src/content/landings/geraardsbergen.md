@@ -62,4 +62,4 @@ Blogs, social media en landingspagina’s krijgen een Geraardsbergse toets, zoda
 We blijven je strategie opvolgen, optimaliseren en aanpassen aan de markt. Zo blijft je bedrijf ook op lange termijn relevant in Geraardsbergen en omgeving.
 
 **Klaar om Geraardsbergen online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar michael@xinudesign.be voor een vrijblijvend gesprek in Geraardsbergen.
+Bel gratis naar +32 496 90 85 03 of mail naar [michael@xinudesign.be](mailto:michael@xinudesign.be) voor een vrijblijvend gesprek in Geraardsbergen.

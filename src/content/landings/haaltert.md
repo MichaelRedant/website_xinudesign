@@ -62,4 +62,4 @@ We maken SEO-proof teksten, blogartikels en socialmediaposts die inspelen op Haa
 Wij bouwen niet gewoon een website, we bouwen mee aan jouw groei. Met continue monitoring, updates en strategische aanpassingen zorgen we dat je online blijft presteren.
 
 **Klaar om Haaltert online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar michael@xinudesign.be voor een vrijblijvend gesprek in Haaltert.
+Bel gratis naar +32 496 90 85 03 of mail naar [michael@xinudesign.be](mailto:michael@xinudesign.be) voor een vrijblijvend gesprek in Haaltert.

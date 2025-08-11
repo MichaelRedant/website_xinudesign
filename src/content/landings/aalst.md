@@ -62,4 +62,4 @@ Blogs, landingspagina’s en social media-posts krijgen een Aalsters tintje, zod
 Na de oplevering blijven we je digitale strategie opvolgen, bijsturen en verbeteren, zodat je ook op lange termijn zichtbaar blijft in Aalst en omstreken.
 
 **Klaar om Aalst online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar michael@xinudesign.be voor een vrijblijvend gesprek in Aalst.
+Bel gratis naar +32 496 90 85 03 of mail naar [michael@xinudesign.be](mailto:michael@xinudesign.be) voor een vrijblijvend gesprek in Aalst.

@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import { motion } from "framer-motion";
 import GlassPane from "../components/GlassPane";
 import Seo from "../components/Seo";
@@ -202,11 +202,11 @@ export default function Contact() {
         setStatus("Bedankt! Je bericht is verzonden. Ik neem snel contact op.");
         // Optional: conversie events
         try {
-          // @ts-ignore
+          // @ts-expect-error: gtag may not be defined on the window object
           window.gtag?.("event", "lead", { method: "contact_form" });
-          // @ts-ignore
+          // @ts-expect-error: fbq may not be defined on the window object
           window.fbq?.("track", "Lead");
-        } catch {}
+        } catch { /* empty */ }
         form.reset();
         formStartRef.current = Date.now();
       } else {

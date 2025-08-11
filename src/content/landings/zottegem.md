@@ -62,4 +62,4 @@ Blogs, landingspagina’s en social media posts krijgen een lokale touch, waardo
 We volgen je online prestaties op en sturen bij waar nodig, zodat je jaar na jaar zichtbaarder blijft in Zottegem en omstreken.
 
 **Klaar om Zottegem online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar michael@xinudesign.be voor een vrijblijvend gesprek in Zottegem.
+Bel gratis naar +32 496 90 85 03 of mail naar [michael@xinudesign.be](mailto:michael@xinudesign.be) voor een vrijblijvend gesprek in Zottegem.

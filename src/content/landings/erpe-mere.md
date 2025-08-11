@@ -62,4 +62,4 @@ Blogs, social media-posts en landingspagina’s krijgen een lokaal tintje dat in
 Na de lancering blijven we meten, analyseren en bijsturen, zodat je bedrijf ook in de toekomst digitaal sterk blijft in Erpe-Mere en omgeving.
 
 **Klaar om Erpe-Mere online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar michael@xinudesign.be voor een vrijblijvend gesprek in Erpe-Mere.
+Bel gratis naar +32 496 90 85 03 of mail naar [michael@xinudesign.be](mailto:michael@xinudesign.be) voor een vrijblijvend gesprek in Erpe-Mere.

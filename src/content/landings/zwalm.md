@@ -62,4 +62,4 @@ We creëren blogs, social posts en landingspagina’s die relevant zijn voor Zwa
 Wij volgen je online prestaties op en passen je strategie aan waar nodig, zodat je ook op lange termijn zichtbaar en relevant blijft in Zwalm.
 
 **Klaar om Zwalm online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar michael@xinudesign.be voor een vrijblijvend gesprek in Zwalm.
+Bel gratis naar +32 496 90 85 03 of mail naar [michael@xinudesign.be](mailto:michael@xinudesign.be) voor een vrijblijvend gesprek in Zwalm.

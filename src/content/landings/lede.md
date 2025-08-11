@@ -64,4 +64,4 @@ Of het nu gaat om landingspagina’s, blogs of social media posts: wij maken con
 We denken mee met jouw groeiverhaal en passen je strategie aan wanneer de markt verandert. Zo blijft je bedrijf digitaal sterk staan.
 
 **Klaar om Lede online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar michael@xinudesign.be voor een vrijblijvend gesprek in Lede.
+Bel gratis naar +32 496 90 85 03 of mail naar [michael@xinudesign.be](mailto:michael@xinudesign.be) voor een vrijblijvend gesprek in Lede.

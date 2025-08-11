@@ -62,4 +62,4 @@ We maken blogs, nieuwsbrieven en landingspagina’s die inspelen op Ninoofse the
 We blijven je resultaten opvolgen en je strategie verfijnen, zodat jouw online aanwezigheid meegroeit met je onderneming in Ninove.
 
 **Klaar om Ninove online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar michael@xinudesign.be voor een vrijblijvend gesprek in Ninove.
+Bel gratis naar +32 496 90 85 03 of mail naar [michael@xinudesign.be](mailto:michael@xinudesign.be) voor een vrijblijvend gesprek in Ninove.
