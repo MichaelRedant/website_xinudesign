@@ -8,6 +8,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/dendermonde</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/erpe-mere</loc>
     <lastmod>2025-08-09</lastmod>
     <changefreq>monthly</changefreq>
@@ -20,13 +26,37 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/haaltert</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/herzele</loc>
     <lastmod>2025-08-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/lede</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/ninove</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/oordegem</loc>
+    <lastmod>2025-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/oudenaarde</loc>
     <lastmod>2025-08-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
