@@ -9,54 +9,98 @@ secondaryKeywords:
   - "SEO Oordegem"
   - "SEA Oordegem"
   - "webdesigner Oordegem"
-  - "lokale SEO Oordegem"
   - "Google Ads Oordegem"
-description: "Xinudesign helpt zelfstandigen en bedrijven in Oordegem groeien met snelle websites, gerichte advertentiecampagnes en sterke lokale SEO. Wij bouwen, adverteren en optimaliseren."
+description: "Xinudesign helpt ondernemers in Oordegem groeien met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/oordegem"
 image: "/assets/img/landingpages/oordegem.png"
 video: "/assets/video/ai_video.mp4"
 phone: "+32 496 90 85 03"
-email: "michael.redant2@telenet.be"
+email: "michael@xinudesign.be"
 address:
   street: "Provincieweg 34a"
   postalCode: "9552"
   locality: "Borsbeke"
   country: "BE"
 geo:
-  lat: 50.9531
-  lng: 3.9076
+  lat: 50.955
+  lng: 3.896
 services:
   - name: "Webdevelopment"
-    short: "Snel ladende, SEO-proof websites op maat, ontworpen om bezoekers om te zetten in klanten."
+    short: "Snelle, veilige websites die Oordegemse klanten overtuigen en converteren."
   - name: "Advertising (Google & Meta)"
-    short: "Doelgerichte campagnes die inspelen op het koopgedrag van inwoners in en rond Oordegem."
+    short: "Slimme campagnes die inwoners van Oordegem en omliggende dorpen gericht bereiken."
   - name: "Lokale SEO & Online marketing"
-    short: "Van het centrum tot de landelijke buitengebieden: wij zorgen dat jouw zaak gevonden wordt door de juiste doelgroep."
+    short: "Optimalisaties die je zaak beter vindbaar maken in Oordegem en omgeving."
 faqs:
   - q: "Werken jullie ook ter plaatse in Oordegem?"
-    a: "Absoluut. We combineren online overleg met persoonlijke afspraken bij jou in Oordegem, zodat we jouw project tot in detail begrijpen."
-  - q: "Hoe zorgen jullie dat mijn website lokaal scoort?"
-    a: "Door trefwoorden als 'webdesigner Oordegem' te gebruiken, en content te koppelen aan herkenbare locaties zoals het Dorpsplein, de Sint-Martinuskerk en lokale evenementen."
-  - q: "Kunnen jullie advertenties richten op Oordegem en buurgemeentes?"
-    a: "Ja, we targeten specifiek op Oordegem en omliggende plaatsen zoals Lede, Wetteren, Sint-Lievens-Houtem en Erpe-Mere."
-  - q: "Hoe snel kan mijn website live gaan?"
-    a: "Meestal binnen 2 tot 4 weken, afhankelijk van de complexiteit en aangeleverde content."
-  - q: "Bieden jullie ook doorlopende optimalisatie en onderhoud?"
-    a: "Ja, wij zorgen dat je site veilig, up-to-date en vindbaar blijft via onze onderhouds- en optimalisatiepakketten."
-lastmod: "2025-08-09"
+    a: "Ja, indien gewenst plannen we een afspraak in Oordegem of in naburige dorpen zoals [Smetlede](/diensten/smetlede), [Erondégem](/diensten/erondegem) en [Lede](/diensten/lede), maar online meetings zijn ook mogelijk voor snelle opvolging."
+  - q: "Hoe gebruiken jullie lokale elementen voor SEO?"
+    a: "We verwerken herkenbare referenties zoals het dorpsplein, de Sint-Martinuskerk en evenementen zoals de Oordegemse kermis in teksten, meta-data en visuals."
+  - q: "Hoe snel kan mijn website online zijn?"
+    a: "Met goede voorbereiding en duidelijke communicatie kan je website doorgaans binnen 2 tot 4 weken live gaan."
+  - q: "Kunnen jullie advertenties specifiek richten op Oordegem?"
+    a: "Ja, met Google Ads en Meta-targeting focussen we op Oordegem, omliggende deelgemeenten en specifieke doelgroepen in de regio Lede."
+  - q: "Hoe zorgen jullie dat mijn zaak lokaal beter gevonden wordt?"
+    a: "We optimaliseren je Google Business-profiel, zorgen voor NAP-consistentie en bouwen lokale backlinks rond zoekwoorden zoals 'webdesigner Oordegem'."
+lastmod: "2025-08-12"
 ---
 
-**Digitale groei voor Oordegemse ondernemers**
-Xinudesign bouwt websites die méér doen dan er goed uitzien. We zorgen voor snelheid, gebruiksvriendelijkheid en Google-optimalisatie, zodat jouw zaak — of je nu een winkel in het centrum hebt of een servicebedrijf in de buurt — echt klanten aantrekt.
+**Digitale groei voor ondernemers in Oordegem**  
+Oordegem, deelgemeente van Lede, staat bekend om zijn landelijke charme, hechte gemeenschap en goede verbindingen naar grotere steden zoals Aalst en Gent. Met zijn mix van lokale handelszaken, ambachtslui en dienstverleners is het een plek waar ondernemerschap leeft. Maar om in deze tijd zichtbaar te blijven, is een sterke **online aanwezigheid** net zo belangrijk als je fysieke locatie. Xinudesign helpt ondernemers in Oordegem om online te groeien met professionele websites en doordachte marketingstrategieën.
 
-**Advertenties die lokaal scoren**
-Met slimme Google Ads en Meta-campagnes bereiken we precies de inwoners van Oordegem die interesse hebben in jouw diensten. Van gerichte zoekadvertenties tot visuele campagnes op social media: alles wordt geoptimaliseerd voor maximaal rendement.
+**Webdevelopment op maat van Oordegem**  
+Elke zaak heeft zijn eigen verhaal. Wij vertalen dat verhaal naar een website die jouw merk versterkt en bezoekers overtuigt om klant te worden.  
 
-**Lokale SEO die impact maakt**
-We koppelen jouw online aanwezigheid aan Oordegemse zoekopdrachten en herkenbare locaties, zodat je niet alleen gevonden wordt, maar ook direct vertrouwen opwekt bij potentiële klanten.
+Onze aanpak:
 
-**Content die converteert**
-We creëren SEO-proof teksten, blogs en visuals die de lokale toon raken en bezoekers overtuigen om actie te ondernemen.
+- **Technisch sterk en snel ladend**: betere gebruikerservaring en hogere SEO-score.  
+- **Mobiel geoptimaliseerd**: omdat steeds meer mensen via smartphone zoeken.  
+- **Gebruiksvriendelijk design**: duidelijke navigatie en logische structuur.  
+- **SEO-proof**: met lokale zoekwoorden en relevante content.  
 
-**Een strategische partner voor de lange termijn**
-We volgen trends, analyseren data en passen je marketingstrategie continu aan, zodat jouw bedrijf digitaal relevant blijft in Oordegem en de omliggende regio.
+Of je nu een ambachtelijke bakker bent vlak bij het dorpsplein, een sportzaak hebt langs de verbindingswegen, of een B&B uitbaat in de rustige rand, wij zorgen voor een site die scoort in Google én in de ogen van je klanten.
+
+**Advertising: doelgericht bereik in Oordegem en omgeving**  
+Met **Google Ads** en **Meta Ads** maken we campagnes die gericht zijn op inwoners van Oordegem en omliggende dorpen zoals Smetlede, Erondégem en Lede.  
+
+We gebruiken:
+
+- **Geotargeting**: zodat je enkel zichtbaar bent voor relevante doelgroepen in je regio.  
+- **Gerichte zoekwoorden**: bv. “kapper Oordegem”, “webdesigner Oordegem” of “restaurant Lede”.  
+- **Aangepaste advertentieteksten en visuals**: herkenbaar voor mensen uit de streek.  
+
+Zo zetten we elk advertentiebudget in voor maximale impact, zonder verspilling aan irrelevante klikken.
+
+**Lokale SEO met een Oordegemse insteek**  
+Wil je dat je zaak bovenaan staat wanneer mensen in de buurt zoeken? Dan is **lokale SEO** onmisbaar. Wij optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen **lokale backlinks** vanuit betrouwbare bronnen.  
+
+Daarnaast verwerken we in je content herkenbare plaatsen zoals:
+
+- **Sint-Martinuskerk**
+- **Dorpsplein Oordegem**
+- **Oordegemse kermis**
+- **Lokale wandelroutes en fietspaden**
+- **Landelijke hoeves en bedrijven**
+
+Door deze elementen slim in teksten, meta-data en visuals te gebruiken, word je sneller herkend door Google én door je klanten.
+
+**Data-gedreven optimalisatie**  
+Meten is weten. Daarom volgen we via **Google Analytics**, **Search Console** en **Piwik Pro** nauwgezet op hoe bezoekers je site vinden, welke pagina’s ze bekijken en waar ze afhaken. Op basis van die inzichten verbeteren we:
+
+- De laadsnelheid en technische prestaties.  
+- De structuur en inhoud van je site.  
+- De targeting en boodschap van je advertenties.  
+
+**Waarom kiezen voor Xinudesign in Oordegem?**
+
+- Rechtstreeks contact met je webdesigner en marketeer.  
+- Technische én creatieve expertise in één pakket.  
+- Kennis van de lokale markt en ondernemers in Oordegem.  
+- Flexibele samenwerking: op locatie of via videocall.  
+- Focus op meetbare groei en langdurige resultaten.  
+
+**Van eerste idee tot succesvolle lancering**  
+We starten met een vrijblijvend gesprek waarin we je doelen en wensen bespreken. Daarna stellen we een concreet actieplan op met duidelijke stappen en deadlines. Tijdens de ontwikkeling blijf je op de hoogte en wordt je feedback snel verwerkt. Na de lancering ondersteunen we je met onderhoud, uitbreiding en nieuwe marketingcampagnes.
+
+**Klaar om Oordegem online te laten groeien?**  
+Bel **+32 496 90 85 03** of mail **[michael@xinudesign.be](mailto:michael@xinudesign.be)**. Samen zorgen we ervoor dat jouw onderneming in Oordegem sterker zichtbaar wordt — lokaal én daarbuiten.

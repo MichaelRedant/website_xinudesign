@@ -9,14 +9,13 @@ secondaryKeywords:
   - "SEO Zottegem"
   - "SEA Zottegem"
   - "webdesigner Zottegem"
-  - "lokale SEO Zottegem"
   - "Google Ads Zottegem"
-description: "Xinudesign helpt Zottegemse ondernemers groeien met snelle websites, gerichte advertenties en lokale SEO die inspeelt op de troeven van de Egmontstad."
+description: "Xinudesign helpt Zottegemse ondernemers groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van de stad."
 canonical: "https://www.xinudesign.be/diensten/zottegem"
 image: "/assets/img/landingpages/zottegem.png"
 video: "/assets/video/ai_video.mp4"
 phone: "+32 496 90 85 03"
-email: "michael.redant2@telenet.be"
+email: "michael@xinudesign.be"
 address:
   street: "Provincieweg 34a"
   postalCode: "9552"
@@ -27,39 +26,79 @@ geo:
   lng: 3.810
 services:
   - name: "Webdevelopment"
-    short: "Snel ladende, gebruiksvriendelijke websites die Zottegemse klanten overtuigen."
+    short: "Snelle, veilige websites die Zottegemse klanten overtuigen en converteren."
   - name: "Advertising (Google & Meta)"
-    short: "Doelgerichte campagnes die inspelen op het gedrag en de interesses van Zottegemnaars."
+    short: "Slimme campagnes die inwoners van Zottegem en deelgemeenten gericht bereiken."
   - name: "Lokale SEO & Online marketing"
-    short: "Strategieën die je zaak lokaal op de kaart zetten en leads genereren."
+    short: "Optimalisaties die je zaak beter vindbaar maken in Zottegem en omgeving."
 faqs:
   - q: "Werken jullie ook ter plaatse in Zottegem?"
-    a: "Zeker. We komen langs in Zottegem en omliggende dorpen zoals Velzeke, Strijpen, Godveerdegem en Erwetegem."
+    a: "Ja, wij komen langs in Zottegem of in omliggende deelgemeenten zoals [Velzeke](/diensten/velzeke), [Grotenberge](/diensten/grotenberge) en [Erwetegem](/diensten/erwetegem). Online afspraken zijn ook mogelijk."
   - q: "Hoe gebruiken jullie lokale elementen voor SEO?"
-    a: "We verwerken herkenbare referenties zoals het Egmontkasteel, de Markt, de jaarlijkse Egmontfeesten en het wielererfgoed in je content."
-  - q: "Hoe snel kan mijn website online?"
-    a: "Met een goede voorbereiding en snelle feedback kan jouw site al binnen 2 tot 4 weken live staan."
+    a: "We verwerken herkenbare plekken zoals het Egmontkasteel, de Markt, het stadspark en evenementen zoals de Egmontfeesten in teksten, meta-data en visuals."
+  - q: "Hoe snel kan mijn website online zijn?"
+    a: "Met een goede voorbereiding en duidelijke communicatie kan je website doorgaans binnen 2 tot 4 weken live gaan."
   - q: "Kunnen jullie advertenties specifiek richten op Zottegem?"
-    a: "Ja, met Google Ads en Meta-targeting mikken we precies op inwoners van Zottegem en de regio."
-  - q: "Hoe zorg ik dat mijn zaak in Zottegem beter vindbaar wordt?"
-    a: "We optimaliseren je Google Business-profiel, zorgen voor NAP-consistentie, bouwen lokale backlinks en gebruiken trefwoorden zoals 'webdesigner Zottegem'."
-lastmod: "2025-08-09"
+    a: "Ja, met Google Ads en Meta-targeting focussen we op Zottegem en omliggende regio’s, zodat jouw boodschap exact de juiste doelgroep bereikt."
+  - q: "Hoe zorgen jullie dat mijn zaak lokaal beter gevonden wordt?"
+    a: "We optimaliseren je Google Business-profiel, zorgen voor NAP-consistentie en bouwen lokale backlinks rond zoekwoorden zoals 'webdesigner Zottegem'."
+lastmod: "2025-08-12"
 ---
 
-**Digitale groei met Zottegemse flair**  
-Xinudesign bouwt performante websites die perfect inspelen op de lokale markt. Van horecazaken in het centrum tot zelfstandigen in de deelgemeenten: wij zetten jouw zaak online in de kijker.
+**Digitale groei voor ondernemers in Zottegem**  
+Zottegem is de Poort van de Vlaamse Ardennen en staat bekend om zijn historisch erfgoed, levendige stadskern en sterke handelszaken. Van een boetiek op de Markt tot een horecazaak aan de Heldenlaan of een dienstverlener in een van de deelgemeenten: lokale ondernemers hebben hier een trouw publiek én toeristen die op ontdekking komen. Xinudesign helpt je om die brede doelgroep ook online te bereiken.
 
-**Gerichte advertenties voor maximale impact**  
-Met datagedreven Google Ads en Meta-campagnes bereiken we exact de juiste doelgroep in Zottegem en omgeving. Zo haal je het maximum uit je marketingbudget.
+**Webdevelopment op maat van Zottegem**  
+Elke website die we bouwen combineert **technische perfectie**, **sterk design** en **lokale relevantie**.  
 
-**Lokale SEO met Egmont-allure**  
-Door lokale herkenningspunten en evenementen in je SEO-strategie te verwerken, creëren we niet alleen vindbaarheid, maar ook een gevoel van verbondenheid bij je klanten.
+Onze aanpak:
+- **SEO-geoptimaliseerd** voor termen als “webdesign Zottegem” en “SEO Zottegem”.  
+- **Volledig mobielvriendelijk** voor vlotte toegang via smartphone.  
+- **Snelle laadtijden** voor betere Google-posities.  
+- **Gebruiksvriendelijke navigatie** voor hogere conversies.  
+- **Beveiligd met SSL** en volgens de nieuwste webstandaarden.  
 
-**Content die de Zottegemnaar aanspreekt**  
-Blogs, landingspagina’s en social media posts krijgen een lokale touch, waardoor ze meteen relevant en herkenbaar aanvoelen.
+We werken in **WordPress** voor flexibiliteit of bouwen **HTML/CSS/React** maatwerk voor maximale prestaties. Je krijgt altijd een website die scoort bij bezoekers én zoekmachines.
 
-**Blijvende groei, ook na de lancering**  
-We volgen je online prestaties op en sturen bij waar nodig, zodat je jaar na jaar zichtbaarder blijft in Zottegem en omstreken.
+**Advertising: doelgericht bereik in stad en deelgemeenten**  
+Met **Google Ads** en **Meta Ads** zetten we campagnes op die precies de juiste mensen aanspreken.  
 
-**Klaar om Zottegem online te veroveren?**
-Bel gratis naar +32 496 90 85 03 of mail naar [michael@xinudesign.be](mailto:michael@xinudesign.be) voor een vrijblijvend gesprek in Zottegem.
+Voorbeelden van targeting:
+- Hyperlokaal op het centrum en deelgemeenten zoals Velzeke, Godveerdegem, Erwetegem en Grotenberge.  
+- Promoties rond marktdagen, evenementen zoals de Egmontfeesten of sportwedstrijden.  
+- Retargeting voor eerdere websitebezoekers of geïnteresseerden in vergelijkbare diensten.  
+
+Zo gaat geen advertentiebudget verloren aan irrelevante klikken.
+
+**Lokale SEO met een Zottegemse insteek**  
+Wie in Zottegem zoekt naar producten of diensten, moet jou bovenaan vinden. Daarom werken we met een doordachte lokale SEO-strategie:
+- **Google Business-profiel optimaliseren** voor meer zichtbaarheid in Maps.  
+- **NAP-consistentie** op alle bedrijfsvermeldingen.  
+- **Lokale backlinks** van Zottegemse organisaties en partners.  
+- Verwerken van herkenbare plekken zoals:
+  - Egmontkasteel
+  - Stadspark Zottegem
+  - Marktplein
+  - Heldenlaan
+  - Egmontfeesten
+
+Deze aanpak verhoogt je zichtbaarheid én herkenning bij inwoners en bezoekers.
+
+**Data-gedreven optimalisatie**  
+Met **Google Analytics**, **Search Console** en **Piwik Pro** volgen we continu je prestaties op. Zo weten we precies welke campagnes, pagina’s en zoekwoorden de meeste leads en omzet opleveren. Met die inzichten sturen we continu bij voor maximale return.
+
+**Waarom kiezen voor Xinudesign in Zottegem?**  
+- Persoonlijke samenwerking en directe communicatielijnen.  
+- Technische en creatieve expertise onder één dak.  
+- Grondige kennis van de Zottegemse markt en omgeving.  
+- Flexibel: op locatie of volledig digitaal.  
+- Focus op meetbare groei en rendement.  
+
+**Interne links voor regionale SEO**  
+[Velzeke](/diensten/velzeke) • [Godveerdegem](/diensten/godveerdegem) • [Grotenberge](/diensten/grotenberge) • [Erwetegem](/diensten/erwetegem)
+
+**Van eerste gesprek tot lancering**  
+We starten met een vrijblijvend kennismakingsgesprek. Daarna maken we een concreet plan met duidelijke deadlines. Tijdens de ontwikkeling blijf je op de hoogte en na de livegang bieden we onderhoud, marketing en optimalisatie aan zodat je site blijft presteren.
+
+**Klaar om Zottegem online te veroveren?**  
+Bel **+32 496 90 85 03** of mail **[michael@xinudesign.be](mailto:michael@xinudesign.be)**. Samen bouwen we aan een website en online strategie die jouw onderneming in Zottegem doet groeien.

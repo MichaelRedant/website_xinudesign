@@ -2,14 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
+    <loc>https://www.xinudesign.be/diensten/aaigem</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/aalst</loc>
     <lastmod>2025-08-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/afsnee</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/appelterre</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/baardegem</loc>
     <lastmod>2025-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/bambrugge</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/belsele</loc>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -21,7 +51,7 @@
   </url>
   <url>
     <loc>https://www.xinudesign.be/diensten/borsbeke</loc>
-    <lastmod>2025-08-11</lastmod>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -38,6 +68,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/burst</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/denderhoutem</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/denderleeuw</loc>
     <lastmod>2025-08-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -50,14 +92,44 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/desteldonk</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/drongen</loc>
+    <lastmod>2025-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/erembodegem</loc>
     <lastmod>2025-08-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/erondegem</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/erpe-mere</loc>
     <lastmod>2025-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/erpe</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/erwetegem</loc>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -86,8 +158,26 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/godveerdegem</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/grotenberge</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/haaltert</loc>
     <lastmod>2025-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/heldergem</loc>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -116,6 +206,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/kerksken</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/lebbeke</loc>
     <lastmod>2025-08-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -128,8 +224,32 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/ledeberg</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/lierde</loc>
     <lastmod>2025-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/lokeren</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/mariakerke</loc>
+    <lastmod>2025-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/meerbeke</loc>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -146,6 +266,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/mendonk</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/mere</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/merelbeke</loc>
     <lastmod>2025-08-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -158,6 +290,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/nieuwkerken-waas</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/nieuwerkerken</loc>
     <lastmod>2025-08-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -165,13 +303,25 @@
   </url>
   <url>
     <loc>https://www.xinudesign.be/diensten/ninove</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/okegem</loc>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.xinudesign.be/diensten/oordegem</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/oostakker</loc>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -182,8 +332,26 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/ottergem</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/oudenaarde</loc>
     <lastmod>2025-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/outer</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/pollare</loc>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -194,8 +362,32 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/sinaai</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/sint-amandsberg</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/sint-antelinks</loc>
     <lastmod>2025-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/sint-denijs-westrem</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/sint-kruis-winkel</loc>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -206,8 +398,38 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/sint-niklaas</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/smetlede</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/steenhuize-wijnhuize</loc>
     <lastmod>2025-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/velzeke</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/vlekkem</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/voorde</loc>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -224,6 +446,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.xinudesign.be/diensten/wondelgem</loc>
+    <lastmod>2025-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.xinudesign.be/diensten/woubrechtegem</loc>
     <lastmod>2025-08-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -231,13 +459,19 @@
   </url>
   <url>
     <loc>https://www.xinudesign.be/diensten/zottegem</loc>
-    <lastmod>2025-08-09</lastmod>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.xinudesign.be/diensten/zwalm</loc>
     <lastmod>2025-08-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.xinudesign.be/diensten/zwijnaarde</loc>
+    <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
