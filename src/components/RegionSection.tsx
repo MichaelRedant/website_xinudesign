@@ -43,8 +43,6 @@ export default function RegionSection() {
   const [letter, setLetter] = useState<string>("*"); // '*' = alles
   const [visible, setVisible] = useState(PAGE_SIZE);
 
-  if (!allCities.length) return null;
-
   // 3) Letterchips die effectief voorkomen in de dataset
   const letters = useMemo(() => {
     const set = new Set<string>();
@@ -70,6 +68,8 @@ export default function RegionSection() {
         )
       : byLetter;
   }, [allCities, letter, q]);
+
+  if (!allCities.length) return null;
 
   const visibleItems = filtered.slice(0, visible);
 
@@ -99,7 +99,7 @@ export default function RegionSection() {
           </h2>
           <p className="mt-3 text-slate-600 dark:text-slate-300">
             Vind een lokale landingspagina voor jouw stad of gemeente. We bouwen
-            snelle websites en sterke SEO in Vlaanderen en omstreken.
+            snelle websites, doeltreffende advertenties en sterke SEO in Vlaanderen en omstreken.
           </p>
         </div>
 
