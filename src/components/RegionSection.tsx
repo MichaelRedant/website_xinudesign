@@ -1,4 +1,5 @@
 import matter from "gray-matter";
+import { useState } from "react";
 
 interface CityLink {
   city: string;
@@ -17,7 +18,11 @@ export default function RegionSection() {
     return { city: data.city as string, slug: data.slug as string };
   });
 
+  const [showAll, setShowAll] = useState(false);
+
   if (!cityLinks.length) return null;
+
+  const visibleLinks = showAll ? cityLinks : cityLinks.slice(0, 12);
 
   return (
     <section
@@ -29,7 +34,7 @@ export default function RegionSection() {
           Actief in de regio
         </h2>
         <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-          {cityLinks.map((link) => (
+          {visibleLinks.map((link) => (
             <a
               key={link.slug}
               href={`/diensten/${link.slug}`}
@@ -42,6 +47,17 @@ export default function RegionSection() {
             </a>
           ))}
         </div>
+        {!showAll && cityLinks.length > 12 && (
+          <div className="flex justify-center mt-8">
+            <button
+              type="button"
+              onClick={() => setShowAll(true)}
+              className="px-4 py-2 text-white bg-blue-600 rounded hover:bg-blue-700 transition"
+            >
+              Toon alle locaties
+            </button>
+          </div>
+        )}
       </div>
     </section>
   );
