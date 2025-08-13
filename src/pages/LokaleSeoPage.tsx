@@ -216,22 +216,41 @@ export default function LokaleSeoPage() {
           <div className="pointer-events-none absolute -top-24 -left-24 h-72 w-72 rounded-full bg-blue-500/20 blur-3xl" />
           <div className="pointer-events-none absolute -bottom-16 -right-16 h-72 w-72 rounded-full bg-indigo-500/20 blur-3xl" />
 
-          {/* floating city card */}
-          <motion.div
-            initial={{ opacity: 0, y: 20, scale: 0.98 }}
-            animate={{ opacity: 1, y: 0, scale: 1 }}
-            transition={{ duration: 0.7, ease: "easeOut" }}
-            className="pointer-events-none mt-8 md:mt-0 md:absolute md:bottom-8 md:right-4 md:block"
-          >
-            <div className="mx-auto rounded-2xl overflow-hidden ring-1 ring-white/25 shadow-2xl backdrop-blur bg-white/10 md:mx-0">
-              <img
-                src={cityImage}
-                alt={fm.city}
-                className="w-full max-w-xs md:max-w-none md:h-40 md:w-64 object-cover"
-                loading="lazy"
-              />
-            </div>
-          </motion.div>
+          {/* floating city card – MOBILE (inline, onder de tekst) */}
+<motion.div
+  initial={{ opacity: 0, y: 10, scale: 0.98 }}
+  animate={{ opacity: 1, y: 0, scale: 1 }}
+  transition={{ duration: 0.6, ease: "easeOut" }}
+  className="mt-6 w-full flex justify-center md:hidden"
+>
+  <div className="rounded-2xl overflow-hidden ring-1 ring-white/25 shadow-2xl backdrop-blur bg-white/10">
+    <img
+      src={cityImage}
+      alt={fm.city}
+      className="block w-[88vw] max-w-[22rem] aspect-[16/10] object-cover"
+      loading="lazy"
+      sizes="(max-width: 768px) 88vw, 22rem"
+/>
+  </div>
+</motion.div>
+
+{/* floating city card – DESKTOP (absolute, rechts‑onder) */}
+<motion.div
+  initial={{ opacity: 0, y: 20, scale: 0.98 }}
+  animate={{ opacity: 1, y: 0, scale: 1 }}
+  transition={{ duration: 0.7, ease: "easeOut" }}
+  className="pointer-events-none hidden md:block md:absolute md:bottom-8 md:right-4"
+>
+  <div className="rounded-2xl overflow-hidden ring-1 ring-white/25 shadow-2xl backdrop-blur bg-white/10">
+    <img
+      src={cityImage}
+      alt={fm.city}
+      className="h-40 w-64 object-cover"
+      loading="lazy"
+      sizes="256px"
+/>
+  </div>
+</motion.div>
 
           {/* headline + CTA */}
           <motion.div
