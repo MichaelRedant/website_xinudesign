@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
-import { FaBars, FaTimes } from "react-icons/fa";
+import { FaBars, FaTimes, FaChevronDown } from "react-icons/fa";
+import { services as serviceLinks } from "../data/services";
 
 const navItems = [
   /* { to: "/", label: "Home" },
@@ -66,6 +67,28 @@ export default function Header() {
 
         {/* ─────────────── Navigatie desktop ─────────────── */}
         <ul className="hidden md:flex gap-12">
+          <li className="relative group">
+            <button
+              className={`flex items-center gap-1 py-2 font-medium transition-colors ${
+                scrolled ? "text-gray-800" : "text-black"
+              } hover:text-[#509ef1]`}
+            >
+              Services
+              <FaChevronDown className="text-sm transition-transform group-hover:rotate-180" />
+            </button>
+            <ul className="absolute left-0 mt-2 w-56 flex-col rounded-md bg-white shadow-lg opacity-0 invisible group-hover:visible group-hover:opacity-100 transform -translate-y-2 group-hover:translate-y-0 transition-all duration-200">
+              {serviceLinks.map(({ to, name }) => (
+                <li key={to}>
+                  <NavLink
+                    to={to}
+                    className="block px-4 py-2 text-gray-800 hover:bg-gray-100"
+                  >
+                    {name}
+                  </NavLink>
+                </li>
+              ))}
+            </ul>
+          </li>
           {navItems.map(({ to, label }) => (
             <li key={to}>
               <NavLink
@@ -96,6 +119,22 @@ export default function Header() {
               scrolled ? "bg-white/90" : "bg-white/80"
             }`}
           >
+            <li className="w-full text-center">
+              <span className="font-medium text-gray-800">Services</span>
+              <ul className="mt-2 flex flex-col gap-2">
+                {serviceLinks.map(({ to, name }) => (
+                  <li key={to}>
+                    <NavLink
+                      to={to}
+                      onClick={() => setMenuOpen(false)}
+                      className="text-gray-800"
+                    >
+                      {name}
+                    </NavLink>
+                  </li>
+                ))}
+              </ul>
+            </li>
             {navItems.map(({ to, label }) => (
               <li key={to}>
                 <NavLink
