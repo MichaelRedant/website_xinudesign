@@ -30,12 +30,15 @@ import GlassPane from "./GlassPane";
 interface Tool {
   name: string;
   Icon: IconType;
+
   color: string;
+
 }
 
 const ICON_SIZE = 48;
 
 const tools: Tool[] = [
+
   { name: "Adobe", Icon: SiAdobe, color: "#FF0000" },
   {
     name: "Adobe After Effects",
@@ -71,6 +74,7 @@ const tools: Tool[] = [
   { name: "React", Icon: SiReact, color: "#61DAFB" },
   { name: "WordPress", Icon: SiWordpress, color: "#21759B" },
   { name: "Wix", Icon: SiWix, color: "#0C6EFC" },
+
 ];
 
 export default function ToolsMarquee() {
@@ -91,7 +95,9 @@ export default function ToolsMarquee() {
           >
             <tool.Icon
               size={ICON_SIZE}
+
               color={tool.color}
+
               className="tool-icon transition-transform duration-300 ease-out group-hover:scale-125"
               aria-label={tool.name}
               role="img"
