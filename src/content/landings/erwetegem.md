@@ -51,6 +51,7 @@ Erwetegem is een charmante, landelijke deelgemeente van Zottegem. Met zijn gezel
 **Webdevelopment op maat van Erwetegem**  
 Wij ontwikkelen websites die perfect aansluiten bij je onderneming en je doelgroep in Erwetegem.  
 Onze troeven:
+
 - Razendsnelle laadtijden en optimale prestaties.  
 - Mobielvriendelijke ontwerpen die overal goed werken.  
 - Volledig geoptimaliseerd voor **SEO** en **Core Web Vitals**.  
@@ -60,6 +61,7 @@ We bouwen in **WordPress** voor gebruiksgemak of ontwikkelen **custom oplossinge
 
 **Advertising: doelgericht bereik in Erwetegem en omgeving**  
 Met **Google Ads** en **Meta Ads** zetten we campagnes op die gericht zijn op:
+
 - Erwetegem zelf en naburige dorpen zoals Velzeke, Grotenberge en Godveerdegem.  
 - Promoties en seizoensgebonden acties die perfect aansluiten bij de lokale kalender.  
 - Retargetingcampagnes om eerdere bezoekers opnieuw te bereiken.  
@@ -68,6 +70,7 @@ Zo gaat geen advertentiebudget verloren en wordt elke euro slim ingezet voor max
 
 **Lokale SEO met een Erwetegemse insteek**  
 Om lokaal gevonden te worden, zorgen wij voor:
+
 - **Google Business-optimalisatie** met correcte en complete bedrijfsinfo.  
 - **NAP-consistentie** op alle platforms.  
 - **Lokale backlinks** vanuit relevante Erwetegemse en Zottegemse websites.  
@@ -81,11 +84,13 @@ Zo scoor je hoger in de zoekresultaten wanneer iemand zoekt naar jouw diensten i
 
 **Data-gedreven optimalisatie**  
 We gebruiken **Google Analytics**, **Search Console** en **Piwik Pro** om precies te weten:
+
 - Welke pagina’s het meeste verkeer trekken.  
 - Welke zoekwoorden converteren.  
 - Waar bezoekers afhaken, zodat we dit kunnen verbeteren.  
 
 **Waarom kiezen voor Xinudesign in Erwetegem?**  
+
 - Persoonlijke aanpak en korte communicatielijnen.  
 - Combinatie van creativiteit en technische kennis.  
 - Kennis van het lokale ondernemersklimaat.  

@@ -397,7 +397,11 @@ export default function LokaleSeoPage() {
                 ];
 
                 // Eenvoudige hashfunctie op basis van stad
-                const hashCode = (str) => {
+                interface HashCodeFn {
+                  (str: string): number;
+                }
+
+                const hashCode: HashCodeFn = (str) => {
                   let hash = 0;
                   for (let i = 0; i < str.length; i++) {
                     hash = str.charCodeAt(i) + ((hash << 5) - hash);
