@@ -200,7 +200,7 @@ export default function LokaleSeoPage() {
         keywords={keywordList}
       />
 
-      <main className="relative overflow-x-hidden">
+      <main className="relative overflow-x-hidden pt-[var(--header-h)]">
         {/* =================== HERO (SaaS 2025) =================== */}
         <section
           className="relative isolate pt-24 md:pt-28

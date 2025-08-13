@@ -6,6 +6,11 @@
 body {
   @apply font-sans text-gray-900 bg-white dark:bg-black;
 }
+:root { --header-h: 72px; }           /* mobile header hoogte */
+@media (min-width: 768px){
+  :root { --header-h: 88px; }         /* desktop header hoogte */
+}
+
 
 /* Tooltip / sectie fade-in */
 @keyframes fadeIn {
