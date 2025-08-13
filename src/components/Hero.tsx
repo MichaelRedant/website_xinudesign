@@ -1,13 +1,37 @@
+import { useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
+
 export default function Hero() {
+  const videoRef = useRef<HTMLVideoElement>(null);
+
+  useEffect(() => {
+    const video = videoRef.current;
+    if (!video) return;
+
+    const loadVideo = () => {
+      video.src = "/assets/video/ai_videowm.webm";
+      video.load();
+      void video.play();
+    };
+
+    if (document.readyState === "complete") {
+      loadVideo();
+    } else {
+      window.addEventListener("load", loadVideo);
+      return () => window.removeEventListener("load", loadVideo);
+    }
+  }, []);
+
   return (
     <section className="relative flex items-center justify-center min-h-screen overflow-hidden">
       <video
-        src="/assets/video/ai_videowm.webm"
+        ref={videoRef}
         className="absolute inset-0 object-cover w-full h-full"
         autoPlay
         loop
         muted
+        preload="none"
+        poster="/assets/img/hero-poster.png"
       />
       <div className="absolute inset-0 bg-black/40" />
       <div
