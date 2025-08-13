@@ -31,7 +31,7 @@ export default function Hero() {
         loop
         muted
         preload="none"
-        poster="/assets/img/hero-poster.png"
+        poster="/assets/img/hero-poster.webp"
       />
       <div className="absolute inset-0 bg-black/40" />
       <div
@@ -39,7 +39,7 @@ export default function Hero() {
         data-aos="fade-up"
       >
         <img
-          src="/assets/img/profile.jpg"
+          src="/assets/img/profile.webp"
           alt="Michaël Redant"
           className="w-32 h-32 mb-6 rounded-full shadow-lg object-cover animate-float"
         />

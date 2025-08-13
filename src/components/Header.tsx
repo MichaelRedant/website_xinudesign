@@ -33,7 +33,7 @@ export default function Header() {
         {/* ─────────────── Logo + tekst samen ─────────────── */}
         <Link to="/" className="flex items-center gap-3 select-none">
           <img
-            src="/assets/xinu.png"
+            src="/assets/xinu.webp"
             alt="Xinudesign logo"
             className="h-12 w-auto"
             draggable={false}

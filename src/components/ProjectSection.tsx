@@ -39,7 +39,7 @@ export default function ProjectSection() {
           </div>
           <div className="relative" data-aos="zoom-in" data-aos-delay="100">
             <img
-              src="/assets/img/screenshot.png"
+              src="/assets/img/screenshot.webp"
               alt="Persona Vault scherm"
               className="w-full rounded-2xl shadow-2xl border border-white/20"
               loading="lazy"
