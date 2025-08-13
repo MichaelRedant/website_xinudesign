@@ -1,39 +1,63 @@
+import type { IconType } from "react-icons";
+import {
+  SiAdobe,
+  SiAdobeaftereffects,
+  SiAdobeillustrator,
+  SiAdobeindesign,
+  SiAdobephotoshop,
+  SiAutodesk,
+  SiCanva,
+  SiCss3,
+  SiFigma,
+  SiGoogle,
+  SiGoogleads,
+  SiGoogleanalytics,
+  SiHtml5,
+  SiLaravel,
+  SiMatomo,
+  SiMysql,
+  SiOpenai,
+  SiPhp,
+  SiReact,
+  SiShopify,
+  SiVuedotjs,
+  SiWix,
+  SiWordpress,
+} from "react-icons/si";
 import { useState } from "react";
 import GlassPane from "./GlassPane";
 
 interface Tool {
-  src: string;
   name: string;
+  Icon: IconType;
 }
 
+const ICON_SIZE = 48;
+
 const tools: Tool[] = [
-  { src: "/assets/logos/adobe.svg", name: "Adobe" },
-  { src: "/assets/logos/adobe-after-effects.svg", name: "Adobe After Effects" },
-  { src: "/assets/logos/adobe-illustrator.svg", name: "Adobe Illustrator" },
-  { src: "/assets/logos/adobe-photoshop.svg", name: "Adobe Photoshop" },
-  { src: "/assets/logos/autodesk.svg", name: "Fusion 360" },
-  { src: "/assets/logos/canva.svg", name: "Canva" },
-  { src: "/assets/logos/google-ads.svg", name: "Google Ads" },
-  { src: "/assets/logos/google-analytics.svg", name: "Google Analytics" },
-  { src: "/assets/logos/google-gke.svg", name: "Google Gemini" },
-  { src: "/assets/logos/indesign.svg", name: "Adobe InDesign" },
-  { src: "/assets/logos/laravel.svg", name: "Laravel" },
-  { src: "/assets/logos/openai.svg", name: "OpenAI" },
-  { src: "/assets/logos/php.svg", name: "PHP" },
-  { src: "/assets/logos/power-bi.svg", name: "Power BI" },
-  { src: "/assets/logos/shopify.svg", name: "Shopify" },
-  { src: "/assets/logos/piwik.png", name: "Piwik pro" },
-  { src: "/assets/logos/sql-database-generic.svg", name: "SQL Database" },
-  { src: "/assets/logos/visual-studio-code.svg", name: "Visual Studio Code" },
-  { src: "/assets/logos/vscode.png", name: "Visual Studio" },
-  { src: "/assets/logos/vue.svg", name: "Vue" },
-  { src: "/assets/logos/html.png", name: "HTML" },
-  { src: "/assets/logos/css.png", name: "CSS" },
-  { src: "/assets/logos/figma.png", name: "Figma" },
-  { src: "/assets/logos/react.png", name: "React" },
-  { src: "/assets/logos/wp.png", name: "WordPress" },
-  { src: "/assets/logos/windows.svg", name: "Microsoft 365" },
-  { src: "/assets/logos/wix.svg", name: "Wix" },
+  { name: "Adobe", Icon: SiAdobe },
+  { name: "Adobe After Effects", Icon: SiAdobeaftereffects },
+  { name: "Adobe Illustrator", Icon: SiAdobeillustrator },
+  { name: "Adobe Photoshop", Icon: SiAdobephotoshop },
+  { name: "Fusion 360", Icon: SiAutodesk },
+  { name: "Canva", Icon: SiCanva },
+  { name: "Google Ads", Icon: SiGoogleads },
+  { name: "Google Analytics", Icon: SiGoogleanalytics },
+  { name: "Google Gemini", Icon: SiGoogle },
+  { name: "Adobe InDesign", Icon: SiAdobeindesign },
+  { name: "Laravel", Icon: SiLaravel },
+  { name: "OpenAI", Icon: SiOpenai },
+  { name: "PHP", Icon: SiPhp },
+  { name: "Shopify", Icon: SiShopify },
+  { name: "Piwik Pro", Icon: SiMatomo },
+  { name: "SQL Database", Icon: SiMysql },
+  { name: "Vue", Icon: SiVuedotjs },
+  { name: "HTML", Icon: SiHtml5 },
+  { name: "CSS", Icon: SiCss3 },
+  { name: "Figma", Icon: SiFigma },
+  { name: "React", Icon: SiReact },
+  { name: "WordPress", Icon: SiWordpress },
+  { name: "Wix", Icon: SiWix },
 ];
 
 export default function ToolsMarquee() {
@@ -47,18 +71,16 @@ export default function ToolsMarquee() {
       >
         {tools.concat(tools).map((tool, index) => (
           <div
-            key={`${tool.src}-${index}`}
+            key={`${tool.name}-${index}`}
             className="relative group flex shrink-0 items-center cursor-pointer"
             onMouseEnter={() => setIsPaused(true)}
             onMouseLeave={() => setIsPaused(false)}
           >
-            <img
-              src={tool.src}
-              alt={tool.name}
-              className="h-12 w-auto transition-transform duration-300 ease-out group-hover:scale-125"
-              loading="lazy"
-              width={48}
-              height={48}
+            <tool.Icon
+              size={ICON_SIZE}
+              className="tool-icon transition-transform duration-300 ease-out group-hover:scale-125"
+              aria-label={tool.name}
+              role="img"
             />
             <GlassPane className="absolute bottom-full left-1/2 mb-3 -translate-x-1/2 translate-y-2 px-3 py-1 text-xs font-medium text-gray-800 dark:text-gray-200 whitespace-nowrap opacity-0 scale-95 pointer-events-none transition-all duration-200 ease-out group-hover:opacity-100 group-hover:translate-y-0 group-hover:scale-100 rounded-lg shadow-lg z-50">
               {tool.name}
