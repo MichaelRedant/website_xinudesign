@@ -94,5 +94,16 @@ body {
   .city-prose ul, .city-prose ol {
     padding-left: 1.25rem; /* meer ruimte voor bullets */
   }
+
+  /* Zorg dat absolute children van de hero niet buiten hun stacking context tekenen */
+.hero-isolate { isolation: isolate; }
+
+/* Prose op small wat compacter */
+@media (max-width: 640px) {
+  .city-prose { font-size: 0.95rem; }
+  .city-prose h2 { font-size: 1.25rem; }
+  .city-prose h3 { font-size: 1.1rem; }
+}
+
 }
 
