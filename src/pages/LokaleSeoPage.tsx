@@ -329,23 +329,27 @@ export default function LokaleSeoPage() {
   initial="hidden"
   whileInView="show"
   viewport={{ once: true, amount: 0.25 }}
-  className="mx-auto max-w-5xl px-6 py-24"
+  className="mx-auto max-w-5xl px-4 sm:px-6 py-16 sm:py-20 lg:py-24"
 >
   <motion.div
     variants={reveal}
-    className="relative rounded-3xl border border-white/30 bg-white/70 p-10 shadow-xl backdrop-blur-xl
+    className="relative rounded-3xl border border-white/30 bg-white/70 
+               p-6 sm:p-8 md:p-10 shadow-xl backdrop-blur-xl
                dark:bg-slate-900/40 dark:border-white/10"
   >
     {/* Top & side gradient accents */}
-    <span className="pointer-events-none absolute inset-x-0 -top-px h-px bg-gradient-to-r from-transparent via-blue-500/50 to-transparent" />
-    <span className="pointer-events-none absolute inset-y-0 -left-px w-px bg-gradient-to-b from-transparent via-blue-500/40 to-transparent" />
+    <span className="pointer-events-none absolute inset-x-0 -top-px h-px 
+                     bg-gradient-to-r from-transparent via-blue-500/50 to-transparent" />
+    <span className="pointer-events-none absolute inset-y-0 -left-px w-px 
+                     bg-gradient-to-b from-transparent via-blue-500/40 to-transparent" />
 
     {/* Markdown content */}
     <article
-      className="city-prose prose prose-lg max-w-none dark:prose-invert
+      className="city-prose prose prose-base sm:prose-lg max-w-none dark:prose-invert
                  prose-headings:font-bold prose-headings:tracking-tight
                  prose-h2:scroll-mt-28 prose-h3:scroll-mt-28
-                 prose-h2:text-3xl prose-h3:text-2xl
+                 prose-h2:text-2xl sm:prose-h2:text-3xl 
+                 prose-h3:text-xl sm:prose-h3:text-2xl
                  prose-a:text-blue-600 hover:prose-a:text-blue-800
                  prose-strong:text-slate-900 dark:prose-strong:text-white
                  prose-li:marker:text-blue-600
