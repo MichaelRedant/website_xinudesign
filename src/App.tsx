@@ -1,17 +1,18 @@
-import { useEffect } from "react";
+import { Suspense, lazy, useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import { Routes, Route } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
-import Home from "./pages/Home";
-import Contact from "./pages/Contact";
-import Cv from "./pages/Cv";
-import PersonaVault from "./pages/PersonaVault";
-import LokaleSeoPage from "./pages/LokaleSeoPage";
 import RegionSection from "./components/RegionSection";
-import Portfolio from "./pages/Portfolio";
+
+const Home = lazy(() => import("./pages/Home"));
+const Contact = lazy(() => import("./pages/Contact"));
+const Cv = lazy(() => import("./pages/Cv"));
+const PersonaVault = lazy(() => import("./pages/PersonaVault"));
+const LokaleSeoPage = lazy(() => import("./pages/LokaleSeoPage"));
+const Portfolio = lazy(() => import("./pages/Portfolio"));
 
 export default function App() {
   useEffect(() => {
@@ -23,14 +24,16 @@ export default function App() {
       <ScrollToTop />
       <Header />
       <div className="flex-grow">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/persona-vault" element={<PersonaVault />} />
-          <Route path="/portfolio" element={<Portfolio />} />
-          <Route path="/cv" element={<Cv />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/diensten/:city" element={<LokaleSeoPage />} />
-        </Routes>
+        <Suspense fallback={<div>Loading...</div>}>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/persona-vault" element={<PersonaVault />} />
+            <Route path="/portfolio" element={<Portfolio />} />
+            <Route path="/cv" element={<Cv />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/diensten/:city" element={<LokaleSeoPage />} />
+          </Routes>
+        </Suspense>
       </div>
       <RegionSection />
       <Footer />
