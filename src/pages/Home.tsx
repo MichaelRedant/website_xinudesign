@@ -1,10 +1,12 @@
+import { lazy, Suspense, useEffect, useRef, useState } from "react";
 import Hero from "../components/Hero";
 import Intro from "../components/Intro";
-import ToolsMarquee from "../components/ToolsMarquee";
 import NewSection from "../components/NewSection";
 import Specializations from "../components/Specializations";
 import ProjectSection from "../components/ProjectSection";
 import Seo from "../components/Seo";
+
+const ToolsMarquee = lazy(() => import("../components/ToolsMarquee"));
 
 const Home: React.FC = () => {
   const jsonLd = {
@@ -14,6 +16,21 @@ const Home: React.FC = () => {
     url: "https://www.xinudesign.be/",
     logo: "https://www.xinudesign.be/apple-touch-icon.png",
   };
+  const toolsRef = useRef<HTMLDivElement | null>(null);
+  const [showTools, setShowTools] = useState(false);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(([entry]) => {
+      if (entry.isIntersecting) {
+        setShowTools(true);
+        observer.disconnect();
+      }
+    });
+    if (toolsRef.current) {
+      observer.observe(toolsRef.current);
+    }
+    return () => observer.disconnect();
+  }, []);
   return (
     <>
       <Seo
@@ -24,7 +41,13 @@ const Home: React.FC = () => {
       />
       <Hero />
       <Intro />
-      <ToolsMarquee />
+      <div ref={toolsRef}>
+        {showTools && (
+          <Suspense fallback={null}>
+            <ToolsMarquee />
+          </Suspense>
+        )}
+      </div>
       <NewSection />
       <Specializations />
       <ProjectSection />
