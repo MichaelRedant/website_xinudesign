@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Desteldonk groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/desteldonk"
 image: "/assets/img/landingpages/desteldonk.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -51,24 +51,26 @@ Desteldonk is een rustig en landelijk dorp in de Gentse kanaalzone, waar het lan
 
 **Webdevelopment op maat van Desteldonk**
 
-Een goede website is vandaag even belangrijk als je fysieke aanwezigheid. Of je nu een bakkerij hebt in het dorpscentrum, een transportbedrijf nabij het **kanaal Gent-Terneuzen**, of een vrij beroep uitoefent in een landelijke omgeving: wij bouwen je online visitekaartje met oog voor snelheid, gebruiksvriendelijkheid en vindbaarheid.  
+Een goede website is vandaag even belangrijk als je fysieke aanwezigheid. Of je nu een bakkerij hebt in het dorpscentrum, een transportbedrijf nabij het **kanaal Gent-Terneuzen**, of een vrij beroep uitoefent in een landelijke omgeving: wij bouwen je online visitekaartje met oog voor snelheid, gebruiksvriendelijkheid en vindbaarheid.
 
 We werken met **WordPress** voor flexibiliteit of ontwikkelen een **maatwerkoplossing in HTML, CSS en React** voor maximale prestaties. Onze **UI/UX-aanpak** zorgt dat bezoekers makkelijk navigeren en snel actie ondernemen, zoals contact opnemen of een aankoop doen.
 
 **Advertising: doelgericht bereik in Desteldonk en omgeving**
 
-Met **Google Ads** en **Meta Ads** zetten we campagnes op die jouw doelgroep precies weten te vinden. We richten ons met **geografische targeting** op inwoners van Desteldonk én omliggende plaatsen zoals [Oostakker](/diensten/oostakker), [Mendonk](/diensten/mendonk) en [Sint-Kruis-Winkel](/diensten/sint-kruis-winkel).  
+Met **Google Ads** en **Meta Ads** zetten we campagnes op die jouw doelgroep precies weten te vinden. We richten ons met **geografische targeting** op inwoners van Desteldonk én omliggende plaatsen zoals [Oostakker](/diensten/oostakker), [Mendonk](/diensten/mendonk) en [Sint-Kruis-Winkel](/diensten/sint-kruis-winkel).
 
 Van promoties voor je winkel tot acties rond de **Desteldonkse dorpskermis** of speciale events in de kanaalzone: jouw boodschap wordt op het juiste moment bij de juiste mensen gebracht. Dankzij continue analyse en optimalisatie wordt elk advertentiebudget efficiënt besteed.
 
 **Lokale SEO met een Desteldonkse insteek**
 
 We zorgen dat je online goed gevonden wordt, zowel door zoekmachines als door potentiële klanten. Dat doen we door:
-- Het optimaliseren van je **Google Business-profiel**  
-- Zorgen voor **NAP-consistentie** (naam, adres, telefoonnummer)  
-- Bouwen van **lokale backlinks** vanuit relevante bronnen  
+
+- Het optimaliseren van je **Google Business-profiel**
+- Zorgen voor **NAP-consistentie** (naam, adres, telefoonnummer)
+- Bouwen van **lokale backlinks** vanuit relevante bronnen
 
 In je content integreren we herkenbare plekken zoals:
+
 - **Sint-Jan-Baptistkerk**
 - **Kanaal Gent-Terneuzen**
 - **Desteldonkse dorpskermis**
@@ -82,11 +84,11 @@ Met tools als **Google Analytics**, **Search Console** en **Piwik Pro** analyser
 
 **Waarom kiezen voor Xinudesign in Desteldonk?**
 
-- **Persoonlijke aanpak**: rechtstreeks contact met je webdesigner en marketeer.  
-- **Technische én creatieve expertise** in één dienst.  
-- **Lokale marktkennis**: vertrouwd met de dynamiek van Desteldonk en de kanaalzone.  
-- **Flexibiliteit**: afspraken op locatie of online.  
-- **Resultaatgericht**: focus op meetbare groei en rendement.  
+- **Persoonlijke aanpak**: rechtstreeks contact met je webdesigner en marketeer.
+- **Technische én creatieve expertise** in één dienst.
+- **Lokale marktkennis**: vertrouwd met de dynamiek van Desteldonk en de kanaalzone.
+- **Flexibiliteit**: afspraken op locatie of online.
+- **Resultaatgericht**: focus op meetbare groei en rendement.
 
 **Van kennismaking tot lancering**
 

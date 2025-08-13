@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt Aalsterse ondernemers met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en SEO-strategieën die inspelen op de troeven van de stad."
 canonical: "https://www.xinudesign.be/diensten/aalst"
 image: "/assets/img/landingpages/aalst.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Aalst heeft een uitgesproken identiteit, en die laten we online meewegen. We ver
 **Data‑gedreven optimalisatie**  
 Geen nattevingerwerk: we meten, leren en sturen bij. Met **Google Analytics**, **Search Console** en **Piwik Pro** volgen we verkeer, gedrag en conversies op. Welke campagnes leveren de meeste aanvragen op? Waar haken bezoekers af? Welke zoektermen converteren effectief? Op basis van die inzichten scherpen we advertenties, content en UX continu aan.
 
-**Waarom kiezen voor Xinudesign in Aalst?**  
+**Waarom kiezen voor Xinudesign in Aalst?**
 
-- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.  
-- Technische én creatieve expertise onder één dak.  
-- Lokale feeling: we kennen het Aalsterse ondernemersklimaat.  
-- Flexibiliteit: op locatie indien nuttig, vaak ook efficiënt online.  
+- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.
+- Technische én creatieve expertise onder één dak.
+- Lokale feeling: we kennen het Aalsterse ondernemersklimaat.
+- Flexibiliteit: op locatie indien nuttig, vaak ook efficiënt online.
 - Resultaatgericht: focus op meetbare groei en rendement.
 
 **Interne links: heel Aalst verbonden**  

@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign helpt Herzeelse ondernemers groeien met snelle websites, slimme advertenties en lokale SEO die écht opvalt."
 canonical: "https://www.xinudesign.be/diensten/herzele"
 image: "/assets/img/landingpages/herzele.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -61,17 +61,17 @@ We optimaliseren je Google Business-profiel, zorgen voor NAP-consistentie en bou
 **Content met een Herzeels tintje**  
 Van blogs over lokale gebeurtenissen tot socialmediaposts met herkenbare beelden: wij zorgen dat jouw content aansluit bij het leven in Herzele. Door lokale verhalen en beeldmateriaal te gebruiken, creëer je een sterke band met je doelgroep.
 
-**Waarom kiezen voor Xinudesign in Herzele?**  
+**Waarom kiezen voor Xinudesign in Herzele?**
 
-- Technische én creatieve expertise in één partner.  
-- Persoonlijke aanpak met korte communicatielijnen.  
-- Grondige kennis van de Herzeelse markt en cultuur.  
-- Flexibiliteit: afspraken mogelijk op locatie of online.  
+- Technische én creatieve expertise in één partner.
+- Persoonlijke aanpak met korte communicatielijnen.
+- Grondige kennis van de Herzeelse markt en cultuur.
+- Flexibiliteit: afspraken mogelijk op locatie of online.
 - Focus op meetbare resultaten en duurzame groei.
 
 **Interne verbinding voor maximale SEO-impact**  
 Onze aanpak versterkt niet alleen je zichtbaarheid in Herzele zelf, maar ook in de omliggende deelgemeenten:  
-[Borsbeke](https://www.xinudesign.be/diensten/borsbeke) – [Hillegem](https://www.xinudesign.be/diensten/hillegem) – [Ressegem](https://www.xinudesign.be/diensten/ressegem) – [Sint-Antelinks](https://www.xinudesign.be/diensten/sint-antelinks) – [Steenhuize-Wijnhuize](https://www.xinudesign.be/diensten/steenhuize-wijnhuize) – [Woubrechtegem](https://www.xinudesign.be/diensten/woubrechtegem)  
+[Borsbeke](https://www.xinudesign.be/diensten/borsbeke) – [Hillegem](https://www.xinudesign.be/diensten/hillegem) – [Ressegem](https://www.xinudesign.be/diensten/ressegem) – [Sint-Antelinks](https://www.xinudesign.be/diensten/sint-antelinks) – [Steenhuize-Wijnhuize](https://www.xinudesign.be/diensten/steenhuize-wijnhuize) – [Woubrechtegem](https://www.xinudesign.be/diensten/woubrechtegem)
 
 Door deze interne links help je Google begrijpen dat jij de lokale expert bent voor webdesign, advertising en SEO in de volledige regio Herzele.
 

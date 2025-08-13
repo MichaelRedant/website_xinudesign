@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Borsbeke groeien met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/borsbeke"
 image: "/assets/img/landingpages/borsbeke.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,38 +49,38 @@ lastmod: "2025-08-12"
 Borsbeke is een gezellig dorp in de gemeente Herzele, gekend om zijn rustige woonwijken, levendige verenigingsleven en strategische ligging langs de spoorlijn Aalst–Zottegem. Ondernemers in Borsbeke bedienen zowel de lokale gemeenschap als klanten uit naburige dorpen. Om in deze digitale tijden mee te groeien, heb je meer nodig dan mond-tot-mondreclame: je hebt een sterke online aanwezigheid nodig. Xinudesign helpt bedrijven in Borsbeke om online beter zichtbaar te zijn en meer klanten aan te trekken.
 
 **Webdevelopment op maat van Borsbeke**  
-Een goede website is meer dan een online visitekaartje: het is een verkoopkanaal. Wij bouwen snelle, veilige en conversiegerichte websites die passen bij de eigenheid van Borsbeke en jouw sector.  
+Een goede website is meer dan een online visitekaartje: het is een verkoopkanaal. Wij bouwen snelle, veilige en conversiegerichte websites die passen bij de eigenheid van Borsbeke en jouw sector.
 
 Onze aanpak:
 
-- **Mobielvriendelijk ontwerp** voor optimale weergave op alle toestellen.  
-- **Snel ladende pagina’s** die beter scoren in Google en zorgen voor een betere gebruikerservaring.  
-- **SEO-geoptimaliseerde structuur** met aandacht voor lokale trefwoorden zoals “Borsbeke” en omliggende gemeenten.  
-- **Gebruiksvriendelijke navigatie** zodat bezoekers meteen vinden wat ze zoeken.  
+- **Mobielvriendelijk ontwerp** voor optimale weergave op alle toestellen.
+- **Snel ladende pagina’s** die beter scoren in Google en zorgen voor een betere gebruikerservaring.
+- **SEO-geoptimaliseerde structuur** met aandacht voor lokale trefwoorden zoals “Borsbeke” en omliggende gemeenten.
+- **Gebruiksvriendelijke navigatie** zodat bezoekers meteen vinden wat ze zoeken.
 
 Of je nu een lokale bakker bent in het dorpscentrum, een aannemer die werkt in de regio, of een zelfstandige met een atelier in de buurt van de spoorweg, wij zorgen dat je online gevonden wordt door jouw ideale klant.
 
 **Advertising: doelgericht bereik in Borsbeke en omgeving**  
-Met **Google Ads** en **Meta Ads** kunnen we je boodschap heel precies richten op je gewenste doelgroep. Denk aan inwoners van Borsbeke, maar ook van omliggende dorpen zoals **Herzele**, **Hillegem** en **Sint-Lievens-Esse**.  
+Met **Google Ads** en **Meta Ads** kunnen we je boodschap heel precies richten op je gewenste doelgroep. Denk aan inwoners van Borsbeke, maar ook van omliggende dorpen zoals **Herzele**, **Hillegem** en **Sint-Lievens-Esse**.
 
 Onze campagnes zijn:
 
-- **Hyperlokaal getarget**: geen verspilling van budget buiten je marktgebied.  
-- **Relevant en herkenbaar**: inspelend op lokale plaatsen, evenementen en gewoontes.  
-- **Meetbaar en optimaliseerbaar**: zodat je altijd weet wat je investering oplevert.  
+- **Hyperlokaal getarget**: geen verspilling van budget buiten je marktgebied.
+- **Relevant en herkenbaar**: inspelend op lokale plaatsen, evenementen en gewoontes.
+- **Meetbaar en optimaliseerbaar**: zodat je altijd weet wat je investering oplevert.
 
 Van promoties rond de jaarlijkse kermis tot acties tijdens de feestdagen: wij zorgen dat jouw boodschap gezien wordt.
 
 **Lokale SEO met een Borsbeekse insteek**  
-Lokale vindbaarheid is onmisbaar. Wij optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen **lokale backlinks** op via relevante bronnen in en rond Borsbeke.  
+Lokale vindbaarheid is onmisbaar. Wij optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen **lokale backlinks** op via relevante bronnen in en rond Borsbeke.
 
 In je content verwerken we herkenbare elementen zoals:
 
-- **Sint-Antoniuskerk**  
-- **Spoorlijn Aalst–Zottegem**  
-- **Borsbeekse kermis**  
-- **Lokale sportclubs en verenigingen**  
-- **Groene wandelroutes rond Herzele**  
+- **Sint-Antoniuskerk**
+- **Spoorlijn Aalst–Zottegem**
+- **Borsbeekse kermis**
+- **Lokale sportclubs en verenigingen**
+- **Groene wandelroutes rond Herzele**
 
 Zo herkennen potentiële klanten jouw lokale verankering en ziet Google je als relevante speler in de regio.
 
@@ -89,11 +89,11 @@ Meten is weten. Wij gebruiken tools zoals **Google Analytics**, **Search Console
 
 **Waarom kiezen voor Xinudesign in Borsbeke?**
 
-- Persoonlijke aanpak: je spreekt rechtstreeks met de webdesigner en marketeer.  
-- Technische én creatieve kennis in één team.  
-- Vertrouwd met het ondernemersklimaat in Borsbeke en Herzele.  
-- Flexibiliteit: afspraken mogelijk op locatie of online.  
-- Resultaatgericht: focus op meetbare groei en rendement.  
+- Persoonlijke aanpak: je spreekt rechtstreeks met de webdesigner en marketeer.
+- Technische én creatieve kennis in één team.
+- Vertrouwd met het ondernemersklimaat in Borsbeke en Herzele.
+- Flexibiliteit: afspraken mogelijk op locatie of online.
+- Resultaatgericht: focus op meetbare groei en rendement.
 
 **Interne links: sterke Herzele-cluster**  
 Verbind je Borsbeke-pagina met andere lokale pagina’s voor extra SEO-waarde:  

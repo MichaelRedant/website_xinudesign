@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Oosterzele met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de gemeente."
 canonical: "https://www.xinudesign.be/diensten/oosterzele"
 image: "/assets/img/landingpages/oosterzele.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Voor ondernemers die mikken op klanten in de eigen regio is lokale SEO onmisbaar
 **Data-gedreven optimalisatie**  
 Wij werken niet op buikgevoel. Met Google Analytics, Search Console en Piwik Pro meten we exact hoe je website en campagnes presteren. We analyseren bezoekersgedrag, conversiepercentages en zoekwoorden om je strategie continu te verfijnen. Zo blijf je niet alleen zichtbaar, maar ook concurrerend.
 
-**Waarom kiezen voor Xinudesign in Oosterzele?**  
+**Waarom kiezen voor Xinudesign in Oosterzele?**
 
-- Persoonlijke aanpak met directe communicatie.  
-- Combinatie van technische expertise en creatieve vormgeving.  
-- Diepgaande kennis van de lokale markt in Oosterzele en deelgemeenten.  
-- Flexibiliteit: afspraken mogelijk op locatie of via videocall.  
+- Persoonlijke aanpak met directe communicatie.
+- Combinatie van technische expertise en creatieve vormgeving.
+- Diepgaande kennis van de lokale markt in Oosterzele en deelgemeenten.
+- Flexibiliteit: afspraken mogelijk op locatie of via videocall.
 - Focus op meetbare resultaten en duurzame groei.
 
 **Van kennismaking tot lancering**  

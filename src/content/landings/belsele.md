@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Belsele groeien met snelle websites, gerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van de gemeente."
 canonical: "https://www.xinudesign.be/diensten/belsele"
 image: "/assets/img/landingpages/belsele.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,34 +49,36 @@ lastmod: "2025-08-12"
 Belsele combineert het rustige dorpsleven met de voordelen van een strategische ligging in het Waasland. Dankzij de nabijheid van Sint-Niklaas, het Waasland Shopping Center en belangrijke verbindingswegen, is het een aantrekkelijke plek voor zowel inwoners als ondernemers. Of je nu een bakkerij hebt aan het Dorpsplein, een kapsalon langs de Belseledorpstraat of een adviesbureau aan de rand van het dorp: een sterke online aanwezigheid is onmisbaar om zichtbaar te blijven voor je klanten.
 
 **Webdevelopment op maat van Belsele**  
-Wij bouwen websites die snel laden, veilig zijn en perfect werken op elk toestel. Afhankelijk van je wensen maken we gebruik van **WordPress** voor gebruiksgemak of **maatwerk in HTML, CSS en React** voor maximale prestaties.  
+Wij bouwen websites die snel laden, veilig zijn en perfect werken op elk toestel. Afhankelijk van je wensen maken we gebruik van **WordPress** voor gebruiksgemak of **maatwerk in HTML, CSS en React** voor maximale prestaties.
 
 Elke website is volledig mobielvriendelijk, geoptimaliseerd voor zoekmachines en voorzien van duidelijke navigatie en overtuigende call-to-actions. Dankzij onze **UI/UX-expertise** zorgen we dat bezoekers niet alleen langer op je site blijven, maar ook sneller overgaan tot contact of aankoop.
 
 **Advertising: doelgericht bereik in Belsele en omgeving**  
-Met **Google Ads** en **Meta Ads** richten we campagnes in die exact jouw doelgroep aanspreken. Door te targeten op inwoners van Belsele en omliggende regio’s zoals [Sint-Niklaas](/diensten/sint-niklaas), [Nieuwkerken-Waas](/diensten/nieuwkerken-waas) en [Sinaai](/diensten/sinaai) zorgen we dat je advertentiebudget maximaal rendeert.  
+Met **Google Ads** en **Meta Ads** richten we campagnes in die exact jouw doelgroep aanspreken. Door te targeten op inwoners van Belsele en omliggende regio’s zoals [Sint-Niklaas](/diensten/sint-niklaas), [Nieuwkerken-Waas](/diensten/nieuwkerken-waas) en [Sinaai](/diensten/sinaai) zorgen we dat je advertentiebudget maximaal rendeert.
 
 Of het nu gaat om een lokale promotie, een evenement op het Dorpsplein of de lancering van een nieuwe dienst, we zorgen voor maximale zichtbaarheid op de juiste momenten.
 
 **Lokale SEO met een Belselse insteek**  
-We optimaliseren je online vindbaarheid door het verbeteren van je **Google Business-profiel**, het waarborgen van **NAP-consistentie** en het opbouwen van **lokale backlinks**. In je webteksten en visuals verwerken we herkenbare elementen zoals:  
-- Het Dorpsplein  
-- Belsele Kermis  
-- Sint-Andreas en Ghislenuskerk  
-- Natuurgebied De Fondatie  
-- Nabijheid Waasland Shopping Center  
+We optimaliseren je online vindbaarheid door het verbeteren van je **Google Business-profiel**, het waarborgen van **NAP-consistentie** en het opbouwen van **lokale backlinks**. In je webteksten en visuals verwerken we herkenbare elementen zoals:
+
+- Het Dorpsplein
+- Belsele Kermis
+- Sint-Andreas en Ghislenuskerk
+- Natuurgebied De Fondatie
+- Nabijheid Waasland Shopping Center
 
 Door deze lokale verankering stijgt je relevantie in Google en wek je vertrouwen bij potentiële klanten.
 
 **Data-gedreven optimalisatie**  
 We meten voortdurend hoe je website presteert en hoe bezoekers zich gedragen. Met **Google Analytics**, **Search Console** en **Piwik Pro** analyseren we je verkeer, conversies en zoekwoorden. Deze inzichten gebruiken we om je strategie continu te verbeteren.
 
-**Waarom kiezen voor Xinudesign in Belsele?**  
-- Persoonlijke aanpak en korte communicatielijnen.  
-- Combinatie van technische en creatieve expertise.  
-- Sterke lokale kennis van Belsele en het Waasland.  
-- Flexibiliteit: op locatie of via videocall.  
-- Resultaatgericht met focus op meetbare groei.  
+**Waarom kiezen voor Xinudesign in Belsele?**
+
+- Persoonlijke aanpak en korte communicatielijnen.
+- Combinatie van technische en creatieve expertise.
+- Sterke lokale kennis van Belsele en het Waasland.
+- Flexibiliteit: op locatie of via videocall.
+- Resultaatgericht met focus op meetbare groei.
 
 **Interne links: Belsele verbonden met het Waasland**  
 Versterk je lokale autoriteit met interne links naar:  

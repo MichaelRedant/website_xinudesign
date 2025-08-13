@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Aaigem groeien met snelle websites, doelgerichte advertenties en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/aaigem"
 image: "/assets/img/landingpages/aaigem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -61,11 +61,11 @@ Of het nu gaat om een promotie rond Aaigem Kermis, een seizoensgebonden actie of
 **Lokale SEO met een Aaigemse insteek**  
 Lokale vindbaarheid is essentieel voor kleine en middelgrote ondernemingen. We optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen **lokale backlinks** vanuit relevante en betrouwbare bronnen.
 
-We verwerken herkenbare plekken en evenementen in je webteksten en visuals, zoals:  
+We verwerken herkenbare plekken en evenementen in je webteksten en visuals, zoals:
 
-- **Sint-Niklaaskerk**  
-- **Aaigem Kermis**  
-- **Landelijke wandelroutes**  
+- **Sint-Niklaaskerk**
+- **Aaigem Kermis**
+- **Landelijke wandelroutes**
 - **Dorpstraat en omliggende buurtwegen**
 
 Zo zorgen we dat jouw onderneming niet alleen beter gevonden wordt, maar ook herkenbaar is voor de lokale bevolking.
@@ -73,13 +73,13 @@ Zo zorgen we dat jouw onderneming niet alleen beter gevonden wordt, maar ook her
 **Data-gedreven optimalisatie**  
 Meten is weten. We gebruiken tools zoals **Google Analytics**, **Search Console** en **Piwik Pro** om te analyseren hoe bezoekers je site vinden, welke pagina’s goed presteren en waar verbeterpunten liggen. Op basis van die inzichten passen we content, advertenties en UX continu aan.
 
-**Waarom kiezen voor Xinudesign in Aaigem?**  
+**Waarom kiezen voor Xinudesign in Aaigem?**
 
-- Persoonlijke aanpak: je werkt rechtstreeks samen met de webdesigner en marketeer.  
-- Combinatie van technische kennis en creatief design.  
-- Kennis van het lokale ondernemersklimaat in Aaigem.  
-- Flexibele samenwerking: op locatie of volledig online.  
-- Focus op meetbare groei en rendement.  
+- Persoonlijke aanpak: je werkt rechtstreeks samen met de webdesigner en marketeer.
+- Combinatie van technische kennis en creatief design.
+- Kennis van het lokale ondernemersklimaat in Aaigem.
+- Flexibele samenwerking: op locatie of volledig online.
+- Focus op meetbare groei en rendement.
 
 **Interne links: Aaigem verbonden met de regio**  
 [Heldergem](/diensten/heldergem) • [Erpe](/diensten/erpe) • [Burst](/diensten/burst) • [Erpe-Mere](/diensten/erpe-mere)

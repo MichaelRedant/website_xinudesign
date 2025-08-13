@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Sint-Antelinks met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/sint-antelinks"
 image: "/assets/img/landingpages/sint-antelinks.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Voor lokale bedrijven is het cruciaal om in de buurt goed gevonden te worden. Wi
 **Data-gedreven optimalisatie**  
 Succes begint met meten en analyseren. Met tools zoals Google Analytics, Search Console en Piwik Pro volgen we nauwgezet de prestaties van je website en advertenties. We kijken naar bezoekersgedrag, conversies en zoekwoordposities om continu verbeteringen door te voeren. Zo blijf je je concurrenten een stap voor en bouw je aan duurzame groei.
 
-**Waarom kiezen voor Xinudesign in Sint-Antelinks?**  
+**Waarom kiezen voor Xinudesign in Sint-Antelinks?**
 
-- Persoonlijke aanpak en korte communicatielijnen.  
-- Combinatie van technische en creatieve expertise.  
-- Kennis van de lokale markt in Sint-Antelinks en omgeving.  
-- Flexibiliteit: afspraken op locatie of via videocall.  
+- Persoonlijke aanpak en korte communicatielijnen.
+- Combinatie van technische en creatieve expertise.
+- Kennis van de lokale markt in Sint-Antelinks en omgeving.
+- Flexibiliteit: afspraken op locatie of via videocall.
 - Focus op meetbare resultaten en rendement.
 
 **Van kennismaking tot lancering**  

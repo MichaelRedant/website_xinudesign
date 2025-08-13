@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Okegem groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de eigenheid van het dorp."
 canonical: "https://www.xinudesign.be/diensten/okegem"
 image: "/assets/img/landingpages/okegem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,48 +49,52 @@ lastmod: "2025-08-12"
 Okegem, een charmant dorp aan de Dender, staat bekend om zijn rustige woonstraten, actieve verenigingsleven en strategische ligging tussen Ninove en Aalst. Ondernemers in Okegem profiteren van een trouwe, lokale klantenkring maar ook van voorbijgangers dankzij de nabijheid van de N45 en het station. Xinudesign helpt je om die mix van lokaal en regionaal potentieel om te zetten in digitale groei.
 
 **Webdevelopment op maat van Okegem**  
-Elke onderneming in Okegem heeft zijn eigen verhaal, en wij zorgen dat dat verhaal online tot leven komt.  
+Elke onderneming in Okegem heeft zijn eigen verhaal, en wij zorgen dat dat verhaal online tot leven komt.
 
-Onze werkwijze:  
-- **SEO-geoptimaliseerde sites** met lokale zoekwoorden zoals “webdesign Okegem”.  
-- **Responsieve designs** die er perfect uitzien op elk toestel.  
-- **Conversiegerichte lay-outs** met duidelijke call-to-actions.  
-- Integratie van **lokale fotografie** voor herkenbaarheid bij inwoners.  
-- **Technische optimalisaties** voor snelle laadtijden en een betere ranking in Google.  
+Onze werkwijze:
+
+- **SEO-geoptimaliseerde sites** met lokale zoekwoorden zoals “webdesign Okegem”.
+- **Responsieve designs** die er perfect uitzien op elk toestel.
+- **Conversiegerichte lay-outs** met duidelijke call-to-actions.
+- Integratie van **lokale fotografie** voor herkenbaarheid bij inwoners.
+- **Technische optimalisaties** voor snelle laadtijden en een betere ranking in Google.
 
 We bouwen zowel in **WordPress** (makkelijk beheer) als in **HTML, CSS en React** voor ultieme prestaties en maatwerk.
 
 **Advertising: doelgericht bereik in Okegem en regio**  
-Met **Google Ads** en **Meta Ads** zorgen we dat jouw bedrijf in Okegem zichtbaar is voor de juiste mensen op het juiste moment.  
+Met **Google Ads** en **Meta Ads** zorgen we dat jouw bedrijf in Okegem zichtbaar is voor de juiste mensen op het juiste moment.
 
-Voorbeelden van campagnes:  
-- **Hyperlokale targeting** op inwoners van Okegem en omliggende dorpen.  
-- **Seizoenscampagnes** rond lokale activiteiten of feestdagen.  
-- **Retargeting** voor mensen die je website eerder bezochten.  
+Voorbeelden van campagnes:
+
+- **Hyperlokale targeting** op inwoners van Okegem en omliggende dorpen.
+- **Seizoenscampagnes** rond lokale activiteiten of feestdagen.
+- **Retargeting** voor mensen die je website eerder bezochten.
 
 Door continue optimalisatie zorgen we dat elke euro in je advertentiebudget maximaal rendeert.
 
 **Lokale SEO met een Okegemse insteek**  
-Om bovenaan in Google te verschijnen bij zoekopdrachten in de regio, pakken we je lokale SEO structureel aan:  
-- Optimalisatie van je **Google Business-profiel**.  
-- **NAP-consistentie** op alle online vermeldingen.  
-- Lokale backlinks via verenigingen, lokale media en partners.  
-- Integratie van herkenbare elementen zoals:  
-  - De Dender  
-  - Sint-Pieterskerk  
-  - Station Okegem  
-  - Lokale evenementen en sportclubs  
+Om bovenaan in Google te verschijnen bij zoekopdrachten in de regio, pakken we je lokale SEO structureel aan:
+
+- Optimalisatie van je **Google Business-profiel**.
+- **NAP-consistentie** op alle online vermeldingen.
+- Lokale backlinks via verenigingen, lokale media en partners.
+- Integratie van herkenbare elementen zoals:
+  - De Dender
+  - Sint-Pieterskerk
+  - Station Okegem
+  - Lokale evenementen en sportclubs
 
 Zo vergroot je je vindbaarheid bij zoekopdrachten als “kapper Okegem” of “restaurant Okegem”.
 
 **Data-gedreven optimalisatie**  
 Met tools zoals **Google Analytics**, **Search Console** en **Piwik Pro** volgen we het gedrag van je bezoekers en de prestaties van je campagnes op. Zo sturen we continu bij voor betere resultaten.
 
-**Waarom kiezen voor Xinudesign in Okegem?**  
-- Persoonlijke samenwerking met korte lijnen.  
-- Technische én creatieve expertise.  
-- Lokale marktkennis van Okegem en omgeving.  
-- Flexibele afspraken: op locatie of digitaal.  
+**Waarom kiezen voor Xinudesign in Okegem?**
+
+- Persoonlijke samenwerking met korte lijnen.
+- Technische én creatieve expertise.
+- Lokale marktkennis van Okegem en omgeving.
+- Flexibele afspraken: op locatie of digitaal.
 - Resultaatgericht werken met focus op groei.
 
 **Interne links voor sterke regio-SEO**  

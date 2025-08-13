@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Gentbrugge met snelle websites, slimme advertenties en lokale SEO die inspeelt op herkenbare plekken zoals het Keizerpark en de Brusselsesteenweg."
 canonical: "https://www.xinudesign.be/diensten/gentbrugge"
 image: "/assets/img/landingpages/gentbrugge.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Om hoog te scoren in lokale zoekresultaten, integreren we herkenbare plaatsen en
 **Data-gedreven optimalisatie**  
 Bij Xinudesign werken we niet op gevoel, maar op feiten. Met Google Analytics, Search Console en Piwik Pro analyseren we het gedrag van je bezoekers, de prestaties van je advertenties en de effectiviteit van je SEO-strategie. Die inzichten gebruiken we om je website, campagnes en content voortdurend te verbeteren en te laten meegroeien met je onderneming.
 
-**Waarom kiezen voor Xinudesign in Gentbrugge?**  
+**Waarom kiezen voor Xinudesign in Gentbrugge?**
 
-- Persoonlijke aanpak met directe communicatielijnen.  
-- Technische expertise en creatief design in één.  
-- Kennis van de lokale markt en ondernemers in Gentbrugge.  
-- Flexibiliteit: afspraken mogelijk op locatie of via videocall.  
+- Persoonlijke aanpak met directe communicatielijnen.
+- Technische expertise en creatief design in één.
+- Kennis van de lokale markt en ondernemers in Gentbrugge.
+- Flexibiliteit: afspraken mogelijk op locatie of via videocall.
 - Focus op meetbare resultaten en duurzame groei.
 
 **Van kennismaking tot lancering**  

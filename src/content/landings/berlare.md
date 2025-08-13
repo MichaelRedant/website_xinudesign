@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Berlare met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de gemeente en haar deelgemeenten."
 canonical: "https://www.xinudesign.be/diensten/berlare"
 image: "/assets/img/landingpages/berlare.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -46,34 +46,34 @@ lastmod: "2025-08-11"
 ---
 
 **Digitale groei voor Berlaarse ondernemers**  
-Berlare is een gemeente waar natuur, toerisme en ondernemerschap hand in hand gaan. Van horecazaken rond het iconische Donkmeer tot zelfstandige ondernemers in Overmere en Uitbergen: online zichtbaar zijn is dé sleutel om meer klanten aan te trekken. Ik begrijp hoe belangrijk het is dat jouw website niet alleen mooi is, maar ook functioneel en vindbaar.  
+Berlare is een gemeente waar natuur, toerisme en ondernemerschap hand in hand gaan. Van horecazaken rond het iconische Donkmeer tot zelfstandige ondernemers in Overmere en Uitbergen: online zichtbaar zijn is dé sleutel om meer klanten aan te trekken. Ik begrijp hoe belangrijk het is dat jouw website niet alleen mooi is, maar ook functioneel en vindbaar.
 
 Bij Xinudesign combineer ik mijn ervaring in webdesign, online marketing en SEO om Berlaarse bedrijven te helpen groeien. Ik werk persoonlijk met je samen, zodat jouw digitale strategie perfect aansluit bij je doelpubliek.
 
 **Webdevelopment op maat van Berlare**  
-Een sterke website is je digitale etalage. Ik bouw websites die snel laden, veilig zijn en perfect werken op elk toestel. Afhankelijk van je wensen werk ik met WordPress voor gebruiksgemak of creëer ik maatwerk in HTML, CSS en React voor maximale controle en flexibiliteit.  
+Een sterke website is je digitale etalage. Ik bouw websites die snel laden, veilig zijn en perfect werken op elk toestel. Afhankelijk van je wensen werk ik met WordPress voor gebruiksgemak of creëer ik maatwerk in HTML, CSS en React voor maximale controle en flexibiliteit.
 
 Elke site wordt ontwikkeld met een duidelijke structuur, aantrekkelijke visuals en overtuigende call-to-actions. Dankzij mijn achtergrond in UI/UX-design zorg ik dat bezoekers meteen begrijpen wat je aanbiedt en eenvoudig de volgende stap zetten: contact opnemen, bestellen of reserveren.
 
 **Advertising: doelgericht bereik in Berlare en deelgemeenten**  
-Met gerichte Google Ads en Meta Ads zorg ik dat je advertenties precies bij de juiste mensen terechtkomen. Via geografische targeting richten we campagnes op Berlare en de deelgemeenten Overmere en Uitbergen. Wil je ook klanten aantrekken uit nabijgelegen plaatsen zoals Zele, Wichelen of Dendermonde? Dan breiden we de targeting slim uit.  
+Met gerichte Google Ads en Meta Ads zorg ik dat je advertenties precies bij de juiste mensen terechtkomen. Via geografische targeting richten we campagnes op Berlare en de deelgemeenten Overmere en Uitbergen. Wil je ook klanten aantrekken uit nabijgelegen plaatsen zoals Zele, Wichelen of Dendermonde? Dan breiden we de targeting slim uit.
 
 Campagnes kunnen inspelen op seizoensgebonden evenementen zoals de jaarmarkt of toeristische piekperiodes rond het Donkmeer. Alles wordt gemeten en geanalyseerd, zodat je altijd weet wat je marketinginvestering oplevert.
 
 **Lokale SEO met een Berlaarse insteek**  
-Lokale SEO is onmisbaar voor ondernemers die werken met klanten uit de regio. Ik optimaliseer je Google Business-profiel, zorg voor consistente NAP-gegevens en bouw backlinks vanuit relevante lokale bronnen.  
+Lokale SEO is onmisbaar voor ondernemers die werken met klanten uit de regio. Ik optimaliseer je Google Business-profiel, zorg voor consistente NAP-gegevens en bouw backlinks vanuit relevante lokale bronnen.
 
 In je webteksten verwerk ik herkenbare elementen zoals het Donkmeer, het natuurgebied Berlare Broek, het kasteelpark en evenementen zoals de jaarlijkse braderieën. Dit verhoogt je relevantie voor zoekmachines én zorgt voor herkenning bij je doelgroep.
 
 **Data-gedreven optimalisatie**  
 Goede marketing steunt op feiten, niet op gokwerk. Met Google Analytics, Search Console en Piwik Pro meet ik hoe bezoekers je website vinden, welke pagina’s ze bekijken en waar ze afhaken. Op basis van deze inzichten verbeter ik je site en campagnes continu, zodat je altijd het beste rendement haalt uit je online aanwezigheid.
 
-**Waarom kiezen voor Xinudesign in Berlare?**  
+**Waarom kiezen voor Xinudesign in Berlare?**
 
-- **Persoonlijke aanpak** – rechtstreeks contact, geen tussenpersonen.  
-- **Combinatie van techniek en creativiteit** – één aanspreekpunt voor webdesign én marketing.  
-- **Lokale kennis** – vertrouwd met de ondernemerscultuur in Berlare en deelgemeenten.  
-- **Flexibiliteit** – afspraken mogelijk op locatie of online.  
+- **Persoonlijke aanpak** – rechtstreeks contact, geen tussenpersonen.
+- **Combinatie van techniek en creativiteit** – één aanspreekpunt voor webdesign én marketing.
+- **Lokale kennis** – vertrouwd met de ondernemerscultuur in Berlare en deelgemeenten.
+- **Flexibiliteit** – afspraken mogelijk op locatie of online.
 - **Resultaatgericht** – focus op meetbare groei.
 
 **Van kennismaking tot lancering**  

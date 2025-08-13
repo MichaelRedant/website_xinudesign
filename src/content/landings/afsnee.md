@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Afsnee groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/afsnee"
 image: "/assets/img/landingpages/afsnee.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -45,56 +45,56 @@ faqs:
 lastmod: "2025-08-12"
 ---
 
-**Digitale groei voor ondernemers in Afsnee**  
+**Digitale groei voor ondernemers in Afsnee**
 
 Afsnee is een charmante en groene deelgemeente van Gent, bekend om zijn schilderachtige ligging aan de Leie, het idyllische dorpsplein en de rust die je er nog vindt. Tegelijkertijd is Afsnee perfect verbonden met Gent, waardoor ondernemers hier kunnen rekenen op zowel lokale klanten als bezoekers uit de stad. Xinudesign helpt bedrijven in Afsnee om hun verhaal online te vertellen en hun bereik te vergroten, met websites en marketingstrategieën die perfect passen bij het unieke karakter van het dorp.
 
-**Webdevelopment op maat van Afsnee**  
+**Webdevelopment op maat van Afsnee**
 
-Elke onderneming in Afsnee is uniek. Of je nu een horecazaak runt met zicht op de Leie, een praktijk hebt in de buurt van het Kasteel Borluut of een winkel in de dorpskern: wij zorgen voor een website die jouw verhaal en aanbod optimaal presenteert.  
+Elke onderneming in Afsnee is uniek. Of je nu een horecazaak runt met zicht op de Leie, een praktijk hebt in de buurt van het Kasteel Borluut of een winkel in de dorpskern: wij zorgen voor een website die jouw verhaal en aanbod optimaal presenteert.
 
 Onze sites zijn:
 
-- **Snel ladend**: voor een optimale gebruikservaring en betere SEO-scores.  
-- **Mobielvriendelijk**: zodat klanten je ook onderweg makkelijk vinden.  
-- **SEO-geoptimaliseerd**: gericht op relevante zoektermen zoals *"webdesign Afsnee"*.  
+- **Snel ladend**: voor een optimale gebruikservaring en betere SEO-scores.
+- **Mobielvriendelijk**: zodat klanten je ook onderweg makkelijk vinden.
+- **SEO-geoptimaliseerd**: gericht op relevante zoektermen zoals _"webdesign Afsnee"_.
 
 We bouwen in WordPress voor flexibiliteit of met maatwerk in HTML, CSS en React voor ultieme prestaties. Onze UI/UX-kennis zorgt voor overzichtelijke navigatie en conversiegerichte layouts.
 
-**Advertising: doelgericht bereik in Afsnee en omgeving**  
+**Advertising: doelgericht bereik in Afsnee en omgeving**
 
-Met Google Ads en Meta Ads brengen we jouw bedrijf onder de aandacht bij precies de juiste doelgroep. Dankzij geografische targeting kunnen we je advertenties tonen aan inwoners van Afsnee, omliggende deelgemeenten zoals [Sint-Denijs-Westrem](/diensten/sint-denijs-westrem) en [Drongen](/diensten/drongen), en potentiële klanten in Gent zelf.  
+Met Google Ads en Meta Ads brengen we jouw bedrijf onder de aandacht bij precies de juiste doelgroep. Dankzij geografische targeting kunnen we je advertenties tonen aan inwoners van Afsnee, omliggende deelgemeenten zoals [Sint-Denijs-Westrem](/diensten/sint-denijs-westrem) en [Drongen](/diensten/drongen), en potentiële klanten in Gent zelf.
 
 Of je nu een tijdelijke promotie hebt, een evenement organiseert of een nieuwe dienst lanceert, wij zorgen dat jouw boodschap gezien wordt door mensen die er echt toe doen. Door voortdurende optimalisatie van campagnes halen we het maximale uit elk advertentiebudget.
 
-**Lokale SEO met een Afseense insteek**  
+**Lokale SEO met een Afseense insteek**
 
 Lokale zichtbaarheid is essentieel voor bedrijven in Afsnee. We zorgen voor een volledig geoptimaliseerd Google Business-profiel, NAP-consistentie en lokale backlinks. Bovendien verwerken we herkenbare referenties zoals:
 
-- De Leie en zijn schilderachtige oevers  
-- Het Kasteel Borluut  
-- De pittoreske dorpskern  
-- Fiets- en wandelroutes richting Sint-Martens-Latem  
-- Evenementen en markten in de buurt  
+- De Leie en zijn schilderachtige oevers
+- Het Kasteel Borluut
+- De pittoreske dorpskern
+- Fiets- en wandelroutes richting Sint-Martens-Latem
+- Evenementen en markten in de buurt
 
 Door deze elementen op een natuurlijke manier in teksten, meta-data en visuals te verwerken, versterken we je lokale relevantie in zoekmachines én herkenning bij je publiek.
 
-**Data-gedreven optimalisatie**  
+**Data-gedreven optimalisatie**
 
 Met tools als Google Analytics, Search Console en Piwik Pro volgen we nauwgezet hoe je website presteert. We analyseren bezoekersgedrag, herkomst en conversies om te bepalen waar verbeteringen mogelijk zijn. Zo blijft je site niet alleen actueel, maar groeit ze mee met je onderneming.
 
-**Waarom kiezen voor Xinudesign in Afsnee?**  
+**Waarom kiezen voor Xinudesign in Afsnee?**
 
-- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.  
-- Technische en creatieve expertise gecombineerd.  
-- Kennis van de lokale markt en unieke identiteit van Afsnee.  
-- Flexibele werkwijze: zowel op locatie als via videocall beschikbaar.  
-- Resultaatgericht: focus op meetbare groei en rendement.  
+- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.
+- Technische en creatieve expertise gecombineerd.
+- Kennis van de lokale markt en unieke identiteit van Afsnee.
+- Flexibele werkwijze: zowel op locatie als via videocall beschikbaar.
+- Resultaatgericht: focus op meetbare groei en rendement.
 
-**Van eerste gesprek tot livegang**  
+**Van eerste gesprek tot livegang**
 
 We starten met een vrijblijvend gesprek waarin we jouw doelen en wensen bespreken. Daarna maken we een concreet plan met duidelijke mijlpalen. Tijdens de ontwikkeling houden we je op de hoogte en verwerken we je feedback. Na de lancering blijven we beschikbaar voor updates, onderhoud en marketingacties.
 
-**Klaar om Afsnee online op de kaart te zetten?**  
+**Klaar om Afsnee online op de kaart te zetten?**
 
 Bel naar **+32 496 90 85 03** of mail naar **[michael@xinudesign.be](mailto:michael@xinudesign.be)** voor een vrijblijvend gesprek. Samen zorgen we voor een website en online strategie die jouw onderneming in Afsnee laat groeien.

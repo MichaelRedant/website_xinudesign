@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Kerksken groeien met snelle websites, doelgerichte advertenties en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/kerksken"
 image: "/assets/img/landingpages/kerksken.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,45 +49,49 @@ lastmod: "2025-08-12"
 Kerksken is een gezellig dorp binnen de gemeente Haaltert, bekend om zijn rustige woonstraten, groene omgeving en nauwe verbondenheid tussen inwoners. Lokale ondernemers — van bakkers en slagers tot freelancers en kmo’s — spelen een centrale rol in het dorpsleven. Met de juiste online zichtbaarheid kan je hier niet alleen je bestaande klanten beter bedienen, maar ook nieuwe klanten aantrekken uit omliggende dorpen en steden. Xinudesign zorgt voor die zichtbaarheid met op maat gemaakte websites en krachtige online marketing.
 
 **Webdevelopment op maat van Kerksken**  
-Een professionele website is het fundament van je digitale aanwezigheid. Wij bouwen **snelle, veilige en gebruiksvriendelijke websites** die aansluiten bij de lokale markt.  
+Een professionele website is het fundament van je digitale aanwezigheid. Wij bouwen **snelle, veilige en gebruiksvriendelijke websites** die aansluiten bij de lokale markt.
 
-Onze aanpak:  
-- **Optimalisatie voor lokale zoekwoorden** zoals “webdesign Kerksken”  
-- **Volledig responsive** zodat je site er goed uitziet op elk toestel  
-- **Core Web Vitals-proof** voor betere Google-ranking  
-- **Conversiegerichte structuur** voor meer aanvragen en bestellingen  
-- Integratie van **lokale elementen** om herkenning bij bezoekers te versterken  
+Onze aanpak:
+
+- **Optimalisatie voor lokale zoekwoorden** zoals “webdesign Kerksken”
+- **Volledig responsive** zodat je site er goed uitziet op elk toestel
+- **Core Web Vitals-proof** voor betere Google-ranking
+- **Conversiegerichte structuur** voor meer aanvragen en bestellingen
+- Integratie van **lokale elementen** om herkenning bij bezoekers te versterken
 
 We werken in **WordPress** voor flexibiliteit of in **HTML, CSS en React** voor maximale prestaties en schaalbaarheid.
 
 **Advertising: gericht bereik in Kerksken en omgeving**  
-Met **Google Ads** en **Meta Ads** zorgen we ervoor dat jouw advertenties enkel gezien worden door de juiste doelgroep. We gebruiken geografische targeting om inwoners van Kerksken en omliggende dorpen zoals Denderhoutem, Haaltert en Heldergem te bereiken.  
+Met **Google Ads** en **Meta Ads** zorgen we ervoor dat jouw advertenties enkel gezien worden door de juiste doelgroep. We gebruiken geografische targeting om inwoners van Kerksken en omliggende dorpen zoals Denderhoutem, Haaltert en Heldergem te bereiken.
 
-Voorbeelden van campagnes:  
-- Promoties voor winkels in de dorpskern  
-- Introductie van nieuwe diensten  
-- Lokale evenementen en acties zoals kermisweek  
-- Retargetingcampagnes voor eerdere websitebezoekers  
+Voorbeelden van campagnes:
+
+- Promoties voor winkels in de dorpskern
+- Introductie van nieuwe diensten
+- Lokale evenementen en acties zoals kermisweek
+- Retargetingcampagnes voor eerdere websitebezoekers
 
 We optimaliseren voortdurend om je advertentiebudget maximaal te laten renderen.
 
 **Lokale SEO met Kerkskense focus**  
-Lokale vindbaarheid is cruciaal voor ondernemers die mikken op klanten in en rond Kerksken. Onze SEO-strategie omvat:  
-- **Google Business-profiel optimalisatie**  
-- **NAP-consistentie** op alle vermeldingen  
-- **Lokale backlinks** vanuit relevante sites en partners  
-- Content met herkenbare plekken zoals de Sint-Pauluskerk, het dorpsplein, lokale horecazaken en jaarlijkse evenementen  
+Lokale vindbaarheid is cruciaal voor ondernemers die mikken op klanten in en rond Kerksken. Onze SEO-strategie omvat:
+
+- **Google Business-profiel optimalisatie**
+- **NAP-consistentie** op alle vermeldingen
+- **Lokale backlinks** vanuit relevante sites en partners
+- Content met herkenbare plekken zoals de Sint-Pauluskerk, het dorpsplein, lokale horecazaken en jaarlijkse evenementen
 
 Zo verschijn je bovenaan bij zoekopdrachten als “kapper Kerksken”, “restaurant Kerksken” of “webdesigner Kerksken”.
 
 **Data-gedreven optimalisatie**  
 Met **Google Analytics**, **Search Console** en **Piwik Pro** monitoren we continu hoe je website presteert. Aan de hand van deze data sturen we campagnes en content bij voor een nog beter resultaat.
 
-**Waarom kiezen voor Xinudesign in Kerksken?**  
-- Persoonlijke aanpak en direct contact  
-- Technische én creatieve expertise  
-- Ervaring met ondernemers in de regio Haaltert  
-- Flexibiliteit: op locatie of online  
+**Waarom kiezen voor Xinudesign in Kerksken?**
+
+- Persoonlijke aanpak en direct contact
+- Technische én creatieve expertise
+- Ervaring met ondernemers in de regio Haaltert
+- Flexibiliteit: op locatie of online
 - Focus op meetbare groei en rendement
 
 **Interne links voor sterke regio-SEO**  

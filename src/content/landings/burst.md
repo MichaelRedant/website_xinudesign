@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Burst met snelle, gebruiksvriendelijke websites, doelgerichte advertenties en lokale SEO die inspeelt op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/burst"
 image: "/assets/img/landingpages/burst.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,27 +49,29 @@ lastmod: "2025-08-12"
 Burst, een levendig dorp in Erpe-Mere, staat bekend om zijn warme dorpsgemeenschap, het station dat het verbindt met de regio, en evenementen zoals **Burst Kermis**. Lokale ondernemers, van bakkerijen tot bouwbedrijven en van kledingwinkels tot cafés, hebben hier een trouw publiek. Toch zoekt datzelfde publiek steeds vaker online naar diensten en producten. Xinudesign zorgt dat jij daar zichtbaar en overtuigend aanwezig bent.
 
 **Webdevelopment op maat van Burst**  
-Wij bouwen **professionele websites** die niet alleen mooi ogen, maar ook presteren. Afhankelijk van jouw noden kiezen we voor **WordPress** voor flexibiliteit of **maatwerk in HTML, CSS en React** voor maximale snelheid en functionaliteit.  
+Wij bouwen **professionele websites** die niet alleen mooi ogen, maar ook presteren. Afhankelijk van jouw noden kiezen we voor **WordPress** voor flexibiliteit of **maatwerk in HTML, CSS en React** voor maximale snelheid en functionaliteit.
 
 Elke website die we opleveren is:
-- **Mobielvriendelijk**, zodat hij perfect werkt op smartphone, tablet en desktop.  
-- **SEO-geoptimaliseerd** om goed te scoren in Google.  
-- **Conversiegericht** opgebouwd, met duidelijke call-to-actions en overzichtelijke navigatie.  
+
+- **Mobielvriendelijk**, zodat hij perfect werkt op smartphone, tablet en desktop.
+- **SEO-geoptimaliseerd** om goed te scoren in Google.
+- **Conversiegericht** opgebouwd, met duidelijke call-to-actions en overzichtelijke navigatie.
 
 Of je nu een winkel hebt in de buurt van het station van Burst, een ambachtelijk atelier in de dorpskern of een dienstverlenend bedrijf aan de rand van het dorp: we maken een site die jouw merk versterkt en nieuwe klanten aantrekt.
 
 **Advertising: doelgericht bereik in Burst en omgeving**  
-Met **Google Ads** en **Meta Ads** bereiken we exact de mensen die jij als klant wilt. Dankzij **geografische targeting** richten we ons op Burst en naburige dorpen zoals [Aaigem](/diensten/aaigem), [Bambrugge](/diensten/bambrugge) en [Erpe](/diensten/erpe).  
+Met **Google Ads** en **Meta Ads** bereiken we exact de mensen die jij als klant wilt. Dankzij **geografische targeting** richten we ons op Burst en naburige dorpen zoals [Aaigem](/diensten/aaigem), [Bambrugge](/diensten/bambrugge) en [Erpe](/diensten/erpe).
 
 Denk aan:
-- **Promoties** rond Burst Kermis.  
-- **Seizoensacties** voor lokale winkels.  
-- **Retargeting** voor bezoekers die je site al eens bekeken hebben.  
+
+- **Promoties** rond Burst Kermis.
+- **Seizoensacties** voor lokale winkels.
+- **Retargeting** voor bezoekers die je site al eens bekeken hebben.
 
 Wij zorgen ervoor dat je advertentiebudget efficiënt wordt besteed en je boodschap op het juiste moment op de juiste plek verschijnt.
 
 **Lokale SEO met een Burstse insteek**  
-We weten hoe belangrijk het is om lokaal gevonden te worden. Daarom optimaliseren we je **Google Business-profiel**, zorgen we voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen we **lokale backlinks**.  
+We weten hoe belangrijk het is om lokaal gevonden te worden. Daarom optimaliseren we je **Google Business-profiel**, zorgen we voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen we **lokale backlinks**.
 
 Herkenbare elementen die we integreren in je content:
 
@@ -85,17 +87,17 @@ Bij Xinudesign nemen we beslissingen op basis van data, niet op gevoel. Met tool
 
 - Hoe bezoekers je site vinden.
 - Welke pagina’s de meeste interactie krijgen.
-- Waar potentiële klanten afhaken.  
+- Waar potentiële klanten afhaken.
 
 Deze inzichten gebruiken we om je content, advertenties en gebruikerservaring continu te verbeteren.
 
-**Waarom kiezen voor Xinudesign in Burst?**  
+**Waarom kiezen voor Xinudesign in Burst?**
 
-- **Persoonlijke aanpak:** je hebt rechtstreeks contact met de webdesigner en marketeer.  
-- **Technische én creatieve expertise:** van code tot design.  
-- **Lokale kennis:** we kennen de troeven en uitdagingen van Burst.  
-- **Flexibiliteit:** op locatie of via videocall.  
-- **Resultaatgericht:** we meten alles en sturen bij voor maximale ROI.  
+- **Persoonlijke aanpak:** je hebt rechtstreeks contact met de webdesigner en marketeer.
+- **Technische én creatieve expertise:** van code tot design.
+- **Lokale kennis:** we kennen de troeven en uitdagingen van Burst.
+- **Flexibiliteit:** op locatie of via videocall.
+- **Resultaatgericht:** we meten alles en sturen bij voor maximale ROI.
 
 **Interne links: Burst verbonden met de regio**  
 [Aaigem](/diensten/aaigem) • [Bambrugge](/diensten/bambrugge) • [Erpe](/diensten/erpe) • [Erpe-Mere](/diensten/erpe-mere)

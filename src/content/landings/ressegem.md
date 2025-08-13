@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Ressegem met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/ressegem"
 image: "/assets/img/landingpages/ressegem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Lokale SEO is essentieel voor bedrijven die zich richten op klanten uit hun eige
 **Data-gedreven optimalisatie**  
 Wij geloven in beslissingen op basis van cijfers. Met tools als Google Analytics, Search Console en Piwik Pro analyseren we bezoekersgedrag, conversiepercentages en de prestaties van zoekwoorden. Deze inzichten gebruiken we om je website en campagnes voortdurend te verbeteren, zodat je concurrenten steeds een stap voor blijft.
 
-**Waarom kiezen voor Xinudesign in Ressegem?**  
+**Waarom kiezen voor Xinudesign in Ressegem?**
 
-- Persoonlijke aanpak met directe communicatie.  
-- Technische én creatieve expertise in één dienstverlener.  
-- Kennis van de lokale markt en doelgroep in Ressegem.  
-- Flexibiliteit: afspraken mogelijk op locatie of online.  
+- Persoonlijke aanpak met directe communicatie.
+- Technische én creatieve expertise in één dienstverlener.
+- Kennis van de lokale markt en doelgroep in Ressegem.
+- Flexibiliteit: afspraken mogelijk op locatie of online.
 - Focus op meetbare resultaten en duurzame groei.
 
 **Van kennismaking tot livegang**  

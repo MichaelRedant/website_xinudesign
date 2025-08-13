@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Brakel met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de stad."
 canonical: "https://www.xinudesign.be/diensten/brakel"
 image: "/assets/img/landingpages/brakel.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Lokale vindbaarheid is essentieel voor ondernemers die werken met klanten uit de
 **Data-gedreven optimalisatie**  
 Wij geloven in beslissingen op basis van feiten. Met tools zoals Google Analytics, Search Console en Piwik Pro analyseren we het gedrag van bezoekers en de prestaties van je campagnes. Op basis van deze data passen we je website en marketingstrategie continu aan, zodat je altijd het beste resultaat behaalt.
 
-**Waarom kiezen voor Xinudesign in Brakel?**  
+**Waarom kiezen voor Xinudesign in Brakel?**
 
-- Persoonlijke aanpak met directe communicatielijnen.  
-- Technische expertise en creatief design in één pakket.  
-- Kennis van de lokale markt en ondernemers in Brakel en omgeving.  
-- Flexibiliteit: afspraken mogelijk op locatie of via videocall.  
+- Persoonlijke aanpak met directe communicatielijnen.
+- Technische expertise en creatief design in één pakket.
+- Kennis van de lokale markt en ondernemers in Brakel en omgeving.
+- Flexibiliteit: afspraken mogelijk op locatie of via videocall.
 - Focus op meetbare resultaten en duurzame groei.
 
 **Van kennismaking tot lancering**  

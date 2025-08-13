@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt Zottegemse ondernemers groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van de stad."
 canonical: "https://www.xinudesign.be/diensten/zottegem"
 image: "/assets/img/landingpages/zottegem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,32 +49,35 @@ lastmod: "2025-08-12"
 Zottegem is de Poort van de Vlaamse Ardennen en staat bekend om zijn historisch erfgoed, levendige stadskern en sterke handelszaken. Van een boetiek op de Markt tot een horecazaak aan de Heldenlaan of een dienstverlener in een van de deelgemeenten: lokale ondernemers hebben hier een trouw publiek én toeristen die op ontdekking komen. Xinudesign helpt je om die brede doelgroep ook online te bereiken.
 
 **Webdevelopment op maat van Zottegem**  
-Elke website die we bouwen combineert **technische perfectie**, **sterk design** en **lokale relevantie**.  
+Elke website die we bouwen combineert **technische perfectie**, **sterk design** en **lokale relevantie**.
 
 Onze aanpak:
-- **SEO-geoptimaliseerd** voor termen als “webdesign Zottegem” en “SEO Zottegem”.  
-- **Volledig mobielvriendelijk** voor vlotte toegang via smartphone.  
-- **Snelle laadtijden** voor betere Google-posities.  
-- **Gebruiksvriendelijke navigatie** voor hogere conversies.  
-- **Beveiligd met SSL** en volgens de nieuwste webstandaarden.  
+
+- **SEO-geoptimaliseerd** voor termen als “webdesign Zottegem” en “SEO Zottegem”.
+- **Volledig mobielvriendelijk** voor vlotte toegang via smartphone.
+- **Snelle laadtijden** voor betere Google-posities.
+- **Gebruiksvriendelijke navigatie** voor hogere conversies.
+- **Beveiligd met SSL** en volgens de nieuwste webstandaarden.
 
 We werken in **WordPress** voor flexibiliteit of bouwen **HTML/CSS/React** maatwerk voor maximale prestaties. Je krijgt altijd een website die scoort bij bezoekers én zoekmachines.
 
 **Advertising: doelgericht bereik in stad en deelgemeenten**  
-Met **Google Ads** en **Meta Ads** zetten we campagnes op die precies de juiste mensen aanspreken.  
+Met **Google Ads** en **Meta Ads** zetten we campagnes op die precies de juiste mensen aanspreken.
 
 Voorbeelden van targeting:
-- Hyperlokaal op het centrum en deelgemeenten zoals Velzeke, Godveerdegem, Erwetegem en Grotenberge.  
-- Promoties rond marktdagen, evenementen zoals de Egmontfeesten of sportwedstrijden.  
-- Retargeting voor eerdere websitebezoekers of geïnteresseerden in vergelijkbare diensten.  
+
+- Hyperlokaal op het centrum en deelgemeenten zoals Velzeke, Godveerdegem, Erwetegem en Grotenberge.
+- Promoties rond marktdagen, evenementen zoals de Egmontfeesten of sportwedstrijden.
+- Retargeting voor eerdere websitebezoekers of geïnteresseerden in vergelijkbare diensten.
 
 Zo gaat geen advertentiebudget verloren aan irrelevante klikken.
 
 **Lokale SEO met een Zottegemse insteek**  
 Wie in Zottegem zoekt naar producten of diensten, moet jou bovenaan vinden. Daarom werken we met een doordachte lokale SEO-strategie:
-- **Google Business-profiel optimaliseren** voor meer zichtbaarheid in Maps.  
-- **NAP-consistentie** op alle bedrijfsvermeldingen.  
-- **Lokale backlinks** van Zottegemse organisaties en partners.  
+
+- **Google Business-profiel optimaliseren** voor meer zichtbaarheid in Maps.
+- **NAP-consistentie** op alle bedrijfsvermeldingen.
+- **Lokale backlinks** van Zottegemse organisaties en partners.
 - Verwerken van herkenbare plekken zoals:
   - Egmontkasteel
   - Stadspark Zottegem
@@ -87,12 +90,13 @@ Deze aanpak verhoogt je zichtbaarheid én herkenning bij inwoners en bezoekers.
 **Data-gedreven optimalisatie**  
 Met **Google Analytics**, **Search Console** en **Piwik Pro** volgen we continu je prestaties op. Zo weten we precies welke campagnes, pagina’s en zoekwoorden de meeste leads en omzet opleveren. Met die inzichten sturen we continu bij voor maximale return.
 
-**Waarom kiezen voor Xinudesign in Zottegem?**  
-- Persoonlijke samenwerking en directe communicatielijnen.  
-- Technische en creatieve expertise onder één dak.  
-- Grondige kennis van de Zottegemse markt en omgeving.  
-- Flexibel: op locatie of volledig digitaal.  
-- Focus op meetbare groei en rendement.  
+**Waarom kiezen voor Xinudesign in Zottegem?**
+
+- Persoonlijke samenwerking en directe communicatielijnen.
+- Technische en creatieve expertise onder één dak.
+- Grondige kennis van de Zottegemse markt en omgeving.
+- Flexibel: op locatie of volledig digitaal.
+- Focus op meetbare groei en rendement.
 
 **Interne links voor regionale SEO**  
 [Velzeke](/diensten/velzeke) • [Godveerdegem](/diensten/godveerdegem) • [Grotenberge](/diensten/grotenberge) • [Erwetegem](/diensten/erwetegem)

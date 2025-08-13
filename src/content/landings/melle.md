@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Melle met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de gemeente."
 canonical: "https://www.xinudesign.be/diensten/melle"
 image: "/assets/img/landingpages/melle.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Lokale vindbaarheid is essentieel, zeker voor ondernemingen die mikken op klante
 **Data-gedreven optimalisatie**  
 Online succes begint bij meten en analyseren. Met tools zoals Google Analytics, Search Console en Piwik Pro volgen we je prestaties op de voet. We kijken naar bezoekersgedrag, conversiepercentages en campagneresultaten om continu verbeteringen door te voeren. Zo blijf je niet alleen zichtbaar, maar ook relevant en concurrerend.
 
-**Waarom kiezen voor Xinudesign in Melle?**  
+**Waarom kiezen voor Xinudesign in Melle?**
 
-- Persoonlijke aanpak met korte communicatielijnen.  
-- Technische en creatieve expertise gecombineerd in één dienstverlener.  
-- Kennis van de lokale markt en specifieke kenmerken van Melle.  
-- Flexibiliteit: afspraken mogelijk op locatie of online.  
+- Persoonlijke aanpak met korte communicatielijnen.
+- Technische en creatieve expertise gecombineerd in één dienstverlener.
+- Kennis van de lokale markt en specifieke kenmerken van Melle.
+- Flexibiliteit: afspraken mogelijk op locatie of online.
 - Focus op duurzame, meetbare groei.
 
 **Van eerste gesprek tot livegang**  

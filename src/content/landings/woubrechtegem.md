@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Woubrechtegem met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/woubrechtegem"
 image: "/assets/img/landingpages/woubrechtegem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Lokale vindbaarheid is essentieel voor ondernemers die afhankelijk zijn van klan
 **Data-gedreven optimalisatie**  
 Wij nemen beslissingen op basis van feiten, niet op gevoel. Met tools zoals Google Analytics, Search Console en Piwik Pro meten we hoe bezoekers je site vinden en gebruiken. We analyseren conversies, zoekwoordposities en gebruikersgedrag om je strategie continu te verbeteren. Zo blijft je site niet alleen actueel, maar ook winstgevend.
 
-**Waarom kiezen voor Xinudesign in Woubrechtegem?**  
+**Waarom kiezen voor Xinudesign in Woubrechtegem?**
 
-- Persoonlijke aanpak met directe communicatie.  
-- Technische en creatieve expertise in één pakket.  
-- Grondige kennis van de lokale markt in Woubrechtegem en omgeving.  
-- Flexibiliteit: afspraken mogelijk op locatie of online.  
+- Persoonlijke aanpak met directe communicatie.
+- Technische en creatieve expertise in één pakket.
+- Grondige kennis van de lokale markt in Woubrechtegem en omgeving.
+- Flexibiliteit: afspraken mogelijk op locatie of online.
 - Focus op meetbare resultaten en duurzame groei.
 
 **Van kennismaking tot livegang**  

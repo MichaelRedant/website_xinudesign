@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Gijzegem met snelle websites, gerichte advertenties en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/gijzegem"
 image: "/assets/img/landingpages/gijzegem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -61,12 +61,12 @@ Een sterke lokale vindbaarheid is essentieel. We optimaliseren je website en Goo
 **Data-gedreven optimalisatie**  
 We geloven in meten is weten. Met Google Analytics, Search Console en Piwik Pro volgen we nauwgezet het gedrag van je bezoekers en de prestaties van je campagnes op. Op basis van deze data sturen we continu bij, zodat jouw digitale strategie altijd rendeert.
 
-**Waarom kiezen voor Xinudesign in Gijzegem?**  
+**Waarom kiezen voor Xinudesign in Gijzegem?**
 
-- Persoonlijke aanpak en directe communicatie.  
-- Technische én creatieve expertise onder één dak.  
-- Lokale kennis van Gijzegem en de regio Aalst.  
-- Flexibiliteit: op locatie of volledig online samenwerken.  
+- Persoonlijke aanpak en directe communicatie.
+- Technische én creatieve expertise onder één dak.
+- Lokale kennis van Gijzegem en de regio Aalst.
+- Flexibiliteit: op locatie of volledig online samenwerken.
 - Focus op meetbare resultaten en langdurige groei.
 
 **Van idee tot lancering**  

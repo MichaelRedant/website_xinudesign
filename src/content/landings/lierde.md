@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Lierde met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de gemeente."
 canonical: "https://www.xinudesign.be/diensten/lierde"
 image: "/assets/img/landingpages/lierde.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Voor ondernemers die werken met klanten uit de regio is lokale SEO cruciaal. Wij
 **Data-gedreven optimalisatie**  
 Bij Xinudesign werken we niet op basis van aannames. Met Google Analytics, Search Console en Piwik Pro analyseren we het gedrag van je bezoekers en de prestaties van je campagnes. We kijken naar zaken als bounce rate, conversiepercentages en de zoekwoorden waarop je scoort. Deze inzichten gebruiken we om je website en marketingstrategie continu te verbeteren en je rendement te verhogen.
 
-**Waarom kiezen voor Xinudesign in Lierde?**  
+**Waarom kiezen voor Xinudesign in Lierde?**
 
-- Persoonlijke en directe communicatie zonder tussenlagen.  
-- Combinatie van technische knowhow en creatief design.  
-- Kennis van de lokale markt en bedrijvigheid in Lierde en deelgemeenten.  
-- Flexibiliteit: afspraken mogelijk op locatie of via videocall.  
+- Persoonlijke en directe communicatie zonder tussenlagen.
+- Combinatie van technische knowhow en creatief design.
+- Kennis van de lokale markt en bedrijvigheid in Lierde en deelgemeenten.
+- Flexibiliteit: afspraken mogelijk op locatie of via videocall.
 - Focus op meetbare groei en duurzame resultaten.
 
 **Van kennismaking tot lancering**  

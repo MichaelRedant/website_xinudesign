@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Godveerdegem met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/godveerdegem"
 image: "/assets/img/landingpages/godveerdegem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -50,43 +50,48 @@ Godveerdegem, een charmante deelgemeente van Zottegem, ademt rust en authenticit
 
 **Webdevelopment op maat van Godveerdegem**  
 Elke website die we maken is **snel, gebruiksvriendelijk** en **SEO-geoptimaliseerd**. We bouwen met:
-- **WordPress** voor flexibiliteit en eenvoud in beheer.  
-- **Maatwerk in HTML, CSS en React** voor maximale prestaties en unieke designs.  
+
+- **WordPress** voor flexibiliteit en eenvoud in beheer.
+- **Maatwerk in HTML, CSS en React** voor maximale prestaties en unieke designs.
 
 Kenmerken:
-- Mobielvriendelijk en perfect leesbaar op alle apparaten.  
-- Geoptimaliseerd voor **Core Web Vitals** en Google-ranking.  
-- Duidelijke navigatie en sterke call-to-actions die bezoekers aanzetten tot actie.  
+
+- Mobielvriendelijk en perfect leesbaar op alle apparaten.
+- Geoptimaliseerd voor **Core Web Vitals** en Google-ranking.
+- Duidelijke navigatie en sterke call-to-actions die bezoekers aanzetten tot actie.
 
 Of je nu een kapper bent in het centrum van Godveerdegem, een ambachtelijke slagerij hebt of een zelfstandige bent die zijn diensten online wil promoten: wij zorgen dat je website klanten aantrekt en omzet genereert.
 
 **Advertising: doelgericht bereik in Godveerdegem en regio**  
 Met **Google Ads** en **Meta Ads** zetten we campagnes op die hyperlokaal targeten:
-- Focus op Godveerdegem en naburige dorpen zoals Velzeke, Grotenberge en Erwetegem.  
-- Advertenties afgestemd op seizoensacties, evenementen en promoties.  
-- Retargeting voor bezoekers die eerder je site bezochten.  
+
+- Focus op Godveerdegem en naburige dorpen zoals Velzeke, Grotenberge en Erwetegem.
+- Advertenties afgestemd op seizoensacties, evenementen en promoties.
+- Retargeting voor bezoekers die eerder je site bezochten.
 
 Zo maximaliseer je de impact van je advertentiebudget.
 
 **Lokale SEO met een Godveerdegemse insteek**  
 Wij zorgen dat je bovenaan staat bij zoekopdrachten in de regio door:
-- Optimalisatie van je **Google Business-profiel**.  
-- **NAP-consistentie** in al je online vermeldingen.  
-- Lokale backlinks vanuit Zottegemse en Godveerdegemse bronnen.  
+
+- Optimalisatie van je **Google Business-profiel**.
+- **NAP-consistentie** in al je online vermeldingen.
+- Lokale backlinks vanuit Zottegemse en Godveerdegemse bronnen.
 - Integratie van herkenbare plaatsen zoals:
-  - Sint-Eligiuskerk  
-  - Dorpsplein Godveerdegem  
-  - Fiets- en wandelroutes richting Velzeke en Zottegem  
+  - Sint-Eligiuskerk
+  - Dorpsplein Godveerdegem
+  - Fiets- en wandelroutes richting Velzeke en Zottegem
 
 **Data-gedreven optimalisatie**  
 Met tools als **Google Analytics**, **Search Console** en **Piwik Pro** volgen we prestaties nauwgezet op. We analyseren welke pagina’s en campagnes het meeste resultaat opleveren en sturen continu bij.
 
-**Waarom kiezen voor Xinudesign in Godveerdegem?**  
-- Persoonlijke aanpak en directe communicatie.  
-- Creatieve en technische expertise in één pakket.  
-- Kennis van het lokale ondernemersklimaat.  
-- Flexibiliteit: op locatie of volledig online.  
-- Resultaatgericht: we focussen op meetbare groei.  
+**Waarom kiezen voor Xinudesign in Godveerdegem?**
+
+- Persoonlijke aanpak en directe communicatie.
+- Creatieve en technische expertise in één pakket.
+- Kennis van het lokale ondernemersklimaat.
+- Flexibiliteit: op locatie of volledig online.
+- Resultaatgericht: we focussen op meetbare groei.
 
 **Interne links voor regionale SEO**  
 [Zottegem](/diensten/zottegem) • [Velzeke](/diensten/velzeke) • [Grotenberge](/diensten/grotenberge) • [Erwetegem](/diensten/erwetegem)

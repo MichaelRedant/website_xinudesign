@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Outer groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/outer"
 image: "/assets/img/landingpages/outer.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,48 +49,52 @@ lastmod: "2025-08-12"
 Outer is een charmant dorp in de buurt van Ninove, waar het landelijke karakter samengaat met een actieve gemeenschap. Van lokale handelaars tot zelfstandige dienstverleners: steeds meer ondernemers ontdekken dat een sterke online aanwezigheid essentieel is om klanten te bereiken, ook buiten het eigen dorp. Xinudesign helpt je om je zaak in Outer digitaal op de kaart te zetten.
 
 **Webdevelopment op maat van Outer**  
-Elke onderneming heeft een verhaal, en dat verhaal vertalen wij naar een unieke, professionele website.  
+Elke onderneming heeft een verhaal, en dat verhaal vertalen wij naar een unieke, professionele website.
 
-Onze aanpak:  
-- **SEO-geoptimaliseerd design** op zoekwoorden als “webdesign Outer” en “SEO Outer”.  
-- **Responsief ontwerp** dat perfect werkt op smartphone, tablet en desktop.  
-- **Snelle laadtijden** voor betere gebruikservaring én hogere rankings in Google.  
-- **Conversiegerichte navigatie** met duidelijke knoppen en contactmogelijkheden.  
-- **Veilige hosting** en technische optimalisaties voor maximale betrouwbaarheid.  
+Onze aanpak:
+
+- **SEO-geoptimaliseerd design** op zoekwoorden als “webdesign Outer” en “SEO Outer”.
+- **Responsief ontwerp** dat perfect werkt op smartphone, tablet en desktop.
+- **Snelle laadtijden** voor betere gebruikservaring én hogere rankings in Google.
+- **Conversiegerichte navigatie** met duidelijke knoppen en contactmogelijkheden.
+- **Veilige hosting** en technische optimalisaties voor maximale betrouwbaarheid.
 
 We werken zowel met **WordPress** voor eenvoudig beheer als met **maatwerk in HTML, CSS en React** voor bedrijven die maximale snelheid en flexibiliteit willen.
 
 **Advertising: doelgericht bereik in Outer en regio**  
-Met **Google Ads** en **Meta Ads** brengen we jouw aanbod exact bij de mensen die het nodig hebben.  
+Met **Google Ads** en **Meta Ads** brengen we jouw aanbod exact bij de mensen die het nodig hebben.
 
-Voorbeelden:  
-- Hyperlokale targeting op Outer en omliggende dorpen zoals Pollare, Voorde en Ninove.  
-- Advertenties rond lokale evenementen of seizoensacties.  
-- Retargetingcampagnes om eerdere bezoekers opnieuw aan te spreken.  
+Voorbeelden:
+
+- Hyperlokale targeting op Outer en omliggende dorpen zoals Pollare, Voorde en Ninove.
+- Advertenties rond lokale evenementen of seizoensacties.
+- Retargetingcampagnes om eerdere bezoekers opnieuw aan te spreken.
 
 Wij monitoren en optimaliseren elke campagne continu, zodat je budget optimaal rendeert.
 
 **Lokale SEO met een Outerse insteek**  
-Wil je hoog scoren bij zoekopdrachten in en rond Outer? Dan pakken we je lokale SEO structureel aan:  
-- **Optimalisatie van je Google Business-profiel** voor betere zichtbaarheid in Maps.  
-- **NAP-consistentie** (naam, adres, telefoonnummer) op alle online platforms.  
-- **Lokale backlinks** via samenwerkingen met verenigingen, buurtinitiatieven en nieuwswebsites.  
-- Integratie van herkenbare elementen zoals:  
-  - Het dorpsplein  
-  - De Dender  
-  - Lokale wandel- en fietsroutes  
-  - Jaarlijkse evenementen van verenigingen  
+Wil je hoog scoren bij zoekopdrachten in en rond Outer? Dan pakken we je lokale SEO structureel aan:
+
+- **Optimalisatie van je Google Business-profiel** voor betere zichtbaarheid in Maps.
+- **NAP-consistentie** (naam, adres, telefoonnummer) op alle online platforms.
+- **Lokale backlinks** via samenwerkingen met verenigingen, buurtinitiatieven en nieuwswebsites.
+- Integratie van herkenbare elementen zoals:
+  - Het dorpsplein
+  - De Dender
+  - Lokale wandel- en fietsroutes
+  - Jaarlijkse evenementen van verenigingen
 
 Deze aanpak zorgt voor zowel herkenning bij inwoners als betere prestaties in Google.
 
 **Data-gedreven optimalisatie**  
 Wij werken altijd op basis van data, niet op buikgevoel. Met **Google Analytics**, **Search Console** en **Piwik Pro** volgen we het gedrag van bezoekers en de prestaties van je campagnes op. Zo kunnen we snel inspelen op wat werkt en wat niet.
 
-**Waarom kiezen voor Xinudesign in Outer?**  
-- Persoonlijke, directe communicatie.  
-- Technische en creatieve expertise in één.  
-- Kennis van de lokale markt in en rond Outer.  
-- Flexibele samenwerking: op locatie of online.  
+**Waarom kiezen voor Xinudesign in Outer?**
+
+- Persoonlijke, directe communicatie.
+- Technische en creatieve expertise in één.
+- Kennis van de lokale markt in en rond Outer.
+- Flexibele samenwerking: op locatie of online.
 - Altijd resultaatgericht en meetbaar.
 
 **Interne links voor sterke regio-SEO**  

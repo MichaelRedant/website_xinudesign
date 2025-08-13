@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt Sint-Niklase ondernemers groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het Waasland."
 canonical: "https://www.xinudesign.be/diensten/sint-niklaas"
 image: "/assets/img/landingpages/sint-niklaas.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,36 +49,38 @@ lastmod: "2025-08-12"
 Sint-Niklaas is meer dan de grootste markt van België. Het is een stad vol ondernemerschap, cultuur en evenementen die bezoekers van heinde en verre aantrekken. Van winkels in het Waasland Shopping Center tot gezellige boetieks in de Stationsstraat en bruisende horeca op de Grote Markt: online zichtbaarheid is hier net zo belangrijk als je fysieke etalage. Xinudesign helpt je opvallen in de digitale massa met websites en marketingcampagnes die écht converteren.
 
 **Webdevelopment op maat van Sint-Niklaas**  
-Elke onderneming is uniek, en dat vertalen we naar een website die je merk perfect weerspiegelt. Wij bouwen **snelle, veilige en mobielvriendelijke websites** die optimaal presteren in zoekmachines. Afhankelijk van je noden werken we met **WordPress** voor gebruiksgemak of met **maatwerk in HTML, CSS en React** voor maximale snelheid en flexibiliteit.  
+Elke onderneming is uniek, en dat vertalen we naar een website die je merk perfect weerspiegelt. Wij bouwen **snelle, veilige en mobielvriendelijke websites** die optimaal presteren in zoekmachines. Afhankelijk van je noden werken we met **WordPress** voor gebruiksgemak of met **maatwerk in HTML, CSS en React** voor maximale snelheid en flexibiliteit.
 
 Van een restaurant aan de Grote Markt tot een zelfstandige in Belsele of een bouwbedrijf in Sinaai: jouw website wordt ontwikkeld met oog voor detail, logische navigatie en duidelijke call-to-actions. Zo vinden bezoekers snel wat ze zoeken en worden ze vlot omgezet in klanten.
 
 **Advertising: doelgericht bereik in Sint-Niklaas en het Waasland**  
-Met **Google Ads** en **Meta Ads** brengen we jouw boodschap bij de juiste mensen. We richten campagnes in met **geografische targeting** op Sint-Niklaas en omliggende plaatsen zoals [Belsele](/diensten/belsele), [Nieuwkerken-Waas](/diensten/nieuwkerken-waas) en [Sinaai](/diensten/sinaai).  
+Met **Google Ads** en **Meta Ads** brengen we jouw boodschap bij de juiste mensen. We richten campagnes in met **geografische targeting** op Sint-Niklaas en omliggende plaatsen zoals [Belsele](/diensten/belsele), [Nieuwkerken-Waas](/diensten/nieuwkerken-waas) en [Sinaai](/diensten/sinaai).
 
 Of het nu gaat om een promotie voor een winkel in de Stationsstraat, een evenement op de Grote Markt of een nieuwe dienst in het Waasland Shopping Center: wij zorgen dat jouw advertenties gezien worden door de doelgroep die er het meest toe doet. Door continue optimalisatie maximaliseren we je rendement en vermijden we verspilling van budget.
 
 **Lokale SEO met een Sint-Niklase insteek**  
-Lokale vindbaarheid is cruciaal voor ondernemers die mikken op klanten uit de buurt. We optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** en bouwen **lokale backlinks** op vanuit relevante Wase bronnen.  
+Lokale vindbaarheid is cruciaal voor ondernemers die mikken op klanten uit de buurt. We optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** en bouwen **lokale backlinks** op vanuit relevante Wase bronnen.
 
-We verwerken herkenbare elementen in je webteksten en visuals, zoals:  
-- De Grote Markt  
-- Het Romain De Vidtspark  
-- De ballonfeesten  
-- Waasland Shopping Center  
-- Cultuurcentrum Stad Sint-Niklaas  
+We verwerken herkenbare elementen in je webteksten en visuals, zoals:
+
+- De Grote Markt
+- Het Romain De Vidtspark
+- De ballonfeesten
+- Waasland Shopping Center
+- Cultuurcentrum Stad Sint-Niklaas
 
 Door deze lokale verankering stijg je niet alleen in de zoekresultaten, maar wek je ook vertrouwen bij bezoekers.
 
 **Data-gedreven optimalisatie**  
 Wij werken niet op gevoel, maar op data. Met **Google Analytics**, **Search Console** en **Piwik Pro** analyseren we hoe bezoekers je site vinden en gebruiken. Op basis van die inzichten verbeteren we content, advertenties en gebruikservaring continu. Zo groeit je website mee met jouw onderneming.
 
-**Waarom kiezen voor Xinudesign in Sint-Niklaas?**  
-- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.  
-- Technische en creatieve expertise onder één dak.  
-- Lokale kennis van Sint-Niklaas en het Waasland.  
-- Flexibiliteit: op locatie of via videocall.  
-- Resultaatgericht met focus op meetbare groei.  
+**Waarom kiezen voor Xinudesign in Sint-Niklaas?**
+
+- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.
+- Technische en creatieve expertise onder één dak.
+- Lokale kennis van Sint-Niklaas en het Waasland.
+- Flexibiliteit: op locatie of via videocall.
+- Resultaatgericht met focus op meetbare groei.
 
 **Interne links: heel Sint-Niklaas verbonden**  
 Versterk je lokale autoriteit met gerichte interne links naar de deelgemeenten:  

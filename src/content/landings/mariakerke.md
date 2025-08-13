@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Mariakerke met snelle websites, slimme advertenties en lokale SEO die inspeelt op herkenbare plekken zoals de Bourgoyen-Ossemeersen en het Mariakerkeplein."
 canonical: "https://www.xinudesign.be/diensten/mariakerke"
 image: "/assets/img/landingpages/mariakerke.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -56,7 +56,7 @@ Een sterke website is het digitale uithangbord van je zaak. Wij bouwen websites 
 
 - Snel laden op alle apparaten.
 - Mobielvriendelijk zijn, zodat klanten je ook onderweg vinden.
-- SEO-geoptimaliseerd zijn voor termen als *webdesign Mariakerke* en *webdesigner Gent*.
+- SEO-geoptimaliseerd zijn voor termen als _webdesign Mariakerke_ en _webdesigner Gent_.
 - Gebruiksvriendelijk en intuïtief aanvoelen voor je bezoekers.
 
 Of je nu kiest voor een flexibele WordPress-site of een op maat gecodeerde oplossing in HTML, CSS en React, we leveren altijd een product dat past bij je merk en je doelstellingen.  
@@ -95,18 +95,18 @@ Met deze inzichten sturen we je strategie continu bij, zodat je online prestatie
 
 **Waarom kiezen voor Xinudesign in Mariakerke?**
 
-- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.  
-- Lokale expertise: vertrouwd met de inwoners en het ondernemersklimaat van Mariakerke.  
-- Technische en creatieve kracht: één aanspreekpunt voor webdesign, SEO en advertising.  
-- Flexibiliteit: afspraken mogelijk in Mariakerke of online.  
+- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.
+- Lokale expertise: vertrouwd met de inwoners en het ondernemersklimaat van Mariakerke.
+- Technische en creatieve kracht: één aanspreekpunt voor webdesign, SEO en advertising.
+- Flexibiliteit: afspraken mogelijk in Mariakerke of online.
 - Resultaatgericht: focus op meetbare groei.
 
 **Van kennismaking tot livegang**
 
-1. Kennismaking: vrijblijvend gesprek over je doelen en verwachtingen.  
-2. Strategie: plan op maat met duidelijke deadlines en deliverables.  
-3. Ontwikkeling: bouw van je website of opzetten van campagnes.  
-4. Lancering: je nieuwe online aanwezigheid gaat live.  
+1. Kennismaking: vrijblijvend gesprek over je doelen en verwachtingen.
+2. Strategie: plan op maat met duidelijke deadlines en deliverables.
+3. Ontwikkeling: bouw van je website of opzetten van campagnes.
+4. Lancering: je nieuwe online aanwezigheid gaat live.
 5. Nazorg: blijvende optimalisatie, onderhoud en marketing.
 
 **Klaar om Mariakerke online te veroveren?**

@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Erondégem groeien met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van de deelgemeente."
 canonical: "https://www.xinudesign.be/diensten/erondegem"
 image: "/assets/img/landingpages/erondegem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,25 +49,25 @@ lastmod: "2025-08-12"
 Erondégem is een charmante deelgemeente van Lede, gekend om haar landelijke karakter, rustige woonstraten en hechte dorpsgemeenschap. Met de Sint-Pieterskerk als herkenningspunt en tal van groene fiets- en wandelroutes, is het een plek waar mensen elkaar nog écht kennen. Voor ondernemers betekent dat: mond-tot-mondreclame werkt, maar een sterke online zichtbaarheid maakt het verschil om ook buiten het dorp klanten aan te trekken. Xinudesign helpt je om lokaal én regionaal op te vallen met een sterke website en slimme marketingcampagnes.
 
 **Webdevelopment op maat van Erondégem**  
-Wij bouwen websites die méér zijn dan een online visitekaartje. Afhankelijk van je noden werken we met **WordPress** voor eenvoudig beheer of maken we **maatwerk in HTML, CSS en React** voor optimale snelheid en prestaties.  
+Wij bouwen websites die méér zijn dan een online visitekaartje. Afhankelijk van je noden werken we met **WordPress** voor eenvoudig beheer of maken we **maatwerk in HTML, CSS en React** voor optimale snelheid en prestaties.
 
 Elke site die we opleveren is:
 
-- **Mobielvriendelijk**: perfect leesbaar op smartphone, tablet en desktop.  
-- **Snel ladend**: betere gebruikservaring en hogere Google-ranking.  
-- **SEO-geoptimaliseerd**: zodat je lokaal goed gevonden wordt.  
-- **Gebruiksvriendelijk**: logische navigatie en duidelijke call-to-actions.  
+- **Mobielvriendelijk**: perfect leesbaar op smartphone, tablet en desktop.
+- **Snel ladend**: betere gebruikservaring en hogere Google-ranking.
+- **SEO-geoptimaliseerd**: zodat je lokaal goed gevonden wordt.
+- **Gebruiksvriendelijk**: logische navigatie en duidelijke call-to-actions.
 
 Of je nu een lokale slagerij hebt, een B&B uitbaat langs de landelijke wegen, of een dienstverlenend bedrijf runt: wij zorgen voor een digitale aanwezigheid die bij je merk past én klanten overtuigt.
 
 **Advertising: doelgericht bereik in Erondégem en omliggende dorpen**  
-Met **Google Ads** en **Meta Ads** zetten we campagnes op die specifiek gericht zijn op inwoners van Erondégem en naburige gemeenten zoals **Smetlede**, **Oordegem**, **Impe** en **Lede**.  
+Met **Google Ads** en **Meta Ads** zetten we campagnes op die specifiek gericht zijn op inwoners van Erondégem en naburige gemeenten zoals **Smetlede**, **Oordegem**, **Impe** en **Lede**.
 
 We maken gebruik van:
 
-- **Geografische targeting** om enkel in relevante zones te adverteren.  
-- **Specifieke zoekwoorden** zoals “webdesigner Erondégem” of “kapper Lede”.  
-- **Seizoenscampagnes** rond lokale evenementen en kermissen.  
+- **Geografische targeting** om enkel in relevante zones te adverteren.
+- **Specifieke zoekwoorden** zoals “webdesigner Erondégem” of “kapper Lede”.
+- **Seizoenscampagnes** rond lokale evenementen en kermissen.
 
 Zo besteed je elk advertentiebudget efficiënt, zonder verspilling aan irrelevante doelgroepen.
 
@@ -83,23 +83,23 @@ Lokale vindbaarheid is voor ondernemers in Erondégem van groot belang. Daarom i
 Daarnaast optimaliseren we je **Google Business-profiel**, zorgen we voor **NAP-consistentie** en bouwen we **lokale backlinks** op. Dit versterkt je positie in Google Maps en organische zoekresultaten.
 
 **Data-gedreven optimalisatie**  
-Wij geloven niet in gokken, maar in meten en bijsturen. Met **Google Analytics**, **Search Console** en **Piwik Pro** analyseren we hoe bezoekers je site vinden en welke acties ze ondernemen.  
+Wij geloven niet in gokken, maar in meten en bijsturen. Met **Google Analytics**, **Search Console** en **Piwik Pro** analyseren we hoe bezoekers je site vinden en welke acties ze ondernemen.
 
 We kijken naar:
 
-- Bezoekersaantallen en herkomst.  
-- Conversieratio’s van formulieren en aanbiedingen.  
-- Zoekwoorden die effectief verkeer én klanten opleveren.  
+- Bezoekersaantallen en herkomst.
+- Conversieratio’s van formulieren en aanbiedingen.
+- Zoekwoorden die effectief verkeer én klanten opleveren.
 
 Op basis daarvan verbeteren we je content, advertenties en UX continu.
 
 **Waarom kiezen voor Xinudesign in Erondégem?**
 
-- Persoonlijk contact met je webdesigner en marketeer.  
-- Combinatie van technische én creatieve expertise.  
-- Lokale kennis van Erondégem en omliggende regio.  
-- Flexibiliteit: afspraken op locatie of online.  
-- Resultaatgericht en transparant in rapportage.  
+- Persoonlijk contact met je webdesigner en marketeer.
+- Combinatie van technische én creatieve expertise.
+- Lokale kennis van Erondégem en omliggende regio.
+- Flexibiliteit: afspraken op locatie of online.
+- Resultaatgericht en transparant in rapportage.
 
 **Van eerste gesprek tot succesvolle lancering**  
 We starten met een vrijblijvend gesprek om je noden en doelen te begrijpen. Daarna maken we een plan met duidelijke deadlines en verwachtingen. Tijdens de ontwikkeling houden we je op de hoogte en verwerken we je feedback snel. Na de lancering blijven we beschikbaar voor onderhoud, nieuwe campagnes en verdere optimalisatie.

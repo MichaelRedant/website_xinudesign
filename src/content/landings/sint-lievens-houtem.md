@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign versterkt ondernemers in Sint-Lievens-Houtem met snelle websites, slimme advertenties en lokale SEO die inspeelt op de troeven van de gemeente en haar inwoners."
 canonical: "https://www.xinudesign.be/diensten/sint-lievens-houtem"
 image: "/assets/img/landingpages/sint-lievens-houtem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael.redant2@telenet.be"
 address:

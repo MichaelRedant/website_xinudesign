@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Erwetegem met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/erwetegem"
 image: "/assets/img/landingpages/erwetegem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -52,50 +52,50 @@ Erwetegem is een charmante, landelijke deelgemeente van Zottegem. Met zijn gezel
 Wij ontwikkelen websites die perfect aansluiten bij je onderneming en je doelgroep in Erwetegem.  
 Onze troeven:
 
-- Razendsnelle laadtijden en optimale prestaties.  
-- Mobielvriendelijke ontwerpen die overal goed werken.  
-- Volledig geoptimaliseerd voor **SEO** en **Core Web Vitals**.  
-- Duidelijke navigatie en sterke call-to-actions voor hogere conversies.  
+- Razendsnelle laadtijden en optimale prestaties.
+- Mobielvriendelijke ontwerpen die overal goed werken.
+- Volledig geoptimaliseerd voor **SEO** en **Core Web Vitals**.
+- Duidelijke navigatie en sterke call-to-actions voor hogere conversies.
 
 We bouwen in **WordPress** voor gebruiksgemak of ontwikkelen **custom oplossingen** in HTML, CSS en React voor maximale prestaties. Of je nu een lokale zaak hebt aan het dorpsplein, een boerderijwinkel runt of diensten aanbiedt in de regio: jouw website wordt je sterkste online visitekaartje.
 
 **Advertising: doelgericht bereik in Erwetegem en omgeving**  
 Met **Google Ads** en **Meta Ads** zetten we campagnes op die gericht zijn op:
 
-- Erwetegem zelf en naburige dorpen zoals Velzeke, Grotenberge en Godveerdegem.  
-- Promoties en seizoensgebonden acties die perfect aansluiten bij de lokale kalender.  
-- Retargetingcampagnes om eerdere bezoekers opnieuw te bereiken.  
+- Erwetegem zelf en naburige dorpen zoals Velzeke, Grotenberge en Godveerdegem.
+- Promoties en seizoensgebonden acties die perfect aansluiten bij de lokale kalender.
+- Retargetingcampagnes om eerdere bezoekers opnieuw te bereiken.
 
 Zo gaat geen advertentiebudget verloren en wordt elke euro slim ingezet voor maximaal rendement.
 
 **Lokale SEO met een Erwetegemse insteek**  
 Om lokaal gevonden te worden, zorgen wij voor:
 
-- **Google Business-optimalisatie** met correcte en complete bedrijfsinfo.  
-- **NAP-consistentie** op alle platforms.  
-- **Lokale backlinks** vanuit relevante Erwetegemse en Zottegemse websites.  
+- **Google Business-optimalisatie** met correcte en complete bedrijfsinfo.
+- **NAP-consistentie** op alle platforms.
+- **Lokale backlinks** vanuit relevante Erwetegemse en Zottegemse websites.
 - Integratie van herkenbare elementen zoals:
-  - Sint-Pauluskerk  
-  - Dorpsplein Erwetegem  
-  - Landelijke wandel- en fietsroutes  
-  - Nabijheid van Zottegem  
+  - Sint-Pauluskerk
+  - Dorpsplein Erwetegem
+  - Landelijke wandel- en fietsroutes
+  - Nabijheid van Zottegem
 
 Zo scoor je hoger in de zoekresultaten wanneer iemand zoekt naar jouw diensten in en rond Erwetegem.
 
 **Data-gedreven optimalisatie**  
 We gebruiken **Google Analytics**, **Search Console** en **Piwik Pro** om precies te weten:
 
-- Welke pagina’s het meeste verkeer trekken.  
-- Welke zoekwoorden converteren.  
-- Waar bezoekers afhaken, zodat we dit kunnen verbeteren.  
+- Welke pagina’s het meeste verkeer trekken.
+- Welke zoekwoorden converteren.
+- Waar bezoekers afhaken, zodat we dit kunnen verbeteren.
 
-**Waarom kiezen voor Xinudesign in Erwetegem?**  
+**Waarom kiezen voor Xinudesign in Erwetegem?**
 
-- Persoonlijke aanpak en korte communicatielijnen.  
-- Combinatie van creativiteit en technische kennis.  
-- Kennis van het lokale ondernemersklimaat.  
-- Flexibiliteit: op locatie of volledig online.  
-- Focus op meetbare groei en rendement.  
+- Persoonlijke aanpak en korte communicatielijnen.
+- Combinatie van creativiteit en technische kennis.
+- Kennis van het lokale ondernemersklimaat.
+- Flexibiliteit: op locatie of volledig online.
+- Focus op meetbare groei en rendement.
 
 **Interne links voor regionale SEO**  
 [Zottegem](/diensten/zottegem) • [Velzeke](/diensten/velzeke) • [Grotenberge](/diensten/grotenberge) • [Godveerdegem](/diensten/godveerdegem)

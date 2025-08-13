@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Ledeberg groeien met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de eigenheid van de wijk."
 canonical: "https://www.xinudesign.be/diensten/ledeberg"
 image: "/assets/img/landingpages/ledeberg.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -54,7 +54,7 @@ We bouwen websites die snel laden, gebruiksvriendelijk zijn en bezoekers overtui
 Of je nu een bakkerij hebt vlak bij het Ledebergplein, een sportwinkel langs de Hundelgemsesteenweg of een adviesbureau in de buurt van het **Ledebergspark**: wij zorgen voor een digitale uitstraling die even sterk is als je fysieke aanwezigheid. Onze ervaring in **UI/UX-design** garandeert een logische structuur, duidelijke call-to-actions en conversiegericht design.
 
 **Advertising: doelgericht bereik in Ledeberg en omgeving**  
-Met **Google Ads** en **Meta Ads** richten we campagnes in die hyperlokaal mikken op de juiste doelgroep. We focussen op Ledeberg zelf, maar ook op omliggende wijken zoals **Gentbrugge**, **Sint-Amandsberg** en **Gent-centrum**.  
+Met **Google Ads** en **Meta Ads** richten we campagnes in die hyperlokaal mikken op de juiste doelgroep. We focussen op Ledeberg zelf, maar ook op omliggende wijken zoals **Gentbrugge**, **Sint-Amandsberg** en **Gent-centrum**.
 
 Of het nu gaat om een tijdelijke promotie voor je winkel in de Hundelgemsesteenweg, een evenement in het Ledebergspark of de lancering van een nieuwe dienst: wij zorgen dat je zichtbaar bent op het juiste moment, bij de juiste mensen. Dankzij continue analyse en optimalisatie benut je je advertentiebudget maximaal, zonder verspilling.
 
@@ -74,11 +74,11 @@ Meten is weten. We analyseren het gedrag van bezoekers via **Google Analytics**,
 
 **Waarom kiezen voor Xinudesign in Ledeberg?**
 
-- Persoonlijke en directe communicatie met je webdesigner en marketeer.  
-- Technische en creatieve expertise onder één dak.  
-- Lokale marktkennis en feeling met de ondernemerscultuur in Ledeberg.  
-- Flexibiliteit: afspraken mogelijk op locatie of online.  
-- Resultaatgericht: focus op meetbare groei en rendement.  
+- Persoonlijke en directe communicatie met je webdesigner en marketeer.
+- Technische en creatieve expertise onder één dak.
+- Lokale marktkennis en feeling met de ondernemerscultuur in Ledeberg.
+- Flexibiliteit: afspraken mogelijk op locatie of online.
+- Resultaatgericht: focus op meetbare groei en rendement.
 
 **Van eerste gesprek tot succesvolle lancering**  
 We beginnen met een vrijblijvend kennismakingsgesprek waarin we je doelen scherpstellen. Daarna maken we een concreet plan met duidelijke deadlines. Tijdens de ontwikkeling krijg je regelmatige updates en verwerken we je feedback snel. Na de lancering blijven we betrokken voor onderhoud, optimalisaties en nieuwe campagnes.

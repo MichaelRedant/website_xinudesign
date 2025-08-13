@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt Gentse ondernemers groeien met snelle websites, gerichte advertentiecampagnes en lokale SEO die inspeelt op de unieke troeven van de stad en haar deelgemeenten."
 canonical: "https://www.xinudesign.be/diensten/gent"
 image: "/assets/img/landingpages/gent.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -63,13 +63,13 @@ Wij creëren webteksten, blogartikels en socialmediacontent met een herkenbaar G
 **Data-gedreven optimalisatie**  
 Met tools zoals **Google Analytics**, **Search Console** en **Piwik Pro** meten we continu hoe bezoekers je site gebruiken en hoe campagnes presteren. Die data gebruiken we om je strategie bij te sturen en maximaal rendement te halen uit je online aanwezigheid.
 
-**Waarom kiezen voor Xinudesign in Gent?**  
+**Waarom kiezen voor Xinudesign in Gent?**
 
-- Persoonlijke aanpak en korte communicatielijnen.  
-- Combinatie van technische expertise en creatieve marketing.  
-- Kennis van de Gentse markt en haar deelgemeenten.  
-- Flexibiliteit: afspraken op locatie of online.  
-- Focus op meetbare groei en rendement.  
+- Persoonlijke aanpak en korte communicatielijnen.
+- Combinatie van technische expertise en creatieve marketing.
+- Kennis van de Gentse markt en haar deelgemeenten.
+- Flexibiliteit: afspraken op locatie of online.
+- Focus op meetbare groei en rendement.
 
 **Van kennismaking tot lancering**  
 We starten met een vrijblijvend gesprek waarin we je doelen en wensen bespreken. Daarna volgt een concreet plan met duidelijke deadlines. Tijdens de ontwikkeling houden we je op de hoogte en verwerken we je feedback snel. Na de livegang blijven we beschikbaar voor onderhoud en nieuwe campagnes.

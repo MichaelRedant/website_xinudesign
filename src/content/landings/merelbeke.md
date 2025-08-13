@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Merelbeke met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de gemeente."
 canonical: "https://www.xinudesign.be/diensten/merelbeke"
 image: "/assets/img/landingpages/merelbeke.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Voor ondernemingen die werken met een lokaal klantenbestand is vindbaarheid in G
 **Data-gedreven optimalisatie**  
 Meten is weten. We gebruiken tools zoals Google Analytics, Search Console en Piwik Pro om te analyseren hoe bezoekers je website vinden, hoe ze zich gedragen en waar ze afhaken. Deze inzichten gebruiken we om je website en campagnes continu te verbeteren. Zo bouwen we aan duurzame online groei en maximaliseren we je rendement.
 
-**Waarom kiezen voor Xinudesign in Merelbeke?**  
+**Waarom kiezen voor Xinudesign in Merelbeke?**
 
-- Persoonlijke aanpak met directe communicatie.  
-- Technische én creatieve expertise onder één dak.  
-- Lokale marktkennis van Merelbeke en omgeving.  
-- Flexibiliteit: afspraken op locatie of online.  
+- Persoonlijke aanpak met directe communicatie.
+- Technische én creatieve expertise onder één dak.
+- Lokale marktkennis van Merelbeke en omgeving.
+- Flexibiliteit: afspraken op locatie of online.
 - Focus op meetbare resultaten en lange termijn groei.
 
 **Van kennismaking tot lancering**  

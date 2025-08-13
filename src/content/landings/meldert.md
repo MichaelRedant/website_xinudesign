@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Meldert met snelle websites, slimme advertenties en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/meldert"
 image: "/assets/img/landingpages/meldert.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -61,12 +61,12 @@ Wil je dat mensen uit Meldert jou vinden wanneer ze zoeken naar jouw product of 
 **Data-gedreven optimalisatie**  
 We meten voortdurend hoe bezoekers je site gebruiken en hoe campagnes presteren. Met tools als Google Analytics, Search Console en Piwik Pro maken we datagedreven keuzes om je digitale aanwezigheid steeds te verbeteren. Zo blijf je vooroplopen, ook in een veranderend online landschap.
 
-**Waarom kiezen voor Xinudesign in Meldert?**  
+**Waarom kiezen voor Xinudesign in Meldert?**
 
-- Persoonlijke aanpak en korte communicatielijnen.  
-- Combinatie van technische kennis en creatief design.  
-- Ervaring met de regio Aalst en Meldertse ondernemers.  
-- Flexibel samenwerken: fysiek of volledig online.  
+- Persoonlijke aanpak en korte communicatielijnen.
+- Combinatie van technische kennis en creatief design.
+- Ervaring met de regio Aalst en Meldertse ondernemers.
+- Flexibel samenwerken: fysiek of volledig online.
 - Gericht op meetbare groei en rendement.
 
 **Van eerste gesprek tot online succes**  

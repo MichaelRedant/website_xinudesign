@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Heldergem groeien met snelle, gebruiksvriendelijke websites, doelgerichte advertenties en lokale SEO-strategieën."
 canonical: "https://www.xinudesign.be/diensten/heldergem"
 image: "/assets/img/landingpages/heldergem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,36 +49,37 @@ lastmod: "2025-08-12"
 Heldergem is een gezellige deelgemeente van Haaltert, bekend om zijn landelijke karakter, gastvrije gemeenschap en authentieke dorpssfeer. Hier ontmoet je klanten op het dorpsplein, in lokale handelszaken of tijdens evenementen zoals de jaarlijkse kermis. Of je nu een familiezaak runt, een webshop beheert of diensten aanbiedt in de regio, een sterke online aanwezigheid maakt dat je ook digitaal gevonden wordt. Xinudesign helpt jou om dat waar te maken.
 
 **Webdevelopment op maat van Heldergem**  
-Wij bouwen websites die perfect aansluiten bij jouw onderneming én bij de verwachtingen van je klanten in Heldergem. Of je nu kiest voor **WordPress** voor gebruiksgemak of **maatwerk in HTML, CSS en React** voor maximale prestaties: wij zorgen voor een site die snel laadt, mobielvriendelijk is en goed scoort in Google.  
+Wij bouwen websites die perfect aansluiten bij jouw onderneming én bij de verwachtingen van je klanten in Heldergem. Of je nu kiest voor **WordPress** voor gebruiksgemak of **maatwerk in HTML, CSS en React** voor maximale prestaties: wij zorgen voor een site die snel laadt, mobielvriendelijk is en goed scoort in Google.
 
 Met onze **UI/UX-expertise** creëren we een gebruikservaring die bezoekers vlot door je aanbod leidt, duidelijke call-to-actions plaatst en zo meer aanvragen of verkopen oplevert.
 
 **Advertising: gericht bereik in Heldergem en omgeving**  
-Met **Google Ads** en **Meta Ads** zorgen we dat jouw bedrijf zichtbaar is voor de juiste mensen, op het juiste moment. Dankzij **geografische targeting** bereiken we inwoners van Heldergem, maar ook omliggende dorpen zoals [Aaigem](/diensten/aaigem), [Erpe](/diensten/erpe) en [Burst](/diensten/burst).  
+Met **Google Ads** en **Meta Ads** zorgen we dat jouw bedrijf zichtbaar is voor de juiste mensen, op het juiste moment. Dankzij **geografische targeting** bereiken we inwoners van Heldergem, maar ook omliggende dorpen zoals [Aaigem](/diensten/aaigem), [Erpe](/diensten/erpe) en [Burst](/diensten/burst).
 
 Of het nu gaat om een promotie voor je winkel, een actie rond de kermis of de lancering van een nieuwe dienst: wij zorgen dat je boodschap terechtkomt bij een publiek dat er echt toe doet.
 
 **Lokale SEO met een Heldergemse insteek**  
-Lokale zichtbaarheid is belangrijker dan ooit. We optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen **lokale backlinks** vanuit relevante bronnen.  
+Lokale zichtbaarheid is belangrijker dan ooit. We optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen **lokale backlinks** vanuit relevante bronnen.
 
-In je webteksten en visuals verwerken we herkenbare elementen zoals:  
-- Sint-Pieterskerk Heldergem  
-- Dorpsplein en omliggende straten  
-- Jaarlijkse kermis van Heldergem  
-- Landelijke wandel- en fietsroutes  
+In je webteksten en visuals verwerken we herkenbare elementen zoals:
+
+- Sint-Pieterskerk Heldergem
+- Dorpsplein en omliggende straten
+- Jaarlijkse kermis van Heldergem
+- Landelijke wandel- en fietsroutes
 
 Zo vergroot je niet alleen je vindbaarheid in Google, maar ook de herkenning bij je doelgroep.
 
 **Data-gedreven optimalisatie**  
 Meten is weten. Daarom gebruiken we **Google Analytics**, **Search Console** en **Piwik Pro** om te analyseren hoe bezoekers je website vinden en gebruiken. Op basis van die data verbeteren we je content, campagnes en gebruikerservaring continu, zodat je online resultaten blijven groeien.
 
-**Waarom kiezen voor Xinudesign in Heldergem?**  
+**Waarom kiezen voor Xinudesign in Heldergem?**
 
-- Persoonlijke aanpak en directe communicatie.  
-- Technische en creatieve expertise in één.  
-- Sterke kennis van het ondernemersklimaat in Heldergem en omstreken.  
-- Flexibele samenwerking: afspraken op locatie of online.  
-- Focus op meetbare groei en rendement.  
+- Persoonlijke aanpak en directe communicatie.
+- Technische en creatieve expertise in één.
+- Sterke kennis van het ondernemersklimaat in Heldergem en omstreken.
+- Flexibele samenwerking: afspraken op locatie of online.
+- Focus op meetbare groei en rendement.
 
 **Interne links: Heldergem verbonden met de regio**  
 [Aaigem](/diensten/aaigem) • [Erpe](/diensten/erpe) • [Burst](/diensten/burst) • [Haaltert](/diensten/haaltert)

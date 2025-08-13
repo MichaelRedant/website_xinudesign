@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign ontwerpt snelle websites, voert doelgerichte advertentiecampagnes en optimaliseert je vindbaarheid in Dendermonde. Wij zorgen voor een sterke online aanwezigheid die rendeert."
 canonical: "https://www.xinudesign.be/diensten/dendermonde"
 image: "/assets/img/landingpages/dendermonde.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael.redant2@telenet.be"
 address:

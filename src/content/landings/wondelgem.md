@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Wondelgem groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van de wijk."
 canonical: "https://www.xinudesign.be/diensten/wondelgem"
 image: "/assets/img/landingpages/wondelgem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -57,13 +57,13 @@ Afhankelijk van je wensen werken we met WordPress voor flexibiliteit, of met maa
 
 **Advertising: doelgericht bereik in Wondelgem en omgeving**
 
-Met Google Ads en Meta Ads brengen we jouw boodschap bij precies de juiste doelgroep. We richten campagnes in met geografische targeting op Wondelgem en omliggende wijken zoals [Mariakerke](/diensten/mariakerke), [Oostakker](/diensten/oostakker) en [Gent](/diensten/gent).  
+Met Google Ads en Meta Ads brengen we jouw boodschap bij precies de juiste doelgroep. We richten campagnes in met geografische targeting op Wondelgem en omliggende wijken zoals [Mariakerke](/diensten/mariakerke), [Oostakker](/diensten/oostakker) en [Gent](/diensten/gent).
 
 Of het nu gaat om een promotie voor je winkel in de Botestraat, een evenement in de buurt van het Wondelgempark of de lancering van een nieuwe dienst, wij zorgen dat je zichtbaar bent voor de mensen die er het meest toe doen. Dankzij continue optimalisatie wordt elk advertentiebudget efficiënt besteed, zonder verspilling aan irrelevante klikken.
 
 **Lokale SEO met een Wondelgemse insteek**
 
-Lokale vindbaarheid is essentieel voor ondernemers die mikken op klanten uit de buurt. We optimaliseren je Google Business-profiel, zorgen voor NAP-consistentie (naam, adres, telefoonnummer) en bouwen lokale backlinks op vanuit relevante Gentse en Wondelgemse bronnen.  
+Lokale vindbaarheid is essentieel voor ondernemers die mikken op klanten uit de buurt. We optimaliseren je Google Business-profiel, zorgen voor NAP-consistentie (naam, adres, telefoonnummer) en bouwen lokale backlinks op vanuit relevante Gentse en Wondelgemse bronnen.
 
 Daarnaast verwerken we herkenbare elementen zoals:
 
@@ -81,11 +81,11 @@ Meten is weten. We gebruiken tools zoals Google Analytics, Google Search Console
 
 **Waarom kiezen voor Xinudesign in Wondelgem?**
 
-- Persoonlijke aanpak: je hebt rechtstreeks contact met de webdesigner en marketeer.  
-- Technische én creatieve expertise in één pakket.  
-- Lokale kennis: we kennen de troeven en het ondernemersklimaat in Wondelgem.  
-- Flexibiliteit: afspraken mogelijk op locatie of via videocall.  
-- Resultaatgericht: we focussen op meetbare groei en rendement.  
+- Persoonlijke aanpak: je hebt rechtstreeks contact met de webdesigner en marketeer.
+- Technische én creatieve expertise in één pakket.
+- Lokale kennis: we kennen de troeven en het ondernemersklimaat in Wondelgem.
+- Flexibiliteit: afspraken mogelijk op locatie of via videocall.
+- Resultaatgericht: we focussen op meetbare groei en rendement.
 
 **Van kennismaking tot lancering**
 
