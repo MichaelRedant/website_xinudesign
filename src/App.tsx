@@ -13,6 +13,12 @@ const Cv = lazy(() => import("./pages/Cv"));
 const PersonaVault = lazy(() => import("./pages/PersonaVault"));
 const LokaleSeoPage = lazy(() => import("./pages/LokaleSeoPage"));
 const Portfolio = lazy(() => import("./pages/Portfolio"));
+const SeoSea = lazy(() => import("./pages/SeoSea"));
+const DataStrategy = lazy(() => import("./pages/DataStrategy"));
+const Webdesign = lazy(() => import("./pages/Webdesign"));
+const Webdevelopment = lazy(() => import("./pages/Webdevelopment"));
+const UiUx = lazy(() => import("./pages/UiUx"));
+const LokaleSeo = lazy(() => import("./pages/LokaleSeo"));
 
 export default function App() {
   useEffect(() => {
@@ -31,6 +37,18 @@ export default function App() {
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/cv" element={<Cv />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/diensten/seo-sea" element={<SeoSea />} />
+            <Route
+              path="/diensten/data-gedreven-strategie"
+              element={<DataStrategy />}
+            />
+            <Route path="/diensten/webdesign" element={<Webdesign />} />
+            <Route
+              path="/diensten/webdevelopment"
+              element={<Webdevelopment />}
+            />
+            <Route path="/diensten/ui-ux" element={<UiUx />} />
+            <Route path="/diensten/lokale-seo" element={<LokaleSeo />} />
             <Route path="/diensten/:city" element={<LokaleSeoPage />} />
           </Routes>
         </Suspense>
