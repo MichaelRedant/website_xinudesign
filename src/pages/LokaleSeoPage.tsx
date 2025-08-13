@@ -202,7 +202,7 @@ export default function LokaleSeoPage() {
 
       <main className="relative overflow-x-hidden">
         {/* =================== HERO (SaaS 2025) =================== */}
-        <section className="relative h-[78vh] min-h-[560px] flex items-center justify-center text-center text-white">
+        <section className="relative h-[78vh] min-h-[560px] flex flex-col items-center justify-center text-center text-white">
           <video
             autoPlay
             loop
@@ -216,48 +216,12 @@ export default function LokaleSeoPage() {
           <div className="pointer-events-none absolute -top-24 -left-24 h-72 w-72 rounded-full bg-blue-500/20 blur-3xl" />
           <div className="pointer-events-none absolute -bottom-16 -right-16 h-72 w-72 rounded-full bg-indigo-500/20 blur-3xl" />
 
-          {/* floating city card – MOBILE (inline, onder de tekst) */}
-<motion.div
-  initial={{ opacity: 0, y: 10, scale: 0.98 }}
-  animate={{ opacity: 1, y: 0, scale: 1 }}
-  transition={{ duration: 0.6, ease: "easeOut" }}
-  className="mt-6 w-full flex justify-center md:hidden"
->
-  <div className="rounded-2xl overflow-hidden ring-1 ring-white/25 shadow-2xl backdrop-blur bg-white/10">
-    <img
-      src={cityImage}
-      alt={fm.city}
-      className="block w-[88vw] max-w-[22rem] aspect-[16/10] object-cover"
-      loading="lazy"
-      sizes="(max-width: 768px) 88vw, 22rem"
-/>
-  </div>
-</motion.div>
-
-{/* floating city card – DESKTOP (absolute, rechts‑onder) */}
-<motion.div
-  initial={{ opacity: 0, y: 20, scale: 0.98 }}
-  animate={{ opacity: 1, y: 0, scale: 1 }}
-  transition={{ duration: 0.7, ease: "easeOut" }}
-  className="pointer-events-none hidden md:block md:absolute md:bottom-8 md:right-4"
->
-  <div className="rounded-2xl overflow-hidden ring-1 ring-white/25 shadow-2xl backdrop-blur bg-white/10">
-    <img
-      src={cityImage}
-      alt={fm.city}
-      className="h-40 w-64 object-cover"
-      loading="lazy"
-      sizes="256px"
-/>
-  </div>
-</motion.div>
-
           {/* headline + CTA */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
-            className="relative z-10 max-w-3xl px-6"
+            className="relative z-20 max-w-3xl px-6"
           >
             <h1 className="text-4xl md:text-5xl font-extrabold mb-4">
               <span className="bg-gradient-to-r from-sky-300 to-indigo-300 bg-clip-text text-transparent">
@@ -273,6 +237,42 @@ export default function LokaleSeoPage() {
             >
               Plan een gesprek
             </motion.a>
+          </motion.div>
+
+          {/* floating city card – MOBILE (onder de tekst) */}
+          <motion.div
+            initial={{ opacity: 0, y: 10, scale: 0.98 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            transition={{ duration: 0.6, ease: "easeOut" }}
+            className="mt-6 w-full flex justify-center md:hidden"
+          >
+            <div className="rounded-2xl overflow-hidden ring-1 ring-white/25 shadow-2xl backdrop-blur bg-white/10">
+              <img
+                src={cityImage}
+                alt={fm.city}
+                className="block w-[88vw] max-w-[22rem] aspect-[16/10] object-cover"
+                loading="lazy"
+                sizes="(max-width: 768px) 88vw, 22rem"
+              />
+            </div>
+          </motion.div>
+
+          {/* floating city card – DESKTOP (absolute, rechts‑onder) */}
+          <motion.div
+            initial={{ opacity: 0, y: 20, scale: 0.98 }}
+            animate={{ opacity: 1, y: 0, scale: 1 }}
+            transition={{ duration: 0.7, ease: "easeOut" }}
+            className="pointer-events-none hidden md:block md:absolute md:bottom-8 md:right-4 md:z-10"
+          >
+            <div className="rounded-2xl overflow-hidden ring-1 ring-white/25 shadow-2xl backdrop-blur bg-white/10">
+              <img
+                src={cityImage}
+                alt={fm.city}
+                className="h-40 w-64 object-cover"
+                loading="lazy"
+                sizes="256px"
+              />
+            </div>
           </motion.div>
         </section>
 
