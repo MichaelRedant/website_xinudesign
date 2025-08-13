@@ -1,154 +1,229 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 import { FaBars, FaTimes, FaChevronDown } from "react-icons/fa";
 import { services as serviceLinks } from "../data/services";
+import { AnimatePresence, motion } from "framer-motion";
 
-const navItems = [
-  /* { to: "/", label: "Home" },
-  { to: "/about", label: "Over" },
-  { to: "/services", label: "Services" },
-  { to: "/werk", label: "Werk" }, */
+const NAV = [
   { to: "/persona-vault", label: "Persona Vault" },
   { to: "/portfolio", label: "Portfolio" },
-  { to: "/cv", label: "Mijn cv" },
-  { to: "/contact", label: "Contact" },
+  { to: "/cv", label: "Over mij" },
 ];
 
 export default function Header() {
   const [scrolled, setScrolled] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const [servicesOpen, setServicesOpen] = useState(false); // desktop hover/focus
+  const servicesTimer = useRef<number | null>(null);
 
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 50);
+    const onScroll = () => setScrolled(window.scrollY > 6);
     window.addEventListener("scroll", onScroll);
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
+  // Framer-motion variants
+  const dropIn = {
+    hidden: { opacity: 0, y: 8 },
+    show: { opacity: 1, y: 0, transition: { duration: 0.18, ease: "easeOut" } },
+    exit: { opacity: 0, y: 6, transition: { duration: 0.12, ease: "easeIn" } },
+  };
+
+  const mobileIn = {
+    hidden: { opacity: 0, y: -12 },
+    show: { opacity: 1, y: 0, transition: { duration: 0.18, ease: "easeOut" } },
+    exit: { opacity: 0, y: -8, transition: { duration: 0.15, ease: "easeIn" } },
+  };
+
+  // helpers voor hover-intent (desktop)
+  const openServices = () => {
+    if (servicesTimer.current) window.clearTimeout(servicesTimer.current);
+    setServicesOpen(true);
+  };
+  const closeServices = () => {
+    if (servicesTimer.current) window.clearTimeout(servicesTimer.current);
+    servicesTimer.current = window.setTimeout(() => setServicesOpen(false), 100);
+  };
+
   return (
-    <nav
-      className={`fixed inset-x-0 top-0 z-50 transition-all duration-300 ${
-        scrolled ? "backdrop-blur-md bg-white/70 shadow-lg" : "bg-transparent"
-      }`}
+    <header
+      className={`fixed inset-x-0 top-0 z-50 border-b transition-all
+                  ${scrolled ? "backdrop-blur-md bg-white/75 border-white/40 shadow-sm" : "bg-white/90 border-transparent"}
+                 `}
+      style={{ height: "4.5rem" }} // h-18 equivalent (72px) voor gelijke hoogte
+      role="banner"
     >
-      <div className="relative flex items-center justify-between max-w-[1400px] mx-auto px-4 md:px-8 py-6">
-        {/* ─────────────── Logo + tekst samen ─────────────── */}
-        <Link to="/" className="flex items-center gap-3 select-none">
+      <nav className="mx-auto flex h-full max-w-[1400px] items-center justify-between px-4 md:px-8">
+        {/* Logo */}
+        <Link to="/" className="flex items-center gap-3 select-none h-full" aria-label="Ga naar home">
           <img
             src="/assets/xinu.webp"
-            alt="Xinudesign logo"
-            className="h-12 w-auto"
+            alt=""
+            className="h-10 w-auto md:h-12"
             draggable={false}
           />
           <span
-            className={`font-bold tracking-wide transition-colors ${
-              scrolled ? "text-[#0362c8] text-3xl" : "text-black text-3xl"
-            }`}
+            className={`text-2xl md:text-3xl font-extrabold tracking-wide transition-colors
+                        ${scrolled ? "text-[#0362c8]" : "text-[#0a0f1c]"}
+                       `}
           >
             XINUDESIGN
           </span>
         </Link>
 
-        {/* ─────────────── Mobile menu button ─────────────── */}
-        <button
-          aria-label="Toggle navigation"
-          className="md:hidden p-2"
-          onClick={() => setMenuOpen((prev) => !prev)}
-        >
-          {menuOpen ? (
-            <FaTimes
-              className={`text-2xl ${scrolled ? "text-gray-800" : "text-black"}`}
-            />
-          ) : (
-            <FaBars
-              className={`text-2xl ${scrolled ? "text-gray-800" : "text-black"}`}
-            />
-          )}
-        </button>
-
-        {/* ─────────────── Navigatie desktop ─────────────── */}
-        <ul className="hidden md:flex gap-12">
-          <li className="relative group">
+        {/* Desktop nav */}
+        <ul className="hidden md:flex items-center gap-8 lg:gap-10">
+          {/* Services (dropdown) */}
+          <li
+            className="relative"
+            onMouseEnter={openServices}
+            onMouseLeave={closeServices}
+            onFocus={openServices}
+            onBlur={closeServices}
+          >
             <button
-              className={`flex items-center gap-1 py-2 font-medium transition-colors ${
-                scrolled ? "text-gray-800" : "text-black"
-              } hover:text-[#509ef1]`}
+              className={`flex items-center gap-1 py-2 font-medium transition-colors
+                          ${scrolled ? "text-slate-800" : "text-slate-900"}
+                          hover:text-[#2d7ff9]
+                         `}
+              aria-haspopup="menu"
+              aria-expanded={servicesOpen}
+              aria-controls="services-menu"
             >
               Services
-              <FaChevronDown className="text-sm transition-transform group-hover:rotate-180" />
+              <FaChevronDown
+                className={`text-[13px] transition-transform ${servicesOpen ? "rotate-180" : ""}`}
+                aria-hidden="true"
+              />
             </button>
-            <ul className="absolute left-0 mt-2 w-56 flex-col rounded-md bg-white shadow-lg opacity-0 invisible group-hover:visible group-hover:opacity-100 transform -translate-y-2 group-hover:translate-y-0 transition-all duration-200">
-              {serviceLinks.map(({ to, name }) => (
-                <li key={to}>
-                  <NavLink
-                    to={to}
-                    className="block px-4 py-2 text-gray-800 hover:bg-gray-100"
-                  >
-                    {name}
-                  </NavLink>
-                </li>
-              ))}
-            </ul>
+
+            <AnimatePresence>
+              {servicesOpen && (
+                <motion.ul
+                  id="services-menu"
+                  variants={dropIn}
+                  initial="hidden"
+                  animate="show"
+                  exit="exit"
+                  className="absolute left-0 mt-2 w-64 overflow-hidden rounded-xl border border-slate-200 bg-white/95 shadow-xl backdrop-blur-sm"
+                >
+                  {serviceLinks.map(({ to, name }) => (
+                    <li key={to}>
+                      <NavLink
+                        to={to}
+                        className="block px-4 py-2.5 text-sm text-slate-800 hover:bg-slate-50 transition-colors"
+                      >
+                        {name}
+                      </NavLink>
+                    </li>
+                  ))}
+                </motion.ul>
+              )}
+            </AnimatePresence>
           </li>
-          {navItems.map(({ to, label }) => (
-            <li key={to}>
+
+          {/* Andere items */}
+          {NAV.map(({ to, label }) => (
+            <li key={to} className="h-[2.25rem] flex items-center">
               <NavLink
                 to={to}
                 className={({ isActive }) =>
-                  `relative py-2 font-medium transition-colors
+                  `relative py-1 font-medium transition-colors
                    after:absolute after:left-0 after:-bottom-1 after:h-[2px] after:w-0 after:transition-all
-                   before:absolute before:left-0 before:-top-1    before:h-[2px] before:w-0 before:transition-all
-                   hover:before:w-full hover:after:w-full
-                   ${
-                     scrolled
-                       ? "text-gray-800 before:bg-[#0362c8] after:bg-[#0362c8]"
-                       : "text-black   before:bg-black     after:bg-black"
-                   }
-                   hover:text-[#509ef1] ${isActive ? "before:w-full after:w-full" : ""}`
+                   hover:after:w-full after:bg-current
+                   ${isActive ? "after:w-full text-[#2d7ff9]" : scrolled ? "text-slate-800" : "text-slate-900"}
+                  `
                 }
               >
                 {label}
               </NavLink>
             </li>
           ))}
+
+          {/* Contact CTA */}
+          <li>
+            <NavLink
+              to="/contact"
+              className="inline-flex items-center justify-center rounded-xl px-4 py-2.5 font-semibold
+                         text-white bg-gradient-to-r from-blue-600 to-indigo-600 shadow
+                         hover:shadow-md hover:scale-[1.02] active:scale-100 transition-all"
+            >
+              Contact
+            </NavLink>
+          </li>
         </ul>
 
-        {/* ─────────────── Mobile dropdown ─────────────── */}
+        {/* Mobile toggle */}
+        <button
+          aria-label="Menu"
+          className="md:hidden p-2"
+          onClick={() => setMenuOpen((s) => !s)}
+        >
+          {menuOpen ? <FaTimes className="text-2xl text-slate-900" /> : <FaBars className="text-2xl text-slate-900" />}
+        </button>
+      </nav>
+
+      {/* Mobile sheet */}
+      <AnimatePresence>
         {menuOpen && (
-          <ul
-            className={`absolute top-full left-0 right-0 flex flex-col items-center gap-6 py-6 mt-2 rounded-b-xl shadow-lg backdrop-blur-md ${
-              scrolled ? "bg-white/90" : "bg-white/80"
-            }`}
+          <motion.div
+            variants={mobileIn}
+            initial="hidden"
+            animate="show"
+            exit="exit"
+            className="md:hidden absolute inset-x-0 top-full z-40 rounded-b-2xl border-b border-slate-200 bg-white/95 backdrop-blur-sm shadow-lg"
           >
-            <li className="w-full text-center">
-              <span className="font-medium text-gray-800">Services</span>
-              <ul className="mt-2 flex flex-col gap-2">
-                {serviceLinks.map(({ to, name }) => (
+            <div className="px-4 py-6">
+              {/* Services (accordion) */}
+              <details className="group">
+                <summary className="flex cursor-pointer list-none items-center justify-between py-2 font-semibold">
+                  <span>Services</span>
+                  <FaChevronDown className="transition-transform group-open:rotate-180" />
+                </summary>
+                <ul className="mt-2 space-y-1 pl-1">
+                  {serviceLinks.map(({ to, name }) => (
+                    <li key={to}>
+                      <NavLink
+                        to={to}
+                        onClick={() => setMenuOpen(false)}
+                        className="block rounded px-3 py-2 text-sm text-slate-800 hover:bg-slate-50"
+                      >
+                        {name}
+                      </NavLink>
+                    </li>
+                  ))}
+                </ul>
+              </details>
+
+              {/* andere links */}
+              <ul className="mt-4 space-y-1">
+                {NAV.map(({ to, label }) => (
                   <li key={to}>
                     <NavLink
                       to={to}
                       onClick={() => setMenuOpen(false)}
-                      className="text-gray-800"
+                      className="block rounded px-3 py-2 font-medium text-slate-900 hover:bg-slate-50"
                     >
-                      {name}
+                      {label}
                     </NavLink>
                   </li>
                 ))}
+                <li className="pt-2">
+                  <NavLink
+                    to="/contact"
+                    onClick={() => setMenuOpen(false)}
+                    className="block w-full text-center rounded-xl px-4 py-2.5 font-semibold
+                               text-white bg-gradient-to-r from-blue-600 to-indigo-600 shadow
+                               hover:shadow-md hover:scale-[1.01] active:scale-100 transition-all"
+                  >
+                    Contact
+                  </NavLink>
+                </li>
               </ul>
-            </li>
-            {navItems.map(({ to, label }) => (
-              <li key={to}>
-                <NavLink
-                  to={to}
-                  onClick={() => setMenuOpen(false)}
-                  className="font-medium text-gray-800"
-                >
-                  {label}
-                </NavLink>
-              </li>
-            ))}
-          </ul>
+            </div>
+          </motion.div>
         )}
-      </div>
-    </nav>
+      </AnimatePresence>
+    </header>
   );
 }

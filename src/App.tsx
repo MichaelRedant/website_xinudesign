@@ -29,6 +29,7 @@ export default function App() {
     <div className="flex min-h-screen flex-col">
       <ScrollToTop />
       <Header />
+      <div aria-hidden className="h-[4.5rem]" /> {/* spacer = zelfde hoogte als header */}
       <div className="flex-grow">
         <Suspense fallback={<div>Loading...</div>}>
           <Routes>

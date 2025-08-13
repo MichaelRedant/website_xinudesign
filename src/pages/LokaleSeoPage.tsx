@@ -429,6 +429,85 @@ export default function LokaleSeoPage() {
           </div>
         </motion.section>
 
+        {/* =================== RELATED SERVICES LINKS =================== */}
+<motion.section
+  variants={stagger}
+  initial="hidden"
+  whileInView="show"
+  viewport={{ once: true, amount: 0.2 }}
+  className="mx-auto max-w-5xl px-4 sm:px-6 py-16"
+>
+  <motion.h2
+    variants={reveal}
+    className="text-3xl font-bold mb-4 text-center"
+  >
+    Meer manieren om jouw online succes te boosten
+  </motion.h2>
+  <p className="text-center text-slate-600 dark:text-slate-300 max-w-2xl mx-auto mb-10">
+    Ontdek onze andere diensten die samen zorgen voor een sterke, meetbare en blijvende online aanwezigheid. 
+    Van vindbaarheid in Google tot een high-performance webapplicatie – wij maken het waar.
+  </p>
+
+  <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
+    {[
+      { 
+        name: "SEO / SEA", 
+        href: "/diensten/seo-sea", 
+        desc: "Scoor hoger in Google en zet bezoekers om in klanten.",
+        icon: FaChartLine 
+      },
+      { 
+        name: "Data-gedreven strategie", 
+        href: "/diensten/data-gedreven-strategie", 
+        desc: "Slimme beslissingen op basis van feiten, niet gevoel.",
+        icon: FaBullhorn 
+      },
+      { 
+        name: "Webdesign", 
+        href: "/diensten/webdesign", 
+        desc: "Professioneel design dat je merk laat schitteren.",
+        icon: FaCode 
+      },
+      { 
+        name: "Webdevelopment", 
+        href: "/diensten/webdevelopment", 
+        desc: "Maatwerk code voor maximale snelheid en flexibiliteit.",
+        icon: FaCode 
+      },
+      { 
+        name: "UI / UX", 
+        href: "/diensten/ui-ux", 
+        desc: "Een gebruikservaring die bezoekers laat converteren.",
+        icon: FaCheckCircle 
+      },
+      { 
+        name: "Lokale SEO", 
+        href: "/diensten/lokale-seo", 
+        desc: "Val op in jouw regio en trek meer klanten uit de buurt.",
+        icon: FaChartLine 
+      },
+    ].map((link) => (
+      <motion.a
+        key={link.name}
+        href={link.href}
+        variants={reveal}
+        whileHover={{ y: -4, scale: 1.03 }}
+        className="group rounded-2xl border border-slate-200 bg-white/80 p-6 text-center shadow-sm 
+                   hover:shadow-lg hover:bg-gradient-to-b hover:from-blue-50 hover:to-white 
+                   transition-all duration-300 dark:bg-slate-900/70 dark:border-slate-700 
+                   dark:hover:from-slate-800 dark:hover:to-slate-900"
+      >
+        <div className="flex justify-center mb-4">
+          <link.icon className="h-8 w-8 text-blue-600 group-hover:text-blue-700 transition-colors" />
+        </div>
+        <h3 className="text-lg font-semibold">{link.name}</h3>
+        <p className="mt-2 text-sm text-slate-600 dark:text-slate-300">{link.desc}</p>
+      </motion.a>
+    ))}
+  </div>
+</motion.section>
+
+
         {/* MARKDOWN CONTENT: SaaS 2025 card + luxe prose */}
         <motion.section
           key={fm.slug} // force re-init per stad
@@ -471,6 +550,139 @@ export default function LokaleSeoPage() {
             </article>
           </motion.div>
         </motion.section>
+
+        {/* PERSONA VAULT – SaaS 2025 highlight */}
+<motion.section
+  initial={{ opacity: 0, y: 20 }}
+  whileInView={{ opacity: 1, y: 0 }}
+  viewport={{ once: true, amount: 0.25 }}
+  transition={{ duration: 0.6, ease: "easeOut" }}
+  className="relative m-20 overflow-hidden rounded-3xl border border-white/20 bg-white/70 p-6 sm:p-10 shadow-xl backdrop-blur-xl
+             dark:border-white/10 dark:bg-slate-900/50"
+>
+  {/* decor: zachte blobs & hairline gradients */}
+  <span className="pointer-events-none absolute -top-16 -left-16 h-40 w-40 rounded-full bg-sky-500/20 blur-3xl" />
+  <span className="pointer-events-none absolute -bottom-16 -right-16 h-40 w-40 rounded-full bg-indigo-500/20 blur-3xl" />
+  <span className="pointer-events-none absolute inset-x-0 -top-px h-px bg-gradient-to-r from-transparent via-sky-500/50 to-transparent" />
+
+  {/* kop + badge + lead */}
+  <div className="relative z-10 max-w-3xl">
+    <div className="inline-flex items-center gap-2 rounded-full border border-sky-300/40 bg-sky-50/70 px-3 py-1 text-xs font-semibold text-sky-700
+                    dark:border-sky-400/20 dark:bg-sky-400/10 dark:text-sky-300">
+      <span className="inline-block h-1.5 w-1.5 rounded-full bg-sky-500" />
+      Beta – Gratis uitproberen
+    </div>
+
+    <h2 className="mt-4 text-3xl md:text-4xl font-extrabold tracking-tight">
+      Persona Vault <span className="bg-gradient-to-r from-sky-500 to-indigo-500 bg-clip-text text-transparent">voor teams die met AI werken</span>
+    </h2>
+
+    <p className="mt-4 text-slate-600 dark:text-slate-300 leading-relaxed">
+      Beheer <strong>AI‑persona’s</strong>, prompts en versies op één plek. Bouw bibliotheken,
+      werk samen in <strong>gedeelde workspaces</strong> en behoud controle met revisies &amp; visuele diff‑vergelijkingen.
+      Klaar voor groei met een <strong>API‑ready</strong> backend.
+    </p>
+  </div>
+
+  {/* content: features + mini mock / screenshot */}
+  <div className="relative z-10 mt-8 grid items-start gap-8 md:grid-cols-2">
+    {/* features */}
+    <div className="order-2 md:order-1">
+      <ul className="grid gap-3 sm:grid-cols-2">
+        {[
+          "Persona’s & prompts aanmaken en organiseren",
+          "Revisiegeschiedenis met side‑by‑side diff",
+          "Gedeelde workspaces voor teams & klanten",
+          "Collecties, tags en snelle zoekfilters",
+          "Rollen & permissies (team rights)",
+          "API‑ready voor toekomstige integraties",
+        ].map((feat) => (
+          <motion.li
+            key={feat}
+            whileHover={{ x: 4 }}
+            className="flex items-start gap-2 rounded-xl border border-white/30 bg-white/60 p-3 shadow-sm backdrop-blur
+                       dark:border-white/10 dark:bg-white/5"
+          >
+            <FaCheckCircle className="mt-0.5 shrink-0 text-sky-500" />
+            <span className="text-sm text-slate-700 dark:text-slate-300">{feat}</span>
+          </motion.li>
+        ))}
+      </ul>
+
+      {/* CTA's */}
+      <div className="mt-6 flex flex-wrap items-center gap-3">
+        <a
+          href="/persona-vault"
+          className="inline-flex items-center justify-center rounded-xl px-5 py-3 font-semibold text-white
+                     bg-gradient-to-r from-sky-600 to-indigo-600 shadow-lg ring-1 ring-white/10
+                     hover:scale-[1.02] hover:shadow-xl transition-all"
+        >
+          Schrijf je gratis in
+        </a>
+        <a
+          href="/contact"
+          className="inline-flex items-center justify-center rounded-xl px-5 py-3 font-semibold
+                     text-sky-800 bg-white/90 ring-1 ring-sky-200 hover:bg-white transition
+                     dark:text-sky-200 dark:bg-white/5 dark:ring-white/10"
+        >
+          Meer info
+        </a>
+      </div>
+    </div>
+
+    {/* mini “screenshot” / mock – vervang evt. door echte afbeelding */}
+    <motion.div
+      className="order-1 md:order-2"
+      initial={{ opacity: 0, y: 10 }}
+      whileInView={{ opacity: 1, y: 0 }}
+      viewport={{ once: true }}
+      transition={{ duration: 0.5 }}
+    >
+      <div className="relative rounded-2xl border border-white/40 bg-white/80 p-3 shadow-xl backdrop-blur
+                      dark:border-white/10 dark:bg-slate-900/60">
+        {/* Titelbalk mock */}
+        <div className="flex items-center gap-2 rounded-lg bg-slate-100/80 p-2 dark:bg-white/5">
+          <span className="h-2.5 w-2.5 rounded-full bg-red-400" />
+          <span className="h-2.5 w-2.5 rounded-full bg-yellow-400" />
+          <span className="h-2.5 w-2.5 rounded-full bg-green-400" />
+          <span className="ml-2 text-xs text-slate-500 dark:text-slate-400">Persona Vault – Workspace</span>
+        </div>
+
+        {/* Body mock (cards + diff) */}
+        <div className="mt-3 grid gap-3 md:grid-cols-2">
+          <div className="rounded-xl border border-slate-200/60 bg-white/70 p-3 shadow-sm
+                          dark:border-white/10 dark:bg-white/5">
+            <div className="text-xs font-semibold text-slate-500 dark:text-slate-400">Persona’s</div>
+            <div className="mt-2 grid grid-cols-2 gap-2">
+              {["Support Bot", "Sales Coach", "UX Writer", "Dev Tutor"].map((p) => (
+                <div key={p} className="rounded-lg border border-slate-200/60 bg-white/80 p-2 text-xs
+                                        dark:border-white/10 dark:bg-white/5">
+                  {p}
+                </div>
+              ))}
+            </div>
+          </div>
+          <div className="rounded-xl border border-slate-200/60 bg-white/70 p-3 shadow-sm
+                          dark:border-white/10 dark:bg-white/5">
+            <div className="text-xs font-semibold text-slate-500 dark:text-slate-400">Diff‑vergelijking</div>
+            <div className="mt-2 grid grid-cols-2 gap-2 text-[10px] leading-relaxed">
+              <div className="rounded-lg bg-rose-50/80 p-2 text-rose-700 dark:bg-rose-400/10 dark:text-rose-300">
+                – “Tone: formal”<br />– “Max length: 200”
+              </div>
+              <div className="rounded-lg bg-emerald-50/80 p-2 text-emerald-700 dark:bg-emerald-400/10 dark:text-emerald-300">
+                + “Tone: friendly”<br />+ “Max length: 160”
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {/* ondertitel */}
+      <p className="mt-2 text-center text-xs text-slate-500 dark:text-slate-400">
+        App nog in beta – schrijf je in voor gratis toegang en updates!
+      </p>
+    </motion.div>
+  </div>
+</motion.section>
 
         {/* =================== FAQ =================== */}
         {fm.faqs?.length ? (
