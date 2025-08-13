@@ -42,6 +42,9 @@ export default function ProjectSection() {
               src="/assets/img/screenshot.png"
               alt="Persona Vault scherm"
               className="w-full rounded-2xl shadow-2xl border border-white/20"
+              loading="lazy"
+              width={1624}
+              height={916}
             />
           </div>
         </div>

@@ -32,7 +32,14 @@ export default function Specializations() {
               key={item.title}
               className="p-6 text-center transition-transform border rounded-lg hover:-translate-y-1"
             >
-              <img src={item.icon} alt="" className="w-12 h-12 mx-auto mb-4" />
+              <img
+                src={item.icon}
+                alt=""
+                className="w-12 h-12 mx-auto mb-4"
+                loading="lazy"
+                width={48}
+                height={48}
+              />
               <h3 className="text-xl font-medium">{item.title}</h3>
               <p className="mt-2 text-gray-700">{item.description}</p>
             </div>

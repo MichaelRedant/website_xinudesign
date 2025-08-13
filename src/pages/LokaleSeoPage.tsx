@@ -202,19 +202,19 @@ export default function LokaleSeoPage() {
 
       <main className="relative overflow-x-hidden">
         {/* =================== HERO (SaaS 2025) =================== */}
-       <section
-  className="relative isolate pt-24 md:pt-28
+        <section
+          className="relative isolate pt-24 md:pt-28
              h-[78vh] min-h-[560px]
              flex flex-col items-center justify-center text-center text-white"
->
+        >
           <video
-  autoPlay
-  loop
-  muted
-  playsInline
-  className="pointer-events-none absolute inset-0 w-full h-full object-cover -z-10"
-  src={heroVideo}
-/>
+            autoPlay
+            loop
+            muted
+            playsInline
+            className="pointer-events-none absolute inset-0 w-full h-full object-cover -z-10"
+            src={heroVideo}
+          />
           {/* gradient & shapes */}
           <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/70" />
           <div className="pointer-events-none absolute -top-24 -left-24 h-72 w-72 rounded-full bg-blue-500/20 blur-3xl" />
@@ -251,13 +251,13 @@ export default function LokaleSeoPage() {
             className="mt-6 w-full flex justify-center md:hidden z-10"
           >
             <div className="rounded-2xl overflow-hidden ring-1 ring-white/25 shadow-2xl backdrop-blur bg-white/10">
-    <img
-      src={cityImage}
-      alt={fm.city}
-      className="block w-[88vw] max-w-[22rem] aspect-[16/10] object-cover"
-      loading="lazy"
-      sizes="(max-width: 768px) 88vw, 22rem"
-/>
+              <img
+                src={cityImage}
+                alt={fm.city}
+                className="block w-[88vw] max-w-[22rem] aspect-[16/10] object-cover"
+                loading="lazy"
+                sizes="(max-width: 768px) 88vw, 22rem"
+              />
             </div>
           </motion.div>
 
@@ -378,6 +378,8 @@ export default function LokaleSeoPage() {
                   alt={`${fm.city} visual`}
                   className="w-full h-64 object-cover md:h-80"
                   loading="lazy"
+                  width={1024}
+                  height={1536}
                 />
               </div>
 
@@ -429,19 +431,19 @@ export default function LokaleSeoPage() {
 
         {/* MARKDOWN CONTENT: SaaS 2025 card + luxe prose */}
         <motion.section
-  key={fm.slug}                    // force re-init per stad
-  variants={stagger}
-  initial="hidden"
-  whileInView="show"
-  viewport={{ once: true, amount: 0.1, margin: "-10% 0px -10% 0px" }}
-  className="mx-auto max-w-5xl px-4 sm:px-6 py-14 sm:py-20 lg:py-24"
->
+          key={fm.slug} // force re-init per stad
+          variants={stagger}
+          initial="hidden"
+          whileInView="show"
+          viewport={{ once: true, amount: 0.1, margin: "-10% 0px -10% 0px" }}
+          className="mx-auto max-w-5xl px-4 sm:px-6 py-14 sm:py-20 lg:py-24"
+        >
           <motion.div
-  variants={reveal}
-  className="relative rounded-3xl border border-white/30 bg-white/70
+            variants={reveal}
+            className="relative rounded-3xl border border-white/30 bg-white/70
              p-5 sm:p-8 md:p-10 shadow-xl backdrop-blur-xl
              dark:bg-slate-900/40 dark:border-white/10"
->
+          >
             {/* Top & side gradient accents */}
             <span
               className="pointer-events-none absolute inset-x-0 -top-px h-px 
@@ -454,7 +456,7 @@ export default function LokaleSeoPage() {
 
             {/* Markdown content */}
             <article
-    className="city-prose prose max-w-none dark:prose-invert
+              className="city-prose prose max-w-none dark:prose-invert
                prose-base sm:prose-lg
                prose-headings:font-bold prose-headings:tracking-tight
                prose-h2:scroll-mt-28 prose-h3:scroll-mt-28
@@ -464,9 +466,9 @@ export default function LokaleSeoPage() {
                prose-strong:text-slate-900 dark:prose-strong:text-white
                prose-li:marker:text-blue-600 prose-img:rounded-xl prose-img:shadow-lg
                leading-relaxed"
-  >
-    <div dangerouslySetInnerHTML={{ __html: html }} />
-  </article>
+            >
+              <div dangerouslySetInnerHTML={{ __html: html }} />
+            </article>
           </motion.div>
         </motion.section>
 
