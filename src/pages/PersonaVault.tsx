@@ -130,6 +130,9 @@ export default function PersonaVault() {
             src="/assets/img/screenshot.png"
             alt="Persona Vault dashboard"
             className="rounded-2xl shadow-2xl mx-auto w-full"
+            loading="lazy"
+            width={1624}
+            height={916}
           />
         </section>
 
