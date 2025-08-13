@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Appelterre met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/appelterre"
 image: "/assets/img/landingpages/appelterre.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,44 +49,48 @@ lastmod: "2025-08-12"
 Appelterre is een charmant dorp in Ninove, waar de landelijke rust en de nabijheid van de stad hand in hand gaan. Hier vind je een gemeenschap die elkaar kent, maar waar mensen ook steeds vaker online op zoek gaan naar producten en diensten. Een sterke digitale aanwezigheid maakt het verschil of je nu een bakker bent aan de Kerkstraat, een zelfstandige in de dienstensector of een winkeluitbater vlak bij het station.
 
 **Webdevelopment op maat van Appelterre**  
-Wij bouwen **moderne, snelle en gebruiksvriendelijke websites** die passen bij de uitstraling van jouw zaak én de verwachtingen van de Appelterse bezoeker.  
+Wij bouwen **moderne, snelle en gebruiksvriendelijke websites** die passen bij de uitstraling van jouw zaak én de verwachtingen van de Appelterse bezoeker.
 
-Onze troeven:  
-- **SEO-proof structuur** met lokale zoekwoorden.  
-- **Responsive design** voor perfecte weergave op alle apparaten.  
-- **Conversiegerichte navigatie** en duidelijke call-to-actions.  
-- Integratie van **lokale beelden** die herkenbaar zijn voor je klanten.  
-- Technische optimalisaties voor snelle laadtijden en hogere Google-rankings.  
+Onze troeven:
+
+- **SEO-proof structuur** met lokale zoekwoorden.
+- **Responsive design** voor perfecte weergave op alle apparaten.
+- **Conversiegerichte navigatie** en duidelijke call-to-actions.
+- Integratie van **lokale beelden** die herkenbaar zijn voor je klanten.
+- Technische optimalisaties voor snelle laadtijden en hogere Google-rankings.
 
 We werken met **WordPress** voor gebruiksgemak of met **HTML, CSS en React** voor maatwerkprojecten die maximale snelheid en flexibiliteit vereisen.
 
 **Advertising: doelgericht bereik in Appelterre en omgeving**  
-Met **Google Ads** en **Meta Ads** zorgen we dat jouw boodschap bij de juiste doelgroep terechtkomt. Dat kan hyperlokaal in Appelterre of breder in de regio Ninove.  
+Met **Google Ads** en **Meta Ads** zorgen we dat jouw boodschap bij de juiste doelgroep terechtkomt. Dat kan hyperlokaal in Appelterre of breder in de regio Ninove.
 
-Voorbeelden van campagnes:  
-- Lokale promoties voor winkels en horeca.  
-- Retargetingcampagnes voor bezoekers die je site eerder bezochten.  
-- Aankondigingen van evenementen in de buurt.  
+Voorbeelden van campagnes:
+
+- Lokale promoties voor winkels en horeca.
+- Retargetingcampagnes voor bezoekers die je site eerder bezochten.
+- Aankondigingen van evenementen in de buurt.
 
 We volgen de resultaten op en sturen bij voor maximale return op je investering.
 
 **Lokale SEO met een Appelterse insteek**  
-Om online zichtbaar te zijn in Appelterre, optimaliseren we:  
-- Je **Google Business-profiel** met actuele info en foto’s.  
-- **NAP-consistentie** (Naam, Adres, Telefoonnummer) op alle online vermeldingen.  
-- **Lokale backlinks** van relevante partners of organisaties.  
-- Content met herkenbare referenties zoals de Sint-Gertrudiskerk, de Dender en wandelroutes in de omgeving.  
+Om online zichtbaar te zijn in Appelterre, optimaliseren we:
+
+- Je **Google Business-profiel** met actuele info en foto’s.
+- **NAP-consistentie** (Naam, Adres, Telefoonnummer) op alle online vermeldingen.
+- **Lokale backlinks** van relevante partners of organisaties.
+- Content met herkenbare referenties zoals de Sint-Gertrudiskerk, de Dender en wandelroutes in de omgeving.
 
 Zo vergroot je je kans om bovenaan te staan bij zoekopdrachten als “kapper Appelterre” of “restaurant Appelterre”.
 
 **Data-gedreven optimalisatie**  
 Met tools als **Google Analytics**, **Search Console** en **Piwik Pro** analyseren we hoe bezoekers je site gebruiken en welke kanalen het beste renderen. Die inzichten vertalen we naar verbeteringen in content, advertenties en UX.
 
-**Waarom kiezen voor Xinudesign in Appelterre?**  
-- Persoonlijke aanpak en direct contact.  
-- Techniek en creativiteit in één team.  
-- Ervaring met lokale marketing en webontwikkeling.  
-- Flexibel: op locatie of via videocall.  
+**Waarom kiezen voor Xinudesign in Appelterre?**
+
+- Persoonlijke aanpak en direct contact.
+- Techniek en creativiteit in één team.
+- Ervaring met lokale marketing en webontwikkeling.
+- Flexibel: op locatie of via videocall.
 - Resultaatgericht: focus op meetbare groei.
 
 **Interne links voor sterke regio-SEO**  

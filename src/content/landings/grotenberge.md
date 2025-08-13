@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Grotenberge met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/grotenberge"
 image: "/assets/img/landingpages/grotenberge.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -50,41 +50,45 @@ Grotenberge is een groene en rustige deelgemeente van Zottegem, bekend om zijn n
 
 **Webdevelopment op maat van Grotenberge**  
 Wij bouwen websites die:
-- Snel laden en technisch optimaal presteren.  
-- Volledig mobielvriendelijk zijn.  
-- Geoptimaliseerd zijn voor **Core Web Vitals** en SEO.  
-- Een duidelijke navigatie en sterke call-to-actions bevatten.  
+
+- Snel laden en technisch optimaal presteren.
+- Volledig mobielvriendelijk zijn.
+- Geoptimaliseerd zijn voor **Core Web Vitals** en SEO.
+- Een duidelijke navigatie en sterke call-to-actions bevatten.
 
 We werken in **WordPress** voor gebruiksgemak of ontwikkelen **maatwerk in HTML, CSS en React** voor wie maximale prestaties wil. Of je nu een fietsenwinkel aan de Grotenbergse baan hebt, een B&B in het groen runt of een bouwbedrijf in de buurt, we zorgen dat jouw website klanten aantrekt én omzet oplevert.
 
 **Advertising: doelgericht bereik in Grotenberge en omgeving**  
 Met **Google Ads** en **Meta Ads** richten we campagnes in die hyperlokaal targeten:
-- Focus op Grotenberge en de omliggende dorpen Velzeke, Godveerdegem en Erwetegem.  
-- Advertenties afgestemd op seizoensacties, evenementen en promoties.  
-- Retargeting voor bezoekers die eerder je site hebben bezocht.  
+
+- Focus op Grotenberge en de omliggende dorpen Velzeke, Godveerdegem en Erwetegem.
+- Advertenties afgestemd op seizoensacties, evenementen en promoties.
+- Retargeting voor bezoekers die eerder je site hebben bezocht.
 
 Zo maximaliseren we de impact van elke advertentie-euro.
 
 **Lokale SEO met een Grotenbergse insteek**  
 Onze lokale SEO-aanpak zorgt dat je bovenaan staat bij zoekopdrachten in de regio. We:
-- Optimaliseren je **Google Business-profiel**.  
-- Zorgen voor **NAP-consistentie** in al je vermeldingen.  
-- Bouwen **lokale backlinks** vanuit Zottegemse en Grotenbergse bronnen.  
+
+- Optimaliseren je **Google Business-profiel**.
+- Zorgen voor **NAP-consistentie** in al je vermeldingen.
+- Bouwen **lokale backlinks** vanuit Zottegemse en Grotenbergse bronnen.
 - Integreren herkenbare elementen zoals:
-  - Provinciaal Domein Het Leen  
-  - Grotenbergse Heuvel  
-  - Fiets- en wandelroutes naar Zottegem  
-  - Landelijke vergezichten rond Grotenberge  
+  - Provinciaal Domein Het Leen
+  - Grotenbergse Heuvel
+  - Fiets- en wandelroutes naar Zottegem
+  - Landelijke vergezichten rond Grotenberge
 
 **Data-gedreven optimalisatie**  
 We meten alles via **Google Analytics**, **Search Console** en **Piwik Pro**. Zo weten we welke pagina’s het beste presteren, welke advertenties de meeste leads opleveren en waar verbeteringen mogelijk zijn.
 
-**Waarom kiezen voor Xinudesign in Grotenberge?**  
-- Persoonlijke aanpak en directe communicatie.  
-- Creatieve en technische expertise onder één dak.  
-- Lokale kennis en feeling met het ondernemersklimaat.  
-- Flexibiliteit: afspraken op locatie of volledig online.  
-- Resultaatgericht: focus op meetbare groei en rendement.  
+**Waarom kiezen voor Xinudesign in Grotenberge?**
+
+- Persoonlijke aanpak en directe communicatie.
+- Creatieve en technische expertise onder één dak.
+- Lokale kennis en feeling met het ondernemersklimaat.
+- Flexibiliteit: afspraken op locatie of volledig online.
+- Resultaatgericht: focus op meetbare groei en rendement.
 
 **Interne links voor regionale SEO**  
 [Zottegem](/diensten/zottegem) • [Velzeke](/diensten/velzeke) • [Godveerdegem](/diensten/godveerdegem) • [Erwetegem](/diensten/erwetegem)

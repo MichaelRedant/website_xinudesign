@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Smetlede groeien met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/smetlede"
 image: "/assets/img/landingpages/smetlede.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -46,30 +46,30 @@ lastmod: "2025-08-12"
 ---
 
 **Digitale groei voor ondernemers in Smetlede**  
-Smetlede is een gezellige deelgemeente van Lede, bekend om haar landelijke charme, hechte gemeenschap en groene omgeving. Met het dorpsplein als ontmoetingspunt en straten die elkaar verbinden via pittoreske fiets- en wandelpaden, is het een plaats waar lokaal ondernemerschap een belangrijke rol speelt.  
+Smetlede is een gezellige deelgemeente van Lede, bekend om haar landelijke charme, hechte gemeenschap en groene omgeving. Met het dorpsplein als ontmoetingspunt en straten die elkaar verbinden via pittoreske fiets- en wandelpaden, is het een plaats waar lokaal ondernemerschap een belangrijke rol speelt.
 
 Toch is ook hier een sterke **online aanwezigheid** onmisbaar om nieuwe klanten aan te trekken, zowel binnen als buiten het dorp. Xinudesign zorgt ervoor dat jouw bedrijf opvalt met een professionele website en slimme digitale marketingstrategieën.
 
 **Webdevelopment op maat van Smetlede**  
-Elke onderneming in Smetlede is uniek — of je nu een familiezaak, horecazaak of dienstverlenend bedrijf hebt. Wij ontwikkelen websites die perfect aansluiten bij jouw noden en het karakter van je zaak.  
+Elke onderneming in Smetlede is uniek — of je nu een familiezaak, horecazaak of dienstverlenend bedrijf hebt. Wij ontwikkelen websites die perfect aansluiten bij jouw noden en het karakter van je zaak.
 
 Onze websites zijn:
 
-- **Mobielvriendelijk**: perfect voor gebruikers die onderweg zoeken.  
-- **Snel ladend**: geen frustratie voor bezoekers en hogere SEO-scores.  
-- **Gebruiksvriendelijk**: duidelijke navigatie en conversiegerichte structuur.  
-- **SEO-proof**: geoptimaliseerd om lokaal gevonden te worden.  
+- **Mobielvriendelijk**: perfect voor gebruikers die onderweg zoeken.
+- **Snel ladend**: geen frustratie voor bezoekers en hogere SEO-scores.
+- **Gebruiksvriendelijk**: duidelijke navigatie en conversiegerichte structuur.
+- **SEO-proof**: geoptimaliseerd om lokaal gevonden te worden.
 
 Of je nu een kapsalon hebt vlak bij het dorpsplein, een B&B uitbaat aan de rand van het dorp, of een bouwbedrijf runt: wij zorgen voor een site die jouw merk professioneel neerzet en bezoekers overtuigt om actie te ondernemen.
 
 **Advertising: doelgericht bereik in Smetlede en omgeving**  
-Met **Google Ads** en **Meta Ads** zetten we campagnes op die jouw bedrijf onder de aandacht brengen bij precies de juiste doelgroep.  
+Met **Google Ads** en **Meta Ads** zetten we campagnes op die jouw bedrijf onder de aandacht brengen bij precies de juiste doelgroep.
 
 We passen toe:
 
-- **Geografische targeting**: enkel advertenties voor Smetlede en omliggende dorpen zoals Erondégem, Oordegem, Lede en Impe.  
-- **Gerichte zoekwoorden**: zoals “webdesigner Smetlede” of “bakker Lede”.  
-- **Campagnes op maat van seizoensmomenten**: bijvoorbeeld promoties rond de jaarlijkse kermis.  
+- **Geografische targeting**: enkel advertenties voor Smetlede en omliggende dorpen zoals Erondégem, Oordegem, Lede en Impe.
+- **Gerichte zoekwoorden**: zoals “webdesigner Smetlede” of “bakker Lede”.
+- **Campagnes op maat van seizoensmomenten**: bijvoorbeeld promoties rond de jaarlijkse kermis.
 
 Op die manier gaat geen advertentiebudget verloren en bereik je enkel relevante klanten.
 
@@ -85,21 +85,21 @@ Lokale vindbaarheid is cruciaal voor ondernemers in Smetlede. Daarom verwerken w
 Bovendien optimaliseren we je **Google Business-profiel**, zorgen we voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen we **lokale backlinks** vanuit relevante bronnen.
 
 **Data-gedreven optimalisatie**  
-We meten en analyseren continu hoe jouw site en campagnes presteren. Met **Google Analytics**, **Search Console** en **Piwik Pro** kijken we naar bezoekersgedrag, conversies en zoekwoorden die het meeste opleveren.  
+We meten en analyseren continu hoe jouw site en campagnes presteren. Met **Google Analytics**, **Search Console** en **Piwik Pro** kijken we naar bezoekersgedrag, conversies en zoekwoorden die het meeste opleveren.
 
 Op basis van die inzichten verbeteren we:
 
-- Laadsnelheid en gebruiksvriendelijkheid.  
-- Advertentietargeting en -boodschappen.  
-- Contentstructuur en SEO-instellingen.  
+- Laadsnelheid en gebruiksvriendelijkheid.
+- Advertentietargeting en -boodschappen.
+- Contentstructuur en SEO-instellingen.
 
 **Waarom kiezen voor Xinudesign in Smetlede?**
 
-- Rechtstreeks contact met je webdesigner en marketeer.  
-- Technische én creatieve expertise gecombineerd.  
-- Kennis van de lokale markt en het ondernemersklimaat in Smetlede.  
-- Flexibele samenwerking: op locatie of online.  
-- Focus op duurzame groei en meetbare resultaten.  
+- Rechtstreeks contact met je webdesigner en marketeer.
+- Technische én creatieve expertise gecombineerd.
+- Kennis van de lokale markt en het ondernemersklimaat in Smetlede.
+- Flexibele samenwerking: op locatie of online.
+- Focus op duurzame groei en meetbare resultaten.
 
 **Van eerste idee tot succesvolle lancering**  
 We starten met een vrijblijvend gesprek om je doelen scherp te stellen. Daarna maken we een concreet actieplan met duidelijke deadlines. Tijdens de bouw houden we je op de hoogte en verwerken we je feedback snel. Na de livegang blijven we beschikbaar voor onderhoud, uitbreiding en nieuwe campagnes.

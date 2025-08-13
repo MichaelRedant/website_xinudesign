@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt Lokerse ondernemers met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en SEO-strategieën die inspelen op de troeven van de stad."
 canonical: "https://www.xinudesign.be/diensten/lokeren"
 image: "/assets/img/landingpages/lokeren.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -57,24 +57,24 @@ Of je nu een boetiek hebt in de Kerkstraat, een advocatenkantoor vlak bij het St
 Met **Google Ads** en **Meta Ads** zetten we campagnes op die precies de juiste mensen bereiken. We targeten hyperlokaal: centrum Lokeren, maar ook **[Eksaarde](/diensten/eksaarde)**, **[Daknam](/diensten/daknam)** en **[Heiende](/diensten/heiende)**. Je advertentiebudget gaat zo niet verloren aan irrelevante klikken. Denk aan promospots rond piekmomenten (zaterdagnamiddag in de winkelstraten), retargeting na een websitebezoek of het uitspelen van acties tijdens de Lokerse Feesten.
 
 **Lokale SEO met een Lokerse insteek**  
-Lokeren heeft een duidelijke identiteit, en die laten we online meewegen. We verwerken herkenningspunten zoals het **Stadspaleis**, **Park ter Beuken**, **Daknamstadion**, **Durmemolen** en evenementen als de **Lokerse Feesten** in je content en metadata. Dat zorgt voor relevantie en herkenning.  
+Lokeren heeft een duidelijke identiteit, en die laten we online meewegen. We verwerken herkenningspunten zoals het **Stadspaleis**, **Park ter Beuken**, **Daknamstadion**, **Durmemolen** en evenementen als de **Lokerse Feesten** in je content en metadata. Dat zorgt voor relevantie en herkenning.
 
 Daarnaast optimaliseren we je **Google Business-profiel**, zorgen we voor **NAP-consistentie** en bouwen we **lokale backlinks**. Zo verschijn je hoger in Maps en in organische resultaten wanneer iemand zoekt naar termen als “webdesigner Lokeren”, “restaurant Markt Lokeren” of “kapper Eksaarde”.
 
 **Data-gedreven optimalisatie**  
 Geen nattevingerwerk: we meten, leren en sturen bij. Met **Google Analytics**, **Search Console** en **Piwik Pro** volgen we verkeer, gedrag en conversies op. Welke campagnes leveren de meeste aanvragen op? Waar haken bezoekers af? Welke zoektermen converteren effectief? Op basis van die inzichten scherpen we advertenties, content en UX continu aan.
 
-**Waarom kiezen voor Xinudesign in Lokeren?**  
+**Waarom kiezen voor Xinudesign in Lokeren?**
 
-- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.  
-- Technische én creatieve expertise onder één dak.  
-- Lokale feeling: we kennen het Lokerse ondernemersklimaat.  
-- Flexibiliteit: op locatie indien nuttig, vaak ook efficiënt online.  
+- Persoonlijke aanpak: rechtstreeks contact met de webdesigner en marketeer.
+- Technische én creatieve expertise onder één dak.
+- Lokale feeling: we kennen het Lokerse ondernemersklimaat.
+- Flexibiliteit: op locatie indien nuttig, vaak ook efficiënt online.
 - Resultaatgericht: focus op meetbare groei en rendement.
 
 **Interne links: heel Lokeren verbonden**  
 Versterk je lokale autoriteit met gerichte interne links naar de deelgemeenten:  
-[Eksaarde](/diensten/eksaarde) • [Daknam](/diensten/daknam) • [Heiende](/diensten/heiende)  
+[Eksaarde](/diensten/eksaarde) • [Daknam](/diensten/daknam) • [Heiende](/diensten/heiende)
 
 Door deze interne verbindingen begrijpt Google dat jij de lokale specialist bent voor de héle regio Lokeren.
 

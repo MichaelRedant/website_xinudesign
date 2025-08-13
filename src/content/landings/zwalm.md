@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign bouwt snelle, conversiegerichte websites en voert gerichte advertentiecampagnes voor bedrijven in Zwalm. Wij versterken je lokale vindbaarheid en online aanwezigheid."
 canonical: "https://www.xinudesign.be/diensten/zwalm"
 image: "/assets/img/landingpages/zwalm.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael.redant2@telenet.be"
 address:

@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Denderleeuw met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de gemeente."
 canonical: "https://www.xinudesign.be/diensten/denderleeuw"
 image: "/assets/img/landingpages/denderleeuw.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Lokale vindbaarheid is cruciaal voor ondernemers die werken met klanten uit de b
 **Data-gedreven optimalisatie**  
 Meten is weten. We gebruiken tools als Google Analytics, Search Console en Piwik Pro om exact te zien hoe bezoekers je site gebruiken en hoe je campagnes presteren. Op basis van deze data verbeteren we je content, advertenties en gebruikerservaring. Zo blijf je concurrenten voor en bouw je stap voor stap aan een sterkere online positie.
 
-**Waarom kiezen voor Xinudesign in Denderleeuw?**  
+**Waarom kiezen voor Xinudesign in Denderleeuw?**
 
-- Persoonlijke aanpak met korte communicatielijnen.  
-- Technische én creatieve expertise in één pakket.  
-- Kennis van de lokale markt in Denderleeuw en deelgemeenten.  
-- Flexibiliteit: afspraken mogelijk op locatie of via videocall.  
+- Persoonlijke aanpak met korte communicatielijnen.
+- Technische én creatieve expertise in één pakket.
+- Kennis van de lokale markt in Denderleeuw en deelgemeenten.
+- Flexibiliteit: afspraken mogelijk op locatie of via videocall.
 - Focus op meetbare groei en rendement.
 
 **Van eerste gesprek tot livegang**  

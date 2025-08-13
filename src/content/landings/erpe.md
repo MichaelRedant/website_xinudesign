@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Erpe groeien met snelle, gebruiksvriendelijke websites, doelgerichte advertenties en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/erpe"
 image: "/assets/img/landingpages/erpe.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -50,58 +50,62 @@ Erpe, het hart van de fusiegemeente Erpe-Mere, is een bruisend dorp met een ster
 
 **Webdevelopment op maat van Erpe**  
 Wij bouwen **snel ladende, gebruiksvriendelijke websites** die volledig afgestemd zijn op jouw merkidentiteit. Afhankelijk van je voorkeur en budget werken we met:
-- **WordPress** voor flexibiliteit en eenvoudig beheer.  
-- **Maatwerk in HTML, CSS en React** voor maximale snelheid en mogelijkheden.  
+
+- **WordPress** voor flexibiliteit en eenvoudig beheer.
+- **Maatwerk in HTML, CSS en React** voor maximale snelheid en mogelijkheden.
 
 Elke site is:
-- **Mobielvriendelijk** en geoptimaliseerd voor alle schermformaten.  
-- **SEO-proof**, met lokale zoekwoorden zoals *webdesign Erpe* en *SEO Erpe*.  
-- **Conversiegericht** met duidelijke call-to-actions en een logische navigatie.  
+
+- **Mobielvriendelijk** en geoptimaliseerd voor alle schermformaten.
+- **SEO-proof**, met lokale zoekwoorden zoals _webdesign Erpe_ en _SEO Erpe_.
+- **Conversiegericht** met duidelijke call-to-actions en een logische navigatie.
 
 Of je nu een horecazaak in het centrum hebt, een winkel in de buurt van de N9, of een dienst levert in heel Erpe-Mere: je website wordt je sterkste visitekaartje.
 
 **Advertising: doelgericht bereik in Erpe en omliggende dorpen**  
-Met **Google Ads** en **Meta Ads** brengen we jouw boodschap bij de juiste doelgroep, op het juiste moment. Dankzij **geografische targeting** richten we onze campagnes op Erpe zelf én op omliggende plaatsen zoals [Bambrugge](/diensten/bambrugge), [Aaigem](/diensten/aaigem) en [Burst](/diensten/burst).  
+Met **Google Ads** en **Meta Ads** brengen we jouw boodschap bij de juiste doelgroep, op het juiste moment. Dankzij **geografische targeting** richten we onze campagnes op Erpe zelf én op omliggende plaatsen zoals [Bambrugge](/diensten/bambrugge), [Aaigem](/diensten/aaigem) en [Burst](/diensten/burst).
 
 Mogelijke campagnes:
 
-- Een promotie voor je winkel gericht op inwoners van Erpe en omliggende wijken.  
-- Een eventcampagne voor je horeca of vereniging binnen een straal van 5 km.  
-- Retargeting van websitebezoekers om je conversie te verhogen.  
+- Een promotie voor je winkel gericht op inwoners van Erpe en omliggende wijken.
+- Een eventcampagne voor je horeca of vereniging binnen een straal van 5 km.
+- Retargeting van websitebezoekers om je conversie te verhogen.
 
 Door continue optimalisatie zorgen we ervoor dat je advertentiebudget maximaal rendeert.
 
-**Lokale SEO met een Erpese insteek**  
+**Lokale SEO met een Erpese insteek**
 
 Lokale vindbaarheid is onmisbaar als je je richt op klanten uit de buurt. We zorgen voor:
-- **Optimalisatie van je Google Business-profiel**.  
-- **NAP-consistentie** (naam, adres, telefoonnummer) in alle online vermeldingen.  
-- **Lokale backlinks** vanuit relevante regionale bronnen.  
+
+- **Optimalisatie van je Google Business-profiel**.
+- **NAP-consistentie** (naam, adres, telefoonnummer) in alle online vermeldingen.
+- **Lokale backlinks** vanuit relevante regionale bronnen.
 
 We verwerken herkenbare Erpese referenties in je content, zoals:
 
-- De **Sint-Martinuskerk**.  
-- Het **centrum van Erpe** met zijn handelszaken.  
-- **Jaarmarkt Erpe** en lokale evenementen.  
-- Sportclubs en verenigingen in de regio.  
+- De **Sint-Martinuskerk**.
+- Het **centrum van Erpe** met zijn handelszaken.
+- **Jaarmarkt Erpe** en lokale evenementen.
+- Sportclubs en verenigingen in de regio.
 
 Zo weet Google dat jouw zaak lokaal relevant is én herkennen inwoners je direct.
 
 **Data-gedreven optimalisatie**  
 We baseren ons op feiten en cijfers, niet op gokwerk. Met tools zoals **Google Analytics**, **Search Console** en **Piwik Pro** volgen we nauwgezet op:
-- Hoe bezoekers je website vinden.  
-- Welke pagina’s en producten populair zijn.  
-- Waar bezoekers afhaken.  
+
+- Hoe bezoekers je website vinden.
+- Welke pagina’s en producten populair zijn.
+- Waar bezoekers afhaken.
 
 Met deze inzichten verbeteren we voortdurend je online strategie.
 
-**Waarom kiezen voor Xinudesign in Erpe?**  
+**Waarom kiezen voor Xinudesign in Erpe?**
 
-- **Persoonlijke aanpak:** direct contact met de webdesigner en marketeer.  
-- **Technische én creatieve expertise** onder één dak.  
-- **Lokale kennis:** we begrijpen de markt en het ondernemersklimaat in Erpe.  
-- **Flexibiliteit:** zowel op locatie als online beschikbaar.  
-- **Resultaatgericht:** focus op meetbare groei.  
+- **Persoonlijke aanpak:** direct contact met de webdesigner en marketeer.
+- **Technische én creatieve expertise** onder één dak.
+- **Lokale kennis:** we begrijpen de markt en het ondernemersklimaat in Erpe.
+- **Flexibiliteit:** zowel op locatie als online beschikbaar.
+- **Resultaatgericht:** focus op meetbare groei.
 
 **Interne links: Erpe verbonden met de regio**  
 [Bambrugge](/diensten/bambrugge) • [Aaigem](/diensten/aaigem) • [Burst](/diensten/burst) • [Erpe-Mere](/diensten/erpe-mere)

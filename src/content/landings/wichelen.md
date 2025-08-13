@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Wichelen met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de gemeente en haar inwoners."
 canonical: "https://www.xinudesign.be/diensten/wichelen"
 image: "/assets/img/landingpages/wichelen.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -66,12 +66,12 @@ Lokale SEO draait om zichtbaar zijn wanneer mensen in de buurt zoeken naar wat j
 **Data-gedreven optimalisatie**  
 Meten is weten. Ik gebruik tools als Google Analytics, Search Console en Piwik Pro om het gedrag van je bezoekers en de prestaties van je campagnes te analyseren. Daardoor kan ik voortdurend bijsturen voor betere resultaten. Geen giswerk, maar beslissingen op basis van harde cijfers.
 
-**Waarom kiezen voor Xinudesign in Wichelen?**  
+**Waarom kiezen voor Xinudesign in Wichelen?**
 
-- **Persoonlijke aanpak** – je spreekt rechtstreeks met mij, geen tussenpersonen.  
-- **Technische én creatieve expertise** – alles in één dienstverlener.  
-- **Kennis van de lokale markt** – ik ken Wichelen, haar inwoners en wat er leeft.  
-- **Flexibiliteit** – afspraken kunnen op locatie of online.  
+- **Persoonlijke aanpak** – je spreekt rechtstreeks met mij, geen tussenpersonen.
+- **Technische én creatieve expertise** – alles in één dienstverlener.
+- **Kennis van de lokale markt** – ik ken Wichelen, haar inwoners en wat er leeft.
+- **Flexibiliteit** – afspraken kunnen op locatie of online.
 - **Resultaatgericht** – focus op meetbare groei en rendement.
 
 **Van kennismaking tot lancering**  

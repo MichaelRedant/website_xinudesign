@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Oostakker groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van de wijk."
 canonical: "https://www.xinudesign.be/diensten/oostakker"
 image: "/assets/img/landingpages/oostakker.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -51,21 +51,22 @@ Oostakker is een dynamische deelgemeente van Gent, bekend om haar mix van reside
 
 **Webdevelopment op maat van Oostakker**
 
-Elke zaak heeft een verhaal — en wij vertalen dat verhaal naar een online beleving. Of je nu een restaurant runt aan de **Oostakkerdorpstraat**, een fitness nabij het **Shopping Center**, of een dienstverlenend bedrijf in de **Industrieweg**: wij zorgen dat je online visitekaartje niet alleen indruk maakt, maar ook converteert.  
+Elke zaak heeft een verhaal — en wij vertalen dat verhaal naar een online beleving. Of je nu een restaurant runt aan de **Oostakkerdorpstraat**, een fitness nabij het **Shopping Center**, of een dienstverlenend bedrijf in de **Industrieweg**: wij zorgen dat je online visitekaartje niet alleen indruk maakt, maar ook converteert.
 
 We bouwen snelle, gebruiksvriendelijke en mobielvriendelijke websites, afgestemd op zoekmachineoptimalisatie. Afhankelijk van je behoeften werken we in **WordPress** of maken we een **maatwerkoplossing in HTML, CSS en React**. Onze **UI/UX-aanpak** zorgt ervoor dat bezoekers gemakkelijk navigeren en sneller overgaan tot actie.
 
 **Advertising: doelgericht bereik in Oostakker en omgeving**
 
-Met **Google Ads** en **Meta Ads** brengen we jouw aanbod bij de juiste doelgroep. Dankzij **geografische targeting** bereiken we inwoners van Oostakker én omliggende wijken zoals [Wondelgem](/diensten/wondelgem), [Desteldonk](/diensten/desteldonk) en [Gent](/diensten/gent).  
+Met **Google Ads** en **Meta Ads** brengen we jouw aanbod bij de juiste doelgroep. Dankzij **geografische targeting** bereiken we inwoners van Oostakker én omliggende wijken zoals [Wondelgem](/diensten/wondelgem), [Desteldonk](/diensten/desteldonk) en [Gent](/diensten/gent).
 
 Of het nu gaat om een actie in je winkel, een evenement bij de Lourdesgrot, of een nieuwe dienst die je wil lanceren: wij zorgen dat je boodschap opvalt. Door **continue optimalisatie** wordt je advertentiebudget optimaal benut en worden irrelevante klikken vermeden.
 
 **Lokale SEO met een Oostakkerse insteek**
 
-Wij zorgen dat je niet alleen gevonden wordt, maar ook herkend wordt als dé lokale keuze. We optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** en bouwen **lokale backlinks** vanuit relevante Oostakkerse en Gentse bronnen.  
+Wij zorgen dat je niet alleen gevonden wordt, maar ook herkend wordt als dé lokale keuze. We optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** en bouwen **lokale backlinks** vanuit relevante Oostakkerse en Gentse bronnen.
 
 In je content verwerken we herkenbare plaatsen zoals:
+
 - **Shopping Center Oostakker**
 - **Lourdesgrot Oostakker**
 - **Oostakkerdorpstraat**
@@ -80,11 +81,11 @@ We volgen elke klik en interactie op via **Google Analytics**, **Google Search C
 
 **Waarom kiezen voor Xinudesign in Oostakker?**
 
-- **Persoonlijke aanpak**: rechtstreeks contact met je webdesigner en marketeer.  
-- **Combinatie van techniek en creativiteit** in één dienst.  
-- **Lokale marktkennis**: we kennen Oostakker en haar ondernemersklimaat.  
-- **Flexibiliteit**: afspraken op locatie of online.  
-- **Focus op rendement**: meetbare groei en langdurig resultaat.  
+- **Persoonlijke aanpak**: rechtstreeks contact met je webdesigner en marketeer.
+- **Combinatie van techniek en creativiteit** in één dienst.
+- **Lokale marktkennis**: we kennen Oostakker en haar ondernemersklimaat.
+- **Flexibiliteit**: afspraken op locatie of online.
+- **Focus op rendement**: meetbare groei en langdurig resultaat.
 
 **Van kennismaking tot lancering**
 

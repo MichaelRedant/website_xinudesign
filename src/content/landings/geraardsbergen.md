@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Geraardsbergen groeien met snelle websites, slimme advertenties en lokale SEO die inspeelt op de eigenheid van de stad en haar deelgemeenten."
 canonical: "https://www.xinudesign.be/diensten/geraardsbergen"
 image: "/assets/img/landingpages/geraardsbergen.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael.redant2@telenet.be"
 address:

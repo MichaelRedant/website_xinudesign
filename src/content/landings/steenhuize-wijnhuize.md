@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Steenhuize-Wijnhuize met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/steenhuize-wijnhuize"
 image: "/assets/img/landingpages/steenhuize-wijnhuize.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Lokale vindbaarheid is onmisbaar voor ondernemers die inzetten op klanten uit de
 **Data-gedreven optimalisatie**  
 Wij baseren onze keuzes op harde data. Met tools als Google Analytics, Search Console en Piwik Pro meten we hoe bezoekers je site vinden en gebruiken. We analyseren conversies, zoekwoordposities en gebruikersgedrag om voortdurend verbeteringen door te voeren. Zo blijft je website niet alleen actueel, maar ook concurrentievoordeel opleveren.
 
-**Waarom kiezen voor Xinudesign in Steenhuize-Wijnhuize?**  
+**Waarom kiezen voor Xinudesign in Steenhuize-Wijnhuize?**
 
-- Persoonlijke aanpak met directe communicatie.  
-- Technische en creatieve expertise in één partner.  
-- Kennis van de lokale markt en doelgroep in Steenhuize-Wijnhuize.  
-- Flexibiliteit: afspraken op locatie of via videocall.  
+- Persoonlijke aanpak met directe communicatie.
+- Technische en creatieve expertise in één partner.
+- Kennis van de lokale markt en doelgroep in Steenhuize-Wijnhuize.
+- Flexibiliteit: afspraken op locatie of via videocall.
 - Focus op meetbare resultaten en duurzame groei.
 
 **Van kennismaking tot livegang**  

@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign bouwt snelle, gebruiksvriendelijke websites voor ondernemers in Mere, versterkt met lokale SEO en doelgerichte advertentiecampagnes voor maximale zichtbaarheid."
 canonical: "https://www.xinudesign.be/diensten/mere"
 image: "/assets/img/landingpages/mere.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,36 +49,36 @@ lastmod: "2025-08-12"
 Mere is een bruisende deelgemeente van Erpe-Mere, waar lokaal ondernemerschap en bereikbaarheid via de E40 hand in hand gaan. Of je nu in de buurt van het station actief bent, een winkel hebt langs de N9 of diensten aanbiedt in het dorpscentrum: je digitale aanwezigheid bepaalt of klanten je vinden en kiezen. Xinudesign zorgt ervoor dat je online uitstraling minstens zo sterk is als je fysieke locatie.
 
 **Webdevelopment als kern van je online succes**  
-In Mere draait het voor veel ondernemers om vertrouwen, zichtbaarheid en efficiëntie. Een goede website brengt die drie samen.  
+In Mere draait het voor veel ondernemers om vertrouwen, zichtbaarheid en efficiëntie. Een goede website brengt die drie samen.
 
 Onze webdevelopment-aanpak gaat verder dan een mooi design. We bouwen **technisch geoptimaliseerde** websites met:
 
-- **Supersnelle laadtijden** (Core Web Vitals geoptimaliseerd)  
-- **Volledige mobiele responsiviteit** voor smartphones en tablets  
-- **SEO-structuur** met focus op zoektermen als “webdesign Mere” en “webdesigner Erpe-Mere”  
-- **Duidelijke navigatie en call-to-actions** om bezoekers om te zetten in klanten  
-- **Veiligheid en updates** via SSL, beveiligde hosting en onderhoudsopties  
+- **Supersnelle laadtijden** (Core Web Vitals geoptimaliseerd)
+- **Volledige mobiele responsiviteit** voor smartphones en tablets
+- **SEO-structuur** met focus op zoektermen als “webdesign Mere” en “webdesigner Erpe-Mere”
+- **Duidelijke navigatie en call-to-actions** om bezoekers om te zetten in klanten
+- **Veiligheid en updates** via SSL, beveiligde hosting en onderhoudsopties
 
 Of je nu kiest voor **WordPress** (flexibel en gebruiksvriendelijk) of **maatwerk in HTML, CSS en React** (voor maximale snelheid en controle), wij leveren een eindresultaat dat klaar is voor de toekomst.
 
 **Advertising: doelgericht bereik in Mere en regio**  
-Naast een sterke website zorgen wij dat je bedrijf gevonden wordt via advertenties. Met **Google Ads** en **Meta Ads** richten we campagnes in op inwoners van Mere, maar ook op omliggende dorpen zoals Erpe, Bambrugge, Vlekkem en Ottergem.  
+Naast een sterke website zorgen wij dat je bedrijf gevonden wordt via advertenties. Met **Google Ads** en **Meta Ads** richten we campagnes in op inwoners van Mere, maar ook op omliggende dorpen zoals Erpe, Bambrugge, Vlekkem en Ottergem.
 
 Mogelijkheden:
 
-- **Lokale acties**: promoties voor de wekelijkse markt of tijdelijke aanbiedingen  
-- **Seizoensgebonden campagnes**: bijvoorbeeld rond feestdagen of jaarmarkten  
-- **Retargeting**: advertenties tonen aan eerdere bezoekers van je website  
+- **Lokale acties**: promoties voor de wekelijkse markt of tijdelijke aanbiedingen
+- **Seizoensgebonden campagnes**: bijvoorbeeld rond feestdagen of jaarmarkten
+- **Retargeting**: advertenties tonen aan eerdere bezoekers van je website
 
 Elke campagne wordt voortdurend gemeten en bijgestuurd om je ROI te maximaliseren.
 
 **Lokale SEO met focus op Mere**  
 Zoekmachines moeten weten dat jouw bedrijf relevant is voor Mere en omgeving. Dat doen we door:
 
-- Je **Google Business-profiel** volledig te optimaliseren  
-- **NAP-consistentie** te garanderen op alle online platforms  
-- Lokale backlinks te verzamelen van relevante regionale websites  
-- Content te maken met herkenbare plekken zoals de dorpskern van Mere, het station en de landelijke routes richting Erpe en Bambrugge  
+- Je **Google Business-profiel** volledig te optimaliseren
+- **NAP-consistentie** te garanderen op alle online platforms
+- Lokale backlinks te verzamelen van relevante regionale websites
+- Content te maken met herkenbare plekken zoals de dorpskern van Mere, het station en de landelijke routes richting Erpe en Bambrugge
 
 Zo vergroot je je zichtbaarheid bij zoekopdrachten zoals “kapper Mere”, “restaurant Mere” of “webdesigner Mere”.
 
@@ -87,11 +87,11 @@ Wij geloven in meten en verbeteren. Met **Google Analytics**, **Search Console**
 
 **Waarom kiezen voor Xinudesign in Mere?**
 
-- Technische expertise én creatief design in één  
-- Persoonlijke aanpak met korte communicatielijnen  
-- Ervaring in de regio Erpe-Mere  
-- Flexibele samenwerking: op locatie in Mere of online  
-- Resultaatgericht met focus op meetbare groei  
+- Technische expertise én creatief design in één
+- Persoonlijke aanpak met korte communicatielijnen
+- Ervaring in de regio Erpe-Mere
+- Flexibele samenwerking: op locatie in Mere of online
+- Resultaatgericht met focus op meetbare groei
 
 **Interne links: sterke Erpe-Mere-cluster**  
 Verbind je Mere-pagina met andere dorpen voor maximale SEO-waarde:  

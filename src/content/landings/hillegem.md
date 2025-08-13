@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Hillegem met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/hillegem"
 image: "/assets/img/landingpages/hillegem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Voor ondernemers in Hillegem is het belangrijk om lokaal goed vindbaar te zijn. 
 **Data-gedreven optimalisatie**  
 We nemen geen beslissingen op gevoel, maar baseren alles op data. Met tools zoals Google Analytics, Search Console en Piwik Pro analyseren we bezoekersgedrag, conversiepercentages en zoekwoordposities. Op basis van deze inzichten passen we je website en campagnes continu aan om de prestaties te verbeteren en het rendement te verhogen.
 
-**Waarom kiezen voor Xinudesign in Hillegem?**  
+**Waarom kiezen voor Xinudesign in Hillegem?**
 
-- Persoonlijke aanpak en korte communicatielijnen.  
-- Combinatie van technische en creatieve expertise.  
-- Kennis van de lokale markt en doelgroep in Hillegem.  
-- Flexibiliteit: afspraken op locatie of via videocall.  
+- Persoonlijke aanpak en korte communicatielijnen.
+- Combinatie van technische en creatieve expertise.
+- Kennis van de lokale markt en doelgroep in Hillegem.
+- Flexibiliteit: afspraken op locatie of via videocall.
 - Focus op meetbare resultaten en lange termijn succes.
 
 **Van kennismaking tot livegang**  

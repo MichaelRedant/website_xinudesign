@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Voorde groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/voorde"
 image: "/assets/img/landingpages/voorde.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,48 +49,52 @@ lastmod: "2025-08-12"
 Voorde is een gemoedelijk dorp in de regio Ninove, bekend om zijn landelijke charme, hechte gemeenschap en vlotte verbindingen naar omliggende steden. Voor ondernemers biedt dit een unieke kans: je klantenkring is trouw, maar tegelijk zijn er volop mogelijkheden om nieuwe mensen te bereiken via online kanalen. Xinudesign helpt je om jouw zaak digitaal sterker te maken en lokaal top-of-mind te blijven.
 
 **Webdevelopment op maat van Voorde**  
-Elke website die wij bouwen is een combinatie van **technische kracht**, **mooie vormgeving** en **lokale relevantie**.  
+Elke website die wij bouwen is een combinatie van **technische kracht**, **mooie vormgeving** en **lokale relevantie**.
 
-Onze aanpak:  
-- **SEO-geoptimaliseerd** voor zoektermen als “webdesign Voorde” en “SEO Voorde”.  
-- **Volledig mobielvriendelijk** zodat klanten je vlot bereiken via hun smartphone.  
-- **Snelle laadtijden** en **Core Web Vitals-proof** voor betere Google-posities.  
-- **Gebruiksvriendelijke structuur** zodat bezoekers snel vinden wat ze zoeken.  
-- **Beveiligd met SSL** en moderne webstandaarden.  
+Onze aanpak:
+
+- **SEO-geoptimaliseerd** voor zoektermen als “webdesign Voorde” en “SEO Voorde”.
+- **Volledig mobielvriendelijk** zodat klanten je vlot bereiken via hun smartphone.
+- **Snelle laadtijden** en **Core Web Vitals-proof** voor betere Google-posities.
+- **Gebruiksvriendelijke structuur** zodat bezoekers snel vinden wat ze zoeken.
+- **Beveiligd met SSL** en moderne webstandaarden.
 
 We werken in **WordPress** voor flexibiliteit of kiezen voor **HTML/CSS/React** maatwerk als maximale prestaties vereist zijn.
 
 **Advertising: doelgericht bereik in Voorde en omgeving**  
-Met **Google Ads** en **Meta Ads** zorgen we ervoor dat jouw boodschap exact daar verschijnt waar je klanten zijn.  
+Met **Google Ads** en **Meta Ads** zorgen we ervoor dat jouw boodschap exact daar verschijnt waar je klanten zijn.
 
-Enkele voorbeelden van onze aanpak:  
-- Lokale targeting op Voorde en omliggende dorpen zoals Outer, Pollare en Ninove.  
-- Campagnes rond specifieke seizoensacties of dorpsactiviteiten.  
-- Retargeting voor mensen die je website eerder bezochten.  
+Enkele voorbeelden van onze aanpak:
+
+- Lokale targeting op Voorde en omliggende dorpen zoals Outer, Pollare en Ninove.
+- Campagnes rond specifieke seizoensacties of dorpsactiviteiten.
+- Retargeting voor mensen die je website eerder bezochten.
 
 Zo gaat je advertentiebudget nooit verloren aan irrelevante klikken.
 
 **Lokale SEO met een Voordse insteek**  
-Voor een dorp als Voorde is het cruciaal dat je onderneming bovenaan staat wanneer iemand lokaal zoekt. Daarom pakken we je lokale SEO gestructureerd aan:  
-- **Google Business-profiel optimaliseren** voor meer zichtbaarheid in Maps.  
-- **NAP-consistentie** op alle online vermeldingen.  
-- **Lokale backlinks** via samenwerking met verenigingen, evenementen en lokale blogs.  
-- Verwerken van herkenbare plekken zoals:  
-  - Sint-Amanduskerk  
-  - Dorpsplein Voorde  
-  - Landelijke fiets- en wandelroutes  
-  - Jaarlijkse evenementen en feesten  
+Voor een dorp als Voorde is het cruciaal dat je onderneming bovenaan staat wanneer iemand lokaal zoekt. Daarom pakken we je lokale SEO gestructureerd aan:
+
+- **Google Business-profiel optimaliseren** voor meer zichtbaarheid in Maps.
+- **NAP-consistentie** op alle online vermeldingen.
+- **Lokale backlinks** via samenwerking met verenigingen, evenementen en lokale blogs.
+- Verwerken van herkenbare plekken zoals:
+  - Sint-Amanduskerk
+  - Dorpsplein Voorde
+  - Landelijke fiets- en wandelroutes
+  - Jaarlijkse evenementen en feesten
 
 Zo herkennen inwoners je meteen én beloont Google je met betere posities.
 
 **Data-gedreven optimalisatie**  
 Wij vertrouwen niet op gokwerk. Met **Google Analytics**, **Search Console** en **Piwik Pro** analyseren we het gedrag van bezoekers en sturen we campagnes en content voortdurend bij voor maximale resultaten.
 
-**Waarom kiezen voor Xinudesign in Voorde?**  
-- Persoonlijke communicatie, zonder tussenschakels.  
-- Technische en creatieve expertise in één team.  
-- Grondige kennis van de lokale markt in Voorde.  
-- Flexibele samenwerking: op locatie of online.  
+**Waarom kiezen voor Xinudesign in Voorde?**
+
+- Persoonlijke communicatie, zonder tussenschakels.
+- Technische en creatieve expertise in één team.
+- Grondige kennis van de lokale markt in Voorde.
+- Flexibele samenwerking: op locatie of online.
 - Altijd gefocust op meetbare groei.
 
 **Interne links voor sterke regio-SEO**  

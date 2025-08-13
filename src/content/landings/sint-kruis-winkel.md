@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Sint-Kruis-Winkel groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/sint-kruis-winkel"
 image: "/assets/img/landingpages/sint-kruis-winkel.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -62,9 +62,10 @@ Of je nu een **landbouwbedrijf** hebt, een **lokale horecazaak** uitbaat, of een
 
 **Advertising: doelgericht bereik in Sint-Kruis-Winkel en omgeving**
 
-Met **Google Ads** en **Meta Ads** richten we campagnes in die inspelen op jouw specifieke doelgroep. Dankzij **geografische targeting** bereiken we exact de inwoners van Sint-Kruis-Winkel, én naburige dorpen zoals [Mendonk](/diensten/mendonk), [Desteldonk](/diensten/desteldonk) en [Oostakker](/diensten/oostakker).  
+Met **Google Ads** en **Meta Ads** richten we campagnes in die inspelen op jouw specifieke doelgroep. Dankzij **geografische targeting** bereiken we exact de inwoners van Sint-Kruis-Winkel, én naburige dorpen zoals [Mendonk](/diensten/mendonk), [Desteldonk](/diensten/desteldonk) en [Oostakker](/diensten/oostakker).
 
 Zo kunnen we bijvoorbeeld:
+
 - Een promotiecampagne doen voor de dorpsfeesten
 - Een actie opzetten voor seizoensproducten
 - Een evenement promoten in samenwerking met lokale verenigingen
@@ -74,11 +75,13 @@ Door constante analyse en optimalisatie zorgen we dat jouw advertentiebudget max
 **Lokale SEO met een Sint-Kruis-Winkelse insteek**
 
 We verhogen je online vindbaarheid door:
+
 - **Google Business-profiel optimalisatie**
 - **NAP-consistentie** in alle vermeldingen
 - **Lokale backlinks** van relevante websites
 
 Daarnaast verwerken we herkenbare plekken en activiteiten zoals:
+
 - **Kerk van Sint-Kruis-Winkel**
 - **Kanaal Gent-Terneuzen**
 - **Dorpsfeesten**
@@ -92,11 +95,11 @@ Met tools zoals **Google Analytics**, **Search Console** en **Piwik Pro** meten 
 
 **Waarom kiezen voor Xinudesign in Sint-Kruis-Winkel?**
 
-- **Persoonlijke aanpak**: direct contact met de webdesigner en marketeer  
-- **Technische én creatieve expertise**  
-- **Lokale marktkennis** van Sint-Kruis-Winkel en de kanaalzone  
-- **Flexibele afspraken** op locatie of online  
-- **Focus op meetbare groei**  
+- **Persoonlijke aanpak**: direct contact met de webdesigner en marketeer
+- **Technische én creatieve expertise**
+- **Lokale marktkennis** van Sint-Kruis-Winkel en de kanaalzone
+- **Flexibele afspraken** op locatie of online
+- **Focus op meetbare groei**
 
 **Van kennismaking tot lancering**
 

@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign bouwt razendsnelle websites, zet slimme advertentiecampagnes op en versterkt jouw lokale vindbaarheid in Oudenaarde. Van het centrum tot de Vlaamse Ardennen: wij helpen je online groeien."
 canonical: "https://www.xinudesign.be/diensten/oudenaarde"
 image: "/assets/img/landingpages/oudenaarde.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael.redant2@telenet.be"
 address:

@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Baardegem met snelle websites, slimme advertenties en SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/baardegem"
 image: "/assets/img/landingpages/baardegem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -61,12 +61,12 @@ Wil je bovenaan staan in Google wanneer iemand zoekt naar jouw product of dienst
 **Data-gedreven optimalisatie**  
 We meten, analyseren en verbeteren continu. Met tools zoals Google Analytics, Search Console en Piwik Pro houden we in de gaten hoe bezoekers je site gebruiken en hoe campagnes presteren. Op basis van die data passen we je strategie aan voor blijvend betere resultaten.
 
-**Waarom kiezen voor Xinudesign in Baardegem?**  
+**Waarom kiezen voor Xinudesign in Baardegem?**
 
-- Persoonlijke aanpak en korte communicatielijnen.  
-- Technische én creatieve expertise in één partner.  
-- Kennis van de regio Aalst en de eigenheid van Baardegem.  
-- Flexibele werkwijze: op locatie of volledig online.  
+- Persoonlijke aanpak en korte communicatielijnen.
+- Technische én creatieve expertise in één partner.
+- Kennis van de regio Aalst en de eigenheid van Baardegem.
+- Flexibele werkwijze: op locatie of volledig online.
 - Focus op meetbare groei en rendement.
 
 **Van kennismaking tot online succes**  

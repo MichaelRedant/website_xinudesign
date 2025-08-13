@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Vlekkem groeien met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/vlekkem"
 image: "/assets/img/landingpages/vlekkem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,37 +49,37 @@ lastmod: "2025-08-12"
 Vlekkem is een charmant en landelijk dorp in de gemeente Erpe-Mere, omgeven door uitgestrekte velden en groene wandelpaden. Het dorp ademt rust en verbondenheid, maar ligt tegelijk strategisch dicht bij grotere kernen zoals Erpe en Mere. Ondernemers in Vlekkem bedienen vaak zowel de lokale gemeenschap als klanten uit de bredere regio. Xinudesign helpt deze ondernemers om die dubbele doelgroep te bereiken met een sterke online aanwezigheid, slimme advertenties en SEO die inspeelt op de lokale context.
 
 **Webdevelopment op maat van Vlekkem**  
-Een professionele website is cruciaal voor elke moderne onderneming, ook in een hechte gemeenschap als Vlekkem. Wij bouwen websites die niet alleen mooi ogen, maar ook technisch sterk staan en resultaat opleveren.  
+Een professionele website is cruciaal voor elke moderne onderneming, ook in een hechte gemeenschap als Vlekkem. Wij bouwen websites die niet alleen mooi ogen, maar ook technisch sterk staan en resultaat opleveren.
 
 Onze aanpak:
 
-- **Mobielvriendelijk en snel**: essentieel voor bezoekers die onderweg informatie zoeken.  
-- **SEO-structuur op maat**: trefwoorden als “webdesign Vlekkem” en “webdesigner Erpe-Mere” verwerkt in titels, meta’s en content.  
-- **Gebruiksvriendelijke navigatie**: bezoekers vinden snel wat ze nodig hebben, van openingstijden tot contactformulieren.  
-- **Sterke call-to-actions**: meer aanvragen, reservaties of aankopen via je site.  
+- **Mobielvriendelijk en snel**: essentieel voor bezoekers die onderweg informatie zoeken.
+- **SEO-structuur op maat**: trefwoorden als “webdesign Vlekkem” en “webdesigner Erpe-Mere” verwerkt in titels, meta’s en content.
+- **Gebruiksvriendelijke navigatie**: bezoekers vinden snel wat ze nodig hebben, van openingstijden tot contactformulieren.
+- **Sterke call-to-actions**: meer aanvragen, reservaties of aankopen via je site.
 
 Of je nu een lokale bakker bent, een kapsalon uitbaat of een zelfstandig vakman bent die in de streek werkt, wij zorgen dat jouw website een echte klantenmagneet wordt.
 
 **Advertising: doelgericht bereik in Vlekkem en omgeving**  
-Met **Google Ads** en **Meta Ads** brengen we jouw producten of diensten onder de aandacht bij de juiste mensen. Door **geografische targeting** te gebruiken, zorgen we ervoor dat je advertenties zichtbaar zijn in Vlekkem, Erpe, Mere, Ottergem en zelfs daarbuiten indien gewenst.  
+Met **Google Ads** en **Meta Ads** brengen we jouw producten of diensten onder de aandacht bij de juiste mensen. Door **geografische targeting** te gebruiken, zorgen we ervoor dat je advertenties zichtbaar zijn in Vlekkem, Erpe, Mere, Ottergem en zelfs daarbuiten indien gewenst.
 
 Enkele mogelijkheden:
 
-- **Seizoenscampagnes** rond de jaarmarkt of dorpsfeesten.  
-- **Actiepromoties** gericht op inwoners binnen een straal van 5 km.  
-- **Retargeting** voor mensen die eerder je website bezochten.  
+- **Seizoenscampagnes** rond de jaarmarkt of dorpsfeesten.
+- **Actiepromoties** gericht op inwoners binnen een straal van 5 km.
+- **Retargeting** voor mensen die eerder je website bezochten.
 
 Elke campagne wordt gemonitord en geoptimaliseerd, zodat je budget maximaal rendeert.
 
 **Lokale SEO met een Vlekkemse insteek**  
-Online vindbaarheid in een klein dorp werkt anders dan in een grote stad. Wij leggen de nadruk op lokale relevantie door je **Google Business-profiel** volledig te optimaliseren, NAP-gegevens consistent te houden en **lokale backlinks** op te bouwen.  
+Online vindbaarheid in een klein dorp werkt anders dan in een grote stad. Wij leggen de nadruk op lokale relevantie door je **Google Business-profiel** volledig te optimaliseren, NAP-gegevens consistent te houden en **lokale backlinks** op te bouwen.
 
 In de content gebruiken we herkenbare elementen zoals:
 
-- **Sint-Lambertuskerk**  
-- **Fiets- en wandelroutes langs landelijke wegen**  
-- **Jaarlijkse dorpsfeesten en buurtactiviteiten**  
-- **Knooppunten richting Erpe en Mere**  
+- **Sint-Lambertuskerk**
+- **Fiets- en wandelroutes langs landelijke wegen**
+- **Jaarlijkse dorpsfeesten en buurtactiviteiten**
+- **Knooppunten richting Erpe en Mere**
 
 Zo ziet Google meteen dat jouw onderneming relevant is voor zoekopdrachten uit de regio.
 
@@ -88,11 +88,11 @@ Met tools als **Google Analytics**, **Search Console** en **Piwik Pro** volgen w
 
 **Waarom kiezen voor Xinudesign in Vlekkem?**
 
-- **Persoonlijke aanpak**: rechtstreeks contact met je webdesigner en marketeer.  
-- **Combinatie van technische en creatieve expertise**.  
-- **Lokale kennis** van de Erpe-Mere regio en haar ondernemers.  
-- **Flexibele samenwerking**: op locatie of online.  
-- **Resultaatgericht**: focus op meetbare groei en rendement.  
+- **Persoonlijke aanpak**: rechtstreeks contact met je webdesigner en marketeer.
+- **Combinatie van technische en creatieve expertise**.
+- **Lokale kennis** van de Erpe-Mere regio en haar ondernemers.
+- **Flexibele samenwerking**: op locatie of online.
+- **Resultaatgericht**: focus op meetbare groei en rendement.
 
 **Interne links: sterke Erpe-Mere-cluster**  
 Verbind je Vlekkem-pagina met andere lokale pagina’s voor extra SEO-waarde:  

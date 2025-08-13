@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Moorsel met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de deelgemeente."
 canonical: "https://www.xinudesign.be/diensten/moorsel"
 image: "/assets/img/landingpages/moorsel.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -68,12 +68,12 @@ Daarbij optimaliseer ik je Google Business-profiel, zorg ik voor consistente NAP
 **Data-gedreven optimalisatie**  
 Succesvolle marketing is gebaseerd op feiten, niet op gevoel. Met tools zoals Google Analytics, Search Console en Piwik Pro meet ik hoe bezoekers zich op je site gedragen en welke campagnes het best presteren. Op basis van die data optimaliseren we continu om je resultaten te verbeteren.
 
-**Waarom kiezen voor Xinudesign in Moorsel?**  
+**Waarom kiezen voor Xinudesign in Moorsel?**
 
-- **Persoonlijke aanpak** – rechtstreeks contact, zonder tussenpersonen.  
-- **Technische én creatieve expertise** – alles in één partner.  
-- **Lokale kennis** – vertrouwd met Moorsel en de regio Aalst.  
-- **Flexibele afspraken** – op locatie of via videocall.  
+- **Persoonlijke aanpak** – rechtstreeks contact, zonder tussenpersonen.
+- **Technische én creatieve expertise** – alles in één partner.
+- **Lokale kennis** – vertrouwd met Moorsel en de regio Aalst.
+- **Flexibele afspraken** – op locatie of via videocall.
 - **Resultaatgericht** – focus op ROI en groei.
 
 **Van kennismaking tot livegang**  

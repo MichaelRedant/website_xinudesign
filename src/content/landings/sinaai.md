@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Sinaai groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/sinaai"
 image: "/assets/img/landingpages/sinaai.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,36 +49,38 @@ lastmod: "2025-08-12"
 Sinaai is een charmant dorp in het hart van het Waasland, bekend om zijn landelijke charme, bruisende verenigingsleven en sterke gemeenschapsgevoel. Van het gezellige Dorpsplein tot de uitgestrekte Polders van Sinaai: hier vinden ondernemers een trouw publiek dat zowel lokaal als online actief is. Xinudesign helpt je om dat publiek te bereiken met professionele websites en slimme marketingstrategieën.
 
 **Webdevelopment op maat van Sinaai**  
-Wij bouwen websites die niet alleen mooi zijn, maar ook technisch geoptimaliseerd en gericht op conversie. Afhankelijk van jouw noden werken we met **WordPress** voor flexibiliteit of ontwikkelen we **maatwerk in HTML, CSS en React** voor maximale prestaties.  
+Wij bouwen websites die niet alleen mooi zijn, maar ook technisch geoptimaliseerd en gericht op conversie. Afhankelijk van jouw noden werken we met **WordPress** voor flexibiliteit of ontwikkelen we **maatwerk in HTML, CSS en React** voor maximale prestaties.
 
 Elke website is mobielvriendelijk, laadt snel en voldoet aan de nieuwste SEO-standaarden. Dankzij onze expertise in **UI/UX** zorgen we dat bezoekers makkelijk navigeren, de juiste informatie vinden en sneller contact opnemen of een bestelling plaatsen.
 
 **Advertising: doelgericht bereik in Sinaai en het Waasland**  
-Met **Google Ads** en **Meta Ads** zorgen we dat jouw bedrijf zichtbaar is voor de juiste doelgroep. We richten campagnes in met geografische targeting voor Sinaai en omliggende dorpen zoals [Sint-Niklaas](/diensten/sint-niklaas), [Belsele](/diensten/belsele) en [Nieuwkerken-Waas](/diensten/nieuwkerken-waas).  
+Met **Google Ads** en **Meta Ads** zorgen we dat jouw bedrijf zichtbaar is voor de juiste doelgroep. We richten campagnes in met geografische targeting voor Sinaai en omliggende dorpen zoals [Sint-Niklaas](/diensten/sint-niklaas), [Belsele](/diensten/belsele) en [Nieuwkerken-Waas](/diensten/nieuwkerken-waas).
 
 Of het nu gaat om een promotie voor een winkel in de dorpskern, een evenement aan de kerk of een seizoensactie, wij zorgen dat je boodschap op het juiste moment bij de juiste mensen terechtkomt.
 
 **Lokale SEO met een Sinaaise insteek**  
-Lokale vindbaarheid is cruciaal voor ondernemers in Sinaai. We optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** en bouwen **lokale backlinks** vanuit relevante bronnen in het Waasland.  
+Lokale vindbaarheid is cruciaal voor ondernemers in Sinaai. We optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** en bouwen **lokale backlinks** vanuit relevante bronnen in het Waasland.
 
-We verwerken herkenbare elementen zoals:  
-- Dorpsplein Sinaai  
-- Polders van Sinaai  
-- Jaarlijkse rommelmarkt  
-- Kerk van Sinaai  
-- Nabijheid van Lokeren en Sint-Niklaas  
+We verwerken herkenbare elementen zoals:
+
+- Dorpsplein Sinaai
+- Polders van Sinaai
+- Jaarlijkse rommelmarkt
+- Kerk van Sinaai
+- Nabijheid van Lokeren en Sint-Niklaas
 
 Deze elementen komen terug in je webteksten, meta-data en visuals, wat zorgt voor herkenning en een hogere lokale ranking.
 
 **Data-gedreven optimalisatie**  
 We werken op basis van data, niet op gevoel. Met **Google Analytics**, **Search Console** en **Piwik Pro** volgen we nauwkeurig op hoe bezoekers je site vinden en gebruiken. Op basis van die inzichten verbeteren we je content, advertenties en gebruikerservaring continu.
 
-**Waarom kiezen voor Xinudesign in Sinaai?**  
-- Persoonlijke aanpak en directe communicatie.  
-- Technische én creatieve expertise in één pakket.  
-- Diepgaande kennis van het ondernemersklimaat in Sinaai en het Waasland.  
-- Flexibiliteit: afspraken mogelijk op locatie of via videocall.  
-- Resultaatgericht: focus op meetbare groei en rendement.  
+**Waarom kiezen voor Xinudesign in Sinaai?**
+
+- Persoonlijke aanpak en directe communicatie.
+- Technische én creatieve expertise in één pakket.
+- Diepgaande kennis van het ondernemersklimaat in Sinaai en het Waasland.
+- Flexibiliteit: afspraken mogelijk op locatie of via videocall.
+- Resultaatgericht: focus op meetbare groei en rendement.
 
 **Interne links: Sinaai verbonden met het Waasland**  
 Versterk je lokale SEO met interne links naar:  

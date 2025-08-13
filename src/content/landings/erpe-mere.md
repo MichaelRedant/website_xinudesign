@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Erpe-Mere groeien met snelle websites, doelgerichte advertenties en lokale SEO op maat van jouw publiek."
 canonical: "https://www.xinudesign.be/diensten/erpe-mere"
 image: "/assets/img/landingpages/erpe-mere.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael.redant2@telenet.be"
 address:

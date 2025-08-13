@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Bambrugge met snelle, gebruiksvriendelijke websites, doelgerichte advertenties en lokale SEO die inspeelt op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/bambrugge"
 image: "/assets/img/landingpages/bambrugge.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -50,54 +50,57 @@ Bambrugge, een charmant dorp in de fusiegemeente Erpe-Mere, is een plek waar ied
 
 **Webdevelopment op maat van Bambrugge**  
 Wij bouwen **professionele websites** die naadloos aansluiten bij jouw merk en doelgroep. Afhankelijk van jouw wensen kiezen we voor:
-- **WordPress** voor flexibiliteit en eenvoudig beheer.  
-- **Maatwerk in HTML, CSS en React** voor maximale snelheid en functionaliteit.  
+
+- **WordPress** voor flexibiliteit en eenvoudig beheer.
+- **Maatwerk in HTML, CSS en React** voor maximale snelheid en functionaliteit.
 
 Elke website wordt:
-- **Volledig mobielvriendelijk** ontwikkeld.  
-- **Geoptimaliseerd voor SEO** met lokale zoekwoorden zoals *webdesign Bambrugge* en *webdesigner Bambrugge*.  
-- **Conversiegericht** opgebouwd, met logische navigatie en sterke call-to-actions.  
+
+- **Volledig mobielvriendelijk** ontwikkeld.
+- **Geoptimaliseerd voor SEO** met lokale zoekwoorden zoals _webdesign Bambrugge_ en _webdesigner Bambrugge_.
+- **Conversiegericht** opgebouwd, met logische navigatie en sterke call-to-actions.
 
 Of je nu een zaak hebt langs de N9, een horecazaak in de dorpskern of diensten levert in de regio, wij zorgen dat je website jouw verhaal krachtig en professioneel vertelt.
 
 **Advertising: doelgericht bereik in Bambrugge en omgeving**  
-Met **Google Ads** en **Meta Ads** zorgen wij dat je boodschap terechtkomt bij de juiste mensen, op het juiste moment. Dankzij **geografische targeting** richten we onze campagnes op Bambrugge en omliggende plaatsen zoals [Burst](/diensten/burst), [Aaigem](/diensten/aaigem) en [Erpe](/diensten/erpe).  
+Met **Google Ads** en **Meta Ads** zorgen wij dat je boodschap terechtkomt bij de juiste mensen, op het juiste moment. Dankzij **geografische targeting** richten we onze campagnes op Bambrugge en omliggende plaatsen zoals [Burst](/diensten/burst), [Aaigem](/diensten/aaigem) en [Erpe](/diensten/erpe).
 
 Voorbeelden:
-- Een winkelactie gericht op inwoners van Bambrugge en omliggende straten.  
-- Een horeca-evenement dat je via Meta Ads promoot binnen een straal van 5 km.  
-- Retargetingcampagnes voor bezoekers die jouw site eerder bezochten.  
+
+- Een winkelactie gericht op inwoners van Bambrugge en omliggende straten.
+- Een horeca-evenement dat je via Meta Ads promoot binnen een straal van 5 km.
+- Retargetingcampagnes voor bezoekers die jouw site eerder bezochten.
 
 Op die manier benut je elk advertentie-euro optimaal.
 
 **Lokale SEO met een Bambrugse insteek**  
-Lokale vindbaarheid is cruciaal. Daarom optimaliseren wij je **Google Business-profiel**, zorgen we voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen we **lokale backlinks** vanuit relevante bronnen.  
+Lokale vindbaarheid is cruciaal. Daarom optimaliseren wij je **Google Business-profiel**, zorgen we voor **NAP-consistentie** (naam, adres, telefoonnummer) en bouwen we **lokale backlinks** vanuit relevante bronnen.
 
 Herkenbare elementen die we in je content verwerken:
 
-- **Sint-Martinuskerk** van Bambrugge.  
-- **Het station van Bambrugge**.  
-- **Jaarlijkse kermis en dorpsfeesten**.  
-- **Sportclubs en lokale verenigingen**.  
+- **Sint-Martinuskerk** van Bambrugge.
+- **Het station van Bambrugge**.
+- **Jaarlijkse kermis en dorpsfeesten**.
+- **Sportclubs en lokale verenigingen**.
 
 Zo herkennen inwoners van Bambrugge jouw onderneming meteen en weet Google dat je lokaal relevant bent.
 
 **Data-gedreven optimalisatie**  
 Meten is weten. Daarom gebruiken we tools zoals **Google Analytics**, **Search Console** en **Piwik Pro** om:
 
-- Verkeer en herkomst te analyseren.  
-- Conversiepercentages te meten.  
-- Content en campagnes voortdurend te optimaliseren.  
+- Verkeer en herkomst te analyseren.
+- Conversiepercentages te meten.
+- Content en campagnes voortdurend te optimaliseren.
 
 Zo verbeteren we stap voor stap je rendement.
 
-**Waarom kiezen voor Xinudesign in Bambrugge?**  
+**Waarom kiezen voor Xinudesign in Bambrugge?**
 
-- **Persoonlijke aanpak:** rechtstreeks contact met de webdesigner en marketeer.  
-- **Technische én creatieve expertise:** alles onder één dak.  
-- **Lokale kennis:** we begrijpen de troeven en uitdagingen van Bambrugge.  
-- **Flexibiliteit:** op locatie of via videocall.  
-- **Resultaatgericht:** gefocust op meetbare groei.  
+- **Persoonlijke aanpak:** rechtstreeks contact met de webdesigner en marketeer.
+- **Technische én creatieve expertise:** alles onder één dak.
+- **Lokale kennis:** we begrijpen de troeven en uitdagingen van Bambrugge.
+- **Flexibiliteit:** op locatie of via videocall.
+- **Resultaatgericht:** gefocust op meetbare groei.
 
 **Interne links: Bambrugge verbonden met de regio**  
 [Burst](/diensten/burst) • [Aaigem](/diensten/aaigem) • [Erpe](/diensten/erpe) • [Erpe-Mere](/diensten/erpe-mere)

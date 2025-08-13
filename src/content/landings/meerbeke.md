@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Meerbeke groeien met snelle websites, doelgerichte advertenties en lokale SEO-strategieën die inspelen op de eigenheid van het dorp."
 canonical: "https://www.xinudesign.be/diensten/meerbeke"
 image: "/assets/img/landingpages/meerbeke.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,48 +49,52 @@ lastmod: "2025-08-12"
 Meerbeke, bekend om zijn landelijke charme en hechte gemeenschap, is een dorp waar lokale ondernemers nog écht het verschil maken. Van gezellige horecazaken langs de Dender tot ambachtelijke winkels en zelfstandige dienstverleners: in Meerbeke speelt mond-tot-mondreclame een grote rol, maar online zichtbaarheid wordt steeds belangrijker. Xinudesign helpt je om die digitale stap te zetten — zonder het lokale karakter te verliezen.
 
 **Webdevelopment op maat van Meerbeke**  
-Wij ontwerpen en ontwikkelen websites die perfect aansluiten bij de noden van jouw zaak én het profiel van je lokale klanten.  
+Wij ontwerpen en ontwikkelen websites die perfect aansluiten bij de noden van jouw zaak én het profiel van je lokale klanten.
 
-Onze aanpak:  
-- **SEO-vriendelijke structuur** met lokale zoekwoorden als “webdesign Meerbeke”.  
-- **Responsief design** zodat je site optimaal werkt op smartphone, tablet en desktop.  
-- **Conversiegericht ontwerp** met duidelijke knoppen en snelle contactmogelijkheden.  
-- Integratie van **lokale sfeerbeelden** en herkenbare referenties.  
-- **Technische optimalisatie** voor snelle laadtijden en goede prestaties in Google.  
+Onze aanpak:
+
+- **SEO-vriendelijke structuur** met lokale zoekwoorden als “webdesign Meerbeke”.
+- **Responsief design** zodat je site optimaal werkt op smartphone, tablet en desktop.
+- **Conversiegericht ontwerp** met duidelijke knoppen en snelle contactmogelijkheden.
+- Integratie van **lokale sfeerbeelden** en herkenbare referenties.
+- **Technische optimalisatie** voor snelle laadtijden en goede prestaties in Google.
 
 We bouwen in **WordPress** voor gebruiksgemak of in **HTML, CSS en React** voor maximale snelheid en flexibiliteit.
 
 **Advertising: doelgericht bereik in Meerbeke en omgeving**  
-Met **Google Ads** en **Meta Ads** zorgen we dat jouw bedrijf zichtbaar is op de juiste momenten voor de juiste mensen. We richten campagnes in die zich specifiek focussen op Meerbeke, maar ook op omliggende dorpen en de stad Ninove.  
+Met **Google Ads** en **Meta Ads** zorgen we dat jouw bedrijf zichtbaar is op de juiste momenten voor de juiste mensen. We richten campagnes in die zich specifiek focussen op Meerbeke, maar ook op omliggende dorpen en de stad Ninove.
 
-Praktische voorbeelden:  
-- **Hyperlokale advertenties** rond marktdagen of evenementen.  
-- **Retargetingcampagnes** voor bezoekers die eerder je website bezochten.  
-- **Actiecampagnes** voor seizoensgebonden aanbiedingen of nieuwe producten.  
+Praktische voorbeelden:
+
+- **Hyperlokale advertenties** rond marktdagen of evenementen.
+- **Retargetingcampagnes** voor bezoekers die eerder je website bezochten.
+- **Actiecampagnes** voor seizoensgebonden aanbiedingen of nieuwe producten.
 
 Alles wordt continu gemonitord en bijgestuurd voor het beste rendement.
 
 **Lokale SEO met een Meerbeekse insteek**  
-Om in Google bovenaan te verschijnen bij zoekopdrachten in de regio, pakken we je lokale SEO structureel aan:  
-- Optimalisatie van je **Google Business-profiel**.  
-- **NAP-consistentie** op alle online vermeldingen.  
-- Lokale backlinks van relevante partners, verenigingen of nieuwswebsites.  
-- Integratie van herkenbare referenties zoals:  
-  - Onze-Lieve-Vrouw Hemelvaartkerk  
-  - Kosterstraat  
-  - Denderfietsroute  
-  - Lokale evenementen zoals buurtfeesten  
+Om in Google bovenaan te verschijnen bij zoekopdrachten in de regio, pakken we je lokale SEO structureel aan:
+
+- Optimalisatie van je **Google Business-profiel**.
+- **NAP-consistentie** op alle online vermeldingen.
+- Lokale backlinks van relevante partners, verenigingen of nieuwswebsites.
+- Integratie van herkenbare referenties zoals:
+  - Onze-Lieve-Vrouw Hemelvaartkerk
+  - Kosterstraat
+  - Denderfietsroute
+  - Lokale evenementen zoals buurtfeesten
 
 Zo vergroot je je kans om gevonden te worden bij zoekopdrachten als “kapper Meerbeke” of “restaurant Meerbeke”.
 
 **Data-gedreven optimalisatie**  
 Met behulp van **Google Analytics**, **Search Console** en **Piwik Pro** volgen we bezoekersgedrag en conversies op. Deze inzichten gebruiken we om je content, advertenties en UX constant te verbeteren.
 
-**Waarom kiezen voor Xinudesign in Meerbeke?**  
-- Persoonlijke aanpak met korte communicatielijnen.  
-- Technische en creatieve expertise gecombineerd.  
-- Sterke kennis van de lokale markt in en rond Meerbeke.  
-- Flexibele samenwerking: op locatie of online.  
+**Waarom kiezen voor Xinudesign in Meerbeke?**
+
+- Persoonlijke aanpak met korte communicatielijnen.
+- Technische en creatieve expertise gecombineerd.
+- Sterke kennis van de lokale markt in en rond Meerbeke.
+- Flexibele samenwerking: op locatie of online.
 - Resultaatgericht, met focus op meetbare groei.
 
 **Interne links voor sterke regio-SEO**  

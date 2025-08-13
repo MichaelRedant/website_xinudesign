@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Ottergem groeien met snelle, gebruiksvriendelijke websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/ottergem"
 image: "/assets/img/landingpages/ottergem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -49,30 +49,30 @@ lastmod: "2025-08-12"
 Ottergem, een charmant dorp in Erpe-Mere, combineert landelijke rust met een actieve gemeenschap. Met een centrale ligging tussen Aalst, Wetteren en Zottegem biedt Ottergem ondernemers kansen om zowel lokaal als regionaal klanten aan te trekken. Maar in een tijdperk waar zoekopdrachten vooral online beginnen, is een sterke digitale aanwezigheid cruciaal. Xinudesign helpt lokale bedrijven in Ottergem om online zichtbaar te worden én te blijven.
 
 **Webdevelopment op maat van Ottergem**  
-Elke onderneming heeft een uniek verhaal. Wij vertalen dat verhaal naar een website die niet alleen visueel aantrekkelijk is, maar ook technisch sterk en gericht op conversie.  
+Elke onderneming heeft een uniek verhaal. Wij vertalen dat verhaal naar een website die niet alleen visueel aantrekkelijk is, maar ook technisch sterk en gericht op conversie.
 
 Onze aanpak:
 
-- **Snel ladende websites**: betere gebruikerservaring en hogere ranking in Google.  
-- **Mobielvriendelijk design**: perfect zichtbaar op smartphones en tablets.  
-- **SEO-vriendelijke structuur**: geoptimaliseerd voor relevante zoekwoorden, inclusief lokale termen zoals “Ottergem” en omliggende dorpen.  
-- **Gebruiksvriendelijke navigatie**: zodat bezoekers snel vinden wat ze zoeken.  
+- **Snel ladende websites**: betere gebruikerservaring en hogere ranking in Google.
+- **Mobielvriendelijk design**: perfect zichtbaar op smartphones en tablets.
+- **SEO-vriendelijke structuur**: geoptimaliseerd voor relevante zoekwoorden, inclusief lokale termen zoals “Ottergem” en omliggende dorpen.
+- **Gebruiksvriendelijke navigatie**: zodat bezoekers snel vinden wat ze zoeken.
 
 Of je nu een bakkerij hebt vlak bij het dorpsplein, een zelfstandig bouwbedrijf runt langs de hoofdwegen of een B&B uitbaat in de landelijke omgeving, wij zorgen dat je online presentatie aansluit bij je merk én de verwachtingen van je doelgroep.
 
 **Advertising: doelgericht bereik in Ottergem en omgeving**  
-Met **Google Ads** en **Meta Ads** richten we campagnes in die hyperlokaal inspelen op de markt van Ottergem en de nabije regio.  
+Met **Google Ads** en **Meta Ads** richten we campagnes in die hyperlokaal inspelen op de markt van Ottergem en de nabije regio.
 
 Wat we doen:
 
-- **Geografische targeting**: advertenties enkel zichtbaar voor relevante doelgroepen in Ottergem, Erpe-Mere en omliggende gemeenten.  
-- **Relevante zoekwoorden**: zoals “kapper Ottergem”, “restaurant Ottergem” of “loodgieter Erpe-Mere”.  
-- **Herkenbare visuals en teksten**: die inspelen op lokale gebeurtenissen en plaatsen.  
+- **Geografische targeting**: advertenties enkel zichtbaar voor relevante doelgroepen in Ottergem, Erpe-Mere en omliggende gemeenten.
+- **Relevante zoekwoorden**: zoals “kapper Ottergem”, “restaurant Ottergem” of “loodgieter Erpe-Mere”.
+- **Herkenbare visuals en teksten**: die inspelen op lokale gebeurtenissen en plaatsen.
 
 Zo zorgen we dat jouw advertenties de juiste mensen bereiken, zonder onnodige verspilling van je budget.
 
 **Lokale SEO met een Ottergemse insteek**  
-Lokale SEO is de sleutel om bovenaan te verschijnen wanneer mensen in de buurt zoeken naar jouw producten of diensten. Wij optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** en bouwen **lokale backlinks** vanuit betrouwbare bronnen in de regio.  
+Lokale SEO is de sleutel om bovenaan te verschijnen wanneer mensen in de buurt zoeken naar jouw producten of diensten. Wij optimaliseren je **Google Business-profiel**, zorgen voor **NAP-consistentie** en bouwen **lokale backlinks** vanuit betrouwbare bronnen in de regio.
 
 In je content verwerken we herkenbare Ottergemse elementen zoals:
 
@@ -87,19 +87,19 @@ Door deze details te integreren, versterk je je lokale relevantie en herkenning 
 **Data-gedreven optimalisatie**  
 Wij geloven in meten, analyseren en verbeteren. Met tools als **Google Analytics**, **Search Console** en **Piwik Pro** volgen we het gedrag van je bezoekers op. We analyseren:
 
-- Hoe bezoekers je site vinden.  
-- Welke pagina’s goed presteren en welke minder.  
-- Welke zoekwoorden effectief converteren.  
+- Hoe bezoekers je site vinden.
+- Welke pagina’s goed presteren en welke minder.
+- Welke zoekwoorden effectief converteren.
 
 Op basis van deze data sturen we je content, advertenties en gebruikerservaring continu bij.
 
 **Waarom kiezen voor Xinudesign in Ottergem?**
 
-- Persoonlijke aanpak met korte communicatielijnen.  
-- Technische én creatieve expertise in één pakket.  
-- Grondige kennis van de lokale markt in Ottergem.  
-- Flexibiliteit: afspraken mogelijk op locatie of online.  
-- Resultaatgericht: focus op meetbare groei.  
+- Persoonlijke aanpak met korte communicatielijnen.
+- Technische én creatieve expertise in één pakket.
+- Grondige kennis van de lokale markt in Ottergem.
+- Flexibiliteit: afspraken mogelijk op locatie of online.
+- Resultaatgericht: focus op meetbare groei.
 
 **Van kennismaking tot lancering**  
 We starten met een vrijblijvend gesprek om jouw doelen en wensen in kaart te brengen. Daarna maken we een concreet actieplan met duidelijke deadlines. Tijdens de bouwfase blijf je op de hoogte en wordt feedback snel verwerkt. Na de lancering blijven we beschikbaar voor onderhoud, uitbreidingen en nieuwe marketingacties.

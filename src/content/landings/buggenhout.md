@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Buggenhout met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de gemeente."
 canonical: "https://www.xinudesign.be/diensten/buggenhout"
 image: "/assets/img/landingpages/buggenhout.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Voor ondernemers die mikken op klanten uit de regio is lokale SEO essentieel. We
 **Data-gedreven optimalisatie**  
 Meten is weten. Daarom gebruiken we tools zoals Google Analytics, Search Console en Piwik Pro om precies te zien hoe je website en campagnes presteren. We analyseren bezoekersgedrag, conversies en zoekwoorden om je strategie continu te verfijnen. Zo blijft jouw website niet alleen actueel, maar ook winstgevend.
 
-**Waarom kiezen voor Xinudesign in Buggenhout?**  
+**Waarom kiezen voor Xinudesign in Buggenhout?**
 
-- Persoonlijke aanpak met directe communicatie.  
-- Technische expertise en creatief design in één pakket.  
-- Kennis van de lokale markt en ondernemers in Buggenhout en omgeving.  
-- Flexibiliteit: afspraken mogelijk op locatie of via videocall.  
+- Persoonlijke aanpak met directe communicatie.
+- Technische expertise en creatief design in één pakket.
+- Kennis van de lokale markt en ondernemers in Buggenhout en omgeving.
+- Flexibiliteit: afspraken mogelijk op locatie of via videocall.
 - Focus op meetbare resultaten en duurzame groei.
 
 **Van kennismaking tot lancering**  

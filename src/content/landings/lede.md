@@ -14,7 +14,7 @@ secondaryKeywords:
 description: "Xinudesign helpt bedrijven en zelfstandigen in Lede groeien met snelle websites, converterende advertenties en sterke lokale SEO. Wij bouwen, adverteren en optimaliseren."
 canonical: "https://www.xinudesign.be/diensten/lede"
 image: "/assets/img/landingpages/lede.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael.redant2@telenet.be"
 address:

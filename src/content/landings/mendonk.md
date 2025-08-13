@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Mendonk groeien met snelle websites, doelgerichte advertentiecampagnes en lokale SEO-strategieën die inspelen op de troeven van het dorp."
 canonical: "https://www.xinudesign.be/diensten/mendonk"
 image: "/assets/img/landingpages/mendonk.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -51,24 +51,26 @@ Mendonk is een charmant en landelijk dorp in de Gentse kanaalzone, gekend om zij
 
 **Webdevelopment op maat van Mendonk**
 
-Of je nu een ambachtelijke slagerij runt, een landbouwbedrijf hebt of een dienstverlenend beroep uitoefent, een sterke online aanwezigheid is onmisbaar. Wij bouwen snelle, veilige en gebruiksvriendelijke websites die bezoekers overtuigen om klant te worden.  
+Of je nu een ambachtelijke slagerij runt, een landbouwbedrijf hebt of een dienstverlenend beroep uitoefent, een sterke online aanwezigheid is onmisbaar. Wij bouwen snelle, veilige en gebruiksvriendelijke websites die bezoekers overtuigen om klant te worden.
 
 We werken met **WordPress** voor flexibiliteit of ontwikkelen **custom oplossingen in HTML, CSS en React** voor maximale prestaties. Onze **UI/UX-aanpak** zorgt ervoor dat bezoekers makkelijk vinden wat ze zoeken, met duidelijke call-to-actions die conversie stimuleren.
 
 **Advertising: doelgericht bereik in Mendonk en omgeving**
 
-Met **Google Ads** en **Meta Ads** brengen we jouw boodschap bij de juiste doelgroep. Dankzij **geografische targeting** richten we ons specifiek op inwoners van Mendonk, en op omliggende dorpen zoals [Desteldonk](/diensten/desteldonk), [Sint-Kruis-Winkel](/diensten/sint-kruis-winkel) en [Oostakker](/diensten/oostakker).  
+Met **Google Ads** en **Meta Ads** brengen we jouw boodschap bij de juiste doelgroep. Dankzij **geografische targeting** richten we ons specifiek op inwoners van Mendonk, en op omliggende dorpen zoals [Desteldonk](/diensten/desteldonk), [Sint-Kruis-Winkel](/diensten/sint-kruis-winkel) en [Oostakker](/diensten/oostakker).
 
 Of het nu gaat om een actie rond de jaarlijkse dorpsfeesten, promoties in de buurt van de Mendonkbrug, of speciale evenementen in de kanaalzone: wij zorgen dat jouw advertenties exact de mensen bereiken die ertoe doen. Continue analyse en optimalisatie garanderen een efficiënt gebruik van je advertentiebudget.
 
 **Lokale SEO met een Mendonkse insteek**
 
 Om lokaal beter gevonden te worden, zorgen we voor:
-- **Optimalisatie van je Google Business-profiel**  
-- **NAP-consistentie** (naam, adres, telefoonnummer overal identiek)  
-- **Lokale backlinks** van relevante bronnen  
+
+- **Optimalisatie van je Google Business-profiel**
+- **NAP-consistentie** (naam, adres, telefoonnummer overal identiek)
+- **Lokale backlinks** van relevante bronnen
 
 Daarnaast verwerken we herkenbare Mendonkse plekken zoals:
+
 - **Sint-Bavo kerk**
 - **Mendonkbrug**
 - **Kanaal Gent-Terneuzen**
@@ -82,11 +84,11 @@ Wij meten en verbeteren continu. Met **Google Analytics**, **Search Console** en
 
 **Waarom kiezen voor Xinudesign in Mendonk?**
 
-- **Persoonlijke service** met direct contact  
-- **Techniek en creativiteit** in één  
-- **Lokale marktkennis** van Mendonk en de kanaalzone  
-- **Flexibele afspraken** op locatie of online  
-- **Meetbare resultaten** en focus op rendement  
+- **Persoonlijke service** met direct contact
+- **Techniek en creativiteit** in één
+- **Lokale marktkennis** van Mendonk en de kanaalzone
+- **Flexibele afspraken** op locatie of online
+- **Meetbare resultaten** en focus op rendement
 
 **Van kennismaking tot lancering**
 

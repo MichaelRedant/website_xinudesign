@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Lebbeke met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de gemeente."
 canonical: "https://www.xinudesign.be/diensten/lebbeke"
 image: "/assets/img/landingpages/lebbeke.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -60,12 +60,12 @@ Lokale vindbaarheid is onmisbaar voor ondernemers die mikken op klanten in hun e
 **Data-gedreven optimalisatie**  
 Meten is weten. Daarom gebruiken we tools als Google Analytics, Search Console en Piwik Pro om precies te zien hoe je website en campagnes presteren. We analyseren bezoekersgedrag, conversies en zoekwoorden om je strategie continu te verfijnen. Zo blijft jouw online aanwezigheid groeien en rendeert je marketingbudget optimaal.
 
-**Waarom kiezen voor Xinudesign in Lebbeke?**  
+**Waarom kiezen voor Xinudesign in Lebbeke?**
 
-- Persoonlijke aanpak met directe communicatie.  
-- Technische expertise en creatief design in één pakket.  
-- Diepgaande kennis van de lokale markt in Lebbeke en deelgemeenten.  
-- Flexibiliteit: afspraken mogelijk op locatie of via videocall.  
+- Persoonlijke aanpak met directe communicatie.
+- Technische expertise en creatief design in één pakket.
+- Diepgaande kennis van de lokale markt in Lebbeke en deelgemeenten.
+- Flexibiliteit: afspraken mogelijk op locatie of via videocall.
 - Focus op meetbare resultaten en duurzame groei.
 
 **Van kennismaking tot lancering**  

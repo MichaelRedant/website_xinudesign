@@ -13,7 +13,7 @@ secondaryKeywords:
 description: "Xinudesign helpt ondernemers in Herdersem met snelle, gebruiksvriendelijke websites, gerichte advertentiecampagnes en lokale SEO die inspeelt op de troeven van de gemeente."
 canonical: "https://www.xinudesign.be/diensten/herdersem"
 image: "/assets/img/landingpages/herdersem.png"
-video: "/assets/video/ai_video.mp4"
+video: "/assets/video/ai_videowm.webm"
 phone: "+32 496 90 85 03"
 email: "michael@xinudesign.be"
 address:
@@ -46,7 +46,7 @@ lastmod: "2025-08-11"
 ---
 
 **Digitale groei voor Herdersemse ondernemers**  
-Herdersem, gelegen in de rustige en groene rand van Aalst, is een dorp waar het ondernemerschap leeft. Van gezellige horecazaken rond het dorpsplein tot gespecialiseerde vakmensen verspreid over de straten: in een tijd waarin online aanwezigheid het verschil maakt, is het belangrijk om ook digitaal zichtbaar te zijn.  
+Herdersem, gelegen in de rustige en groene rand van Aalst, is een dorp waar het ondernemerschap leeft. Van gezellige horecazaken rond het dorpsplein tot gespecialiseerde vakmensen verspreid over de straten: in een tijd waarin online aanwezigheid het verschil maakt, is het belangrijk om ook digitaal zichtbaar te zijn.
 
 Xinudesign helpt lokale ondernemers om sterker te staan, zowel in de zoekresultaten als in het hoofd van de consument. Met snelle websites, slimme advertenties en lokale SEO zorgen we dat jouw zaak in Herdersem online dezelfde warme uitstraling heeft als in het echte leven.
 
@@ -56,7 +56,7 @@ Een website moet niet alleen mooi zijn, maar ook presteren. Ik ontwikkel gebruik
 Elke website wordt responsive gebouwd, zodat ze perfect werkt op smartphones, tablets en desktops. Bovendien voorzie ik SEO-optimalisaties vanaf de basis, zodat je site meteen klaar is om te scoren in Google.
 
 **Advertising: lokaal en effectief**  
-Met gerichte Google Ads en Meta Ads brengen we jouw boodschap precies bij de mensen die ertoe doen: inwoners van Herdersem, Aalst en omliggende dorpen. Door slim gebruik te maken van geografische targeting en zoekwoordonderzoek vermijden we dat advertentiebudget verloren gaat aan irrelevante klikken.  
+Met gerichte Google Ads en Meta Ads brengen we jouw boodschap precies bij de mensen die ertoe doen: inwoners van Herdersem, Aalst en omliggende dorpen. Door slim gebruik te maken van geografische targeting en zoekwoordonderzoek vermijden we dat advertentiebudget verloren gaat aan irrelevante klikken.
 
 Of het nu gaat om het promoten van een evenement, het lanceren van een nieuwe dienst of het verhogen van je merkbekendheid – je campagnes worden opgezet met rendement als doel.
 
@@ -68,12 +68,12 @@ Daarnaast optimaliseer ik je Google Business-profiel, zorg ik voor consistente b
 **Data-gedreven groei**  
 Geen gissingen, maar feiten. Met Google Analytics, Search Console en Piwik Pro meet ik wat werkt en wat beter kan. Zo sturen we je marketingstrategieën continu bij om het maximale uit je website en advertenties te halen.
 
-**Waarom kiezen voor Xinudesign in Herdersem?**  
+**Waarom kiezen voor Xinudesign in Herdersem?**
 
-- **Persoonlijke service** – direct contact met mij, zonder tussenpersonen.  
-- **Creatief én technisch sterk** – alles in één partner.  
-- **Kennis van de regio** – bekend met Herdersem en de omliggende dorpen.  
-- **Flexibele samenwerking** – online of ter plaatse.  
+- **Persoonlijke service** – direct contact met mij, zonder tussenpersonen.
+- **Creatief én technisch sterk** – alles in één partner.
+- **Kennis van de regio** – bekend met Herdersem en de omliggende dorpen.
+- **Flexibele samenwerking** – online of ter plaatse.
 - **Resultaatgericht** – focus op conversie en rendement.
 
 **Van idee tot lancering**  
