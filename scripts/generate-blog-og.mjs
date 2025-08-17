@@ -37,26 +37,44 @@ function escapeXml(s) {
 }
 
 /**
- * Wrap vlakke tekst op X breedte in tspan-regels.
- * We houden het simpel: bepalen van max chars per regel op basis van fontSize en beschikbare breedte.
+ * Wrap vlakke tekst op X breedte in tspan-regels met optionele clamp + ellipsis.
  */
-function wrapLines(text, maxWidthPx, fontSizePx, approxCharWidth = 0.55) {
+function wrapLines(
+  text,
+  maxWidthPx,
+  fontSizePx,
+  approxCharWidth = 0.55,
+  maxLines = 5,
+  addEllipsis = true
+) {
   // ruwe schatting: charWidth ≈ fontSize * approxCharWidth
   const maxChars = Math.max(10, Math.floor(maxWidthPx / (fontSizePx * approxCharWidth)));
-  const words = (text || "").trim().split(/\s+/);
+  const words = (text || "").trim().split(/\s+/).filter(Boolean);
   const lines = [];
   let line = "";
 
   for (const w of words) {
-    if ((line + " " + w).trim().length <= maxChars) {
-      line = (line ? line + " " : "") + w;
+    const test = (line ? line + " " : "") + w;
+    if (test.length <= maxChars) {
+      line = test;
     } else {
       if (line) lines.push(line);
-      // woord dat op zich langer is dan maxChars? hard-split
+      if (lines.length >= maxLines - 1) {
+        const remaining = test.slice(0, Math.max(0, maxChars - 1));
+        lines.push(addEllipsis ? remaining.replace(/\s+$/, "") + "…" : remaining);
+        return lines;
+      }
+      // extreem lang woord → hard-splitten
       if (w.length > maxChars) {
         let idx = 0;
         while (idx < w.length) {
-          lines.push(w.slice(idx, idx + maxChars));
+          const chunk = w.slice(idx, idx + maxChars);
+          if (lines.length === maxLines - 1 && w.length > idx + maxChars && addEllipsis) {
+            lines.push(chunk.slice(0, Math.max(0, maxChars - 1)) + "…");
+            return lines;
+          }
+          lines.push(chunk);
+          if (lines.length >= maxLines) return lines;
           idx += maxChars;
         }
         line = "";
@@ -66,7 +84,7 @@ function wrapLines(text, maxWidthPx, fontSizePx, approxCharWidth = 0.55) {
     }
   }
   if (line) lines.push(line);
-  return lines.slice(0, 5); // veiligheidslimiet
+  return lines.slice(0, maxLines);
 }
 
 /** SVG generator voor blog OG */
@@ -75,21 +93,39 @@ function svgForBlog({ title, subtitle, author, gradStart, gradEnd }) {
   const paddingX = 80;
   const titleY = 260;
   const titleFont = 74;
-  const subY = titleY + 120;
+  const titleLineGap = 8;
+
   const subFont = 34;
-  const authorY = HEIGHT - 80;
-  const authorFont = 28;
+  const subLineGap = 6;
+
   const contentWidth = WIDTH - paddingX * 2;
 
-  const titleLines = wrapLines(title, contentWidth, titleFont, 0.53);
-  const subLines = wrapLines(subtitle || "", contentWidth, subFont, 0.6);
+  // Bold 900 titels zijn visueel breder → iets hogere approxCharWidth
+  const TITLE_MAX_LINES = 3;
+  const SUB_MAX_LINES = 3;
 
-  // bouw <tspan>-regels
+  const titleLines = wrapLines(title, contentWidth, titleFont, 0.60, TITLE_MAX_LINES, true);
+  const subLines = wrapLines(subtitle || "", contentWidth, subFont, 0.58, SUB_MAX_LINES, true);
+
+  // Hoogte die de titel inneemt
+  const titleBlockHeight =
+    titleLines.length * (titleFont + titleLineGap) - titleLineGap;
+
+  // 🔧 BELANGRIJK: subY dynamisch (geen overlap met meeregelende titel)
+  const subY = titleY + titleBlockHeight + 24; // extra lucht
+
+  // Footerpositie: onderaan, maar mee opschuiven indien nodig
+  const authorBase = subLines.length
+    ? subY + subLines.length * (subFont + subLineGap)
+    : titleY + titleBlockHeight;
+  const authorY = Math.min(HEIGHT - 80, authorBase + 80);
+
+  // <tspan>-regels bouwen
   const titleTspans = titleLines
-    .map((l, i) => `<tspan x="${paddingX}" dy="${i === 0 ? 0 : titleFont + 8}">${escapeXml(l)}</tspan>`)
+    .map((l, i) => `<tspan x="${paddingX}" dy="${i === 0 ? 0 : titleFont + titleLineGap}">${escapeXml(l)}</tspan>`)
     .join("");
   const subTspans = subLines
-    .map((l, i) => `<tspan x="${paddingX}" dy="${i === 0 ? 0 : subFont + 6}">${escapeXml(l)}</tspan>`)
+    .map((l, i) => `<tspan x="${paddingX}" dy="${i === 0 ? 0 : subFont + subLineGap}">${escapeXml(l)}</tspan>`)
     .join("");
 
   return `
@@ -136,10 +172,10 @@ function svgForBlog({ title, subtitle, author, gradStart, gradEnd }) {
     }
 
     <!-- footer -->
-    <text x="${paddingX}" y="${authorY}" font-weight="600" font-size="${authorFont}" opacity="0.9">
+    <text x="${paddingX}" y="${authorY}" font-weight="600" font-size="28" opacity="0.9">
       ${escapeXml(author || "Xinudesign")}
     </text>
-    <text x="${WIDTH - paddingX}" y="${authorY}" font-weight="600" font-size="${authorFont}" opacity="0.9" text-anchor="end">
+    <text x="${WIDTH - paddingX}" y="${authorY}" font-weight="600" font-size="28" opacity="0.9" text-anchor="end">
       xinudesign.be
     </text>
   </g>
@@ -187,10 +223,10 @@ async function main() {
     const targetRelSvg = `/assets/img/blogs/${slug}.svg`;
     const targetRelPng = `/assets/img/blogs/${slug}.png`;
 
-    // Skip als er al iets is? We genereren gewoon opnieuw voor voorspelbaar resultaat.
+    // (Re)schrijven
     await fs.writeFile(outSvgAbs, svg, "utf8");
 
-    // PNG afgeleide (handig voor social scrapers die geen SVG slikken)
+    // PNG afgeleide (voor scrapers die geen SVG slikken)
     const png = await sharp(Buffer.from(svg)).png({ quality: 92 }).toBuffer();
     await fs.writeFile(outPngAbs, png);
 

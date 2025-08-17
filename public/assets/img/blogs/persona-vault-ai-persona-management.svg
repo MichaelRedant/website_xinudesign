@@ -29,12 +29,12 @@
 
     <!-- title -->
     <text x="80" y="260" font-weight="900" font-size="74">
-      <tspan x="80" dy="0">Persona Vault: AI-Persona</tspan><tspan x="80" dy="82">Management voor Slimmere</tspan><tspan x="80" dy="82">Marketing en Content</tspan>
+      <tspan x="80" dy="0">Persona Vault:</tspan><tspan x="80" dy="82">AI-Persona Management</tspan><tspan x="80" dy="82">AI-Persona Management…</tspan>
     </text>
 
     <!-- subtitle -->
-    <text x="80" y="380" font-weight="600" font-size="34" opacity="0.95">
-      <tspan x="80" dy="0">Ontdek Persona Vault — het AI-powered platform</tspan><tspan x="80" dy="40">voor persona- en promptmanagement. Beheer,</tspan><tspan x="80" dy="40">categoriseer en schaal AI-workflows met revisies,</tspan><tspan x="80" dy="40">collecties en gedeelde workspaces.</tspan>
+    <text x="80" y="522" font-weight="600" font-size="34" opacity="0.95">
+      <tspan x="80" dy="0">Ontdek Persona Vault — het AI-powered platform voor</tspan><tspan x="80" dy="40">persona- en promptmanagement. Beheer, categoriseer</tspan><tspan x="80" dy="40">persona- en promptmanagement. Beheer, categoriseer…</tspan>
     </text>
 
     <!-- footer -->
