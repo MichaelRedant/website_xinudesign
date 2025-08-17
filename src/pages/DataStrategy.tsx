@@ -9,6 +9,16 @@ const DataStrategy: React.FC = () => {
         title="Data Strategy & Dashboarding | Xinudesign"
         description="Bouw een schaalbare data-architectuur met datawarehouses, Power BI dashboards en geautomatiseerde ETL-processen via SSIS en SSMS. Van analyse tot implementatie."
         canonical="https://www.xinudesign.be/diensten/data-strategy"
+        keywords={[
+          "data strategy",
+          "dashboarding",
+          "datawarehouse",
+          "Power BI",
+          "ETL",
+          "SSIS",
+          "SSMS",
+          "business intelligence",
+        ]}
       />
 
       <main className="mx-auto max-w-6xl px-6 py-24">

@@ -225,6 +225,16 @@ export default function Contact() {
         title="Contact | Xinudesign"
         description="Contacteer Xinudesign (Michaël Redant) voor webdesign, SEO/SEA en datagedreven marketing. Samen groeien we digitaal."
         canonical="https://www.xinudesign.be/contact"
+        keywords={[
+          "contact",
+          "Xinudesign",
+          "webdesign",
+          "SEO",
+          "SEA",
+          "marketing",
+          "offerte",
+          "Herzele",
+        ]}
         // Meerdere JSON‑LD blokken toegestaan — Seo component moet dit als array doorzetten.
         jsonLd={jsonLdBundle}
       />

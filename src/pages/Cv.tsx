@@ -121,6 +121,16 @@ export default function Cv() {
         title="Curriculum Vitae | Michaël Redant (Xinudesign)"
         description="Ik ben Michaël Redant: freelance webdeveloper & marketeer uit Borsbeke (Herzele). Sterk in SEO, data‑analyse en conversiegerichte websites. Bekijk mijn ervaring, skills en projecten."
         canonical="https://www.xinudesign.be/cv"
+        keywords={[
+          "curriculum vitae",
+          "Michaël Redant",
+          "freelance webdeveloper",
+          "marketeer",
+          "SEO specialist",
+          "data-analist",
+          "Borsbeke",
+          "ervaring",
+        ]}
         jsonLd={jsonLd}
       />
 

@@ -52,6 +52,16 @@ export default function PersonaVault() {
         title="Persona Vault | Xinudesign"
         description="Beheer AI-persona's en prompts centraal met de Persona Vault."
         canonical="https://www.xinudesign.be/persona-vault"
+        keywords={[
+          "Persona Vault",
+          "AI personas",
+          "prompt management",
+          "AI prompts",
+          "tagging",
+          "version control",
+          "workspace",
+          "collaboration",
+        ]}
       />
       <main className="px-4 py-24 bg-gradient-to-b from-white to-sky-50 dark:from-gray-900 dark:to-gray-800">
         {/* ───── Hero ───── */}
