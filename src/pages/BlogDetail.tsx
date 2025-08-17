@@ -53,7 +53,10 @@ export default function BlogDetail() {
   // Sort for prev/next navigation
   const sorted = parsed
     .filter((p) => p.meta?.date)
-    .sort((a, b) => new Date(b.meta.date).getTime() - new Date(a.meta.date).getTime());
+    .sort(
+      (a, b) =>
+        new Date(b.meta.date).getTime() - new Date(a.meta.date).getTime(),
+    );
 
   const currentIndex = sorted.findIndex((p) => p.meta.slug === slug);
   const current = sorted[currentIndex];
@@ -61,8 +64,13 @@ export default function BlogDetail() {
   if (!current) {
     return (
       <main className="px-4 py-24 max-w-3xl mx-auto">
-        <p className="text-slate-600 dark:text-slate-300">Artikel niet gevonden.</p>
-        <Link to="/blog" className="text-blue-600 dark:text-blue-400 hover:underline mt-4 inline-block">
+        <p className="text-slate-600 dark:text-slate-300">
+          Artikel niet gevonden.
+        </p>
+        <Link
+          to="/blog"
+          className="text-blue-600 dark:text-blue-400 hover:underline mt-4 inline-block"
+        >
           ← Terug naar blog
         </Link>
       </main>
@@ -73,12 +81,20 @@ export default function BlogDetail() {
   const content = current.content;
 
   const canonicalUrl = meta.canonical || `${blogUrl}/${meta.slug}`;
-  const imageUrl = meta.image ? new URL(meta.image, siteUrl).toString() : `${siteUrl}/assets/img/default-blog.jpg`;
+  const imageUrl = meta.image
+    ? new URL(meta.image, siteUrl).toString()
+    : `${siteUrl}/assets/img/default-blog.jpg`;
   const keywords = meta.tags?.join(", ");
   const readingMinutes = calcReadingMinutes(content);
 
-  // Build a simple Table of Contents from H2/H3
-  const headings = Array.from(content.matchAll(/^##?\s+(.+)$/gim)).map((m) => m[1]);
+  // Build a simple Table of Contents from H2/H3 using Marked's slugger
+  const slugger = new marked.Slugger();
+  const headingMatches = Array.from(content.matchAll(/^##?\s+(.+)$/gim));
+  const headings = headingMatches.map((m) => ({
+    text: m[1],
+    id: `h-${slugger.slug(m[1])}`,
+  }));
+  const html = marked.parse(content, { headerIds: true, headerPrefix: "h-" });
 
   // JSON-LD
   const jsonLd: Record<string, unknown>[] = [
@@ -90,11 +106,18 @@ export default function BlogDetail() {
       image: [imageUrl],
       datePublished: meta.date,
       dateModified: meta.lastmod || meta.date,
-      author: { "@type": "Person", name: meta.author || "Xinudesign Team", url: siteUrl },
+      author: {
+        "@type": "Person",
+        name: meta.author || "Xinudesign Team",
+        url: siteUrl,
+      },
       publisher: {
         "@type": "Organization",
         name: "Xinudesign",
-        logo: { "@type": "ImageObject", url: `${siteUrl}/apple-touch-icon.png` },
+        logo: {
+          "@type": "ImageObject",
+          url: `${siteUrl}/apple-touch-icon.png`,
+        },
       },
       mainEntityOfPage: { "@type": "WebPage", "@id": canonicalUrl },
       keywords,
@@ -107,7 +130,12 @@ export default function BlogDetail() {
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Home", item: siteUrl },
         { "@type": "ListItem", position: 2, name: "Blog", item: blogUrl },
-        { "@type": "ListItem", position: 3, name: meta.title, item: canonicalUrl },
+        {
+          "@type": "ListItem",
+          position: 3,
+          name: meta.title,
+          item: canonicalUrl,
+        },
       ],
     },
   ];
@@ -140,7 +168,8 @@ export default function BlogDetail() {
           {/* Hero */}
           <header className="mb-10 text-center" data-aos="fade-up">
             <p className="text-sm text-slate-500 dark:text-slate-400">
-              {formatDate(meta.date)} • {readingMinutes} min {meta.author && `• ${meta.author}`}
+              {formatDate(meta.date)} • {readingMinutes} min{" "}
+              {meta.author && `• ${meta.author}`}
             </p>
             <h1 className="text-4xl md:text-5xl font-extrabold mt-3 tracking-tight text-slate-900 dark:text-white">
               {meta.title}
@@ -177,21 +206,20 @@ export default function BlogDetail() {
                 data-aos="fade-up"
                 data-aos-delay="50"
               >
-                <p className="text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">Inhoud</p>
+                <p className="text-sm font-medium text-slate-700 dark:text-slate-300 mb-2">
+                  Inhoud
+                </p>
                 <ul className="flex flex-wrap gap-3 text-sm">
-                  {headings.slice(0, 8).map((h, i) => {
-                    const id = `h-${h.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`;
-                    return (
-                      <li key={i}>
-                        <a
-                          href={`#${id}`}
-                          className="inline-block px-3 py-1 rounded-full border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-blue-400"
-                        >
-                          {h}
-                        </a>
-                      </li>
-                    );
-                  })}
+                  {headings.slice(0, 8).map((h, i) => (
+                    <li key={i}>
+                      <a
+                        href={`#${h.id}`}
+                        className="inline-block px-3 py-1 rounded-full border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-blue-400"
+                      >
+                        {h.text}
+                      </a>
+                    </li>
+                  ))}
                 </ul>
               </nav>
             )}
@@ -199,14 +227,18 @@ export default function BlogDetail() {
 
           {/* Content */}
           <div
-            className="prose prose-slate dark:prose-invert max-w-none prose-img:rounded-xl prose-headings:scroll-mt-24"
-            dangerouslySetInnerHTML={{ __html: marked.parse(content) }}
+            className="prose prose-slate dark:prose-invert max-w-none prose-img:rounded-xl prose-headings:scroll-mt-24 city-prose"
+            dangerouslySetInnerHTML={{ __html: html }}
             data-aos="fade-up"
             data-aos-delay="100"
           />
 
           {/* Share / CTA */}
-          <div className="mt-10 flex flex-col sm:flex-row items-center justify-between gap-4" data-aos="fade-up" data-aos-delay="150">
+          <div
+            className="mt-10 flex flex-col sm:flex-row items-center justify-between gap-4"
+            data-aos="fade-up"
+            data-aos-delay="150"
+          >
             <div className="text-sm text-slate-600 dark:text-slate-300">
               Deel dit artikel:
             </div>
@@ -214,14 +246,16 @@ export default function BlogDetail() {
               <a
                 className="px-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 hover:border-blue-400 text-sm"
                 href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(canonicalUrl)}`}
-                target="_blank" rel="noreferrer"
+                target="_blank"
+                rel="noreferrer"
               >
                 LinkedIn
               </a>
               <a
                 className="px-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 hover:border-blue-400 text-sm"
                 href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(canonicalUrl)}&text=${encodeURIComponent(meta.title)}`}
-                target="_blank" rel="noreferrer"
+                target="_blank"
+                rel="noreferrer"
               >
                 X / Twitter
               </a>
@@ -230,15 +264,24 @@ export default function BlogDetail() {
 
           {/* Prev / Next */}
           <hr className="my-10 border-slate-200 dark:border-slate-800" />
-          <nav className="grid gap-4 sm:grid-cols-2" aria-label="Navigatie" data-aos="fade-up" data-aos-delay="200">
+          <nav
+            className="grid gap-4 sm:grid-cols-2"
+            aria-label="Navigatie"
+            data-aos="fade-up"
+            data-aos-delay="200"
+          >
             {prev ? (
               <Link
                 to={`/blog/${prev.slug}`}
                 className="group rounded-2xl border border-white/40 dark:border-slate-800 bg-white/80 dark:bg-slate-900/60 backdrop-blur p-4 hover:shadow-lg transition"
               >
                 <p className="text-xs text-slate-500">Vorige</p>
-                <p className="font-medium text-slate-900 dark:text-slate-100 group-hover:underline">{prev.title}</p>
-                <p className="text-xs text-slate-500 mt-1">{formatDate(prev.date)}</p>
+                <p className="font-medium text-slate-900 dark:text-slate-100 group-hover:underline">
+                  {prev.title}
+                </p>
+                <p className="text-xs text-slate-500 mt-1">
+                  {formatDate(prev.date)}
+                </p>
               </Link>
             ) : (
               <div />
@@ -250,8 +293,12 @@ export default function BlogDetail() {
                 className="group rounded-2xl border border-white/40 dark:border-slate-800 bg-white/80 dark:bg-slate-900/60 backdrop-blur p-4 hover:shadow-lg transition text-right"
               >
                 <p className="text-xs text-slate-500">Volgende</p>
-                <p className="font-medium text-slate-900 dark:text-slate-100 group-hover:underline">{next.title}</p>
-                <p className="text-xs text-slate-500 mt-1">{formatDate(next.date)}</p>
+                <p className="font-medium text-slate-900 dark:text-slate-100 group-hover:underline">
+                  {next.title}
+                </p>
+                <p className="text-xs text-slate-500 mt-1">
+                  {formatDate(next.date)}
+                </p>
               </Link>
             ) : (
               <div />
@@ -260,7 +307,10 @@ export default function BlogDetail() {
 
           {/* Back to blog */}
           <div className="mt-12 text-center">
-            <Link to="/blog" className="inline-flex items-center gap-2 text-blue-700 dark:text-blue-300 font-medium hover:translate-x-0.5 transition">
+            <Link
+              to="/blog"
+              className="inline-flex items-center gap-2 text-blue-700 dark:text-blue-300 font-medium hover:translate-x-0.5 transition"
+            >
               ← Terug naar blog
             </Link>
           </div>
@@ -268,9 +318,11 @@ export default function BlogDetail() {
       </main>
 
       {/* Scroll progress calc */}
-      <script dangerouslySetInnerHTML={{
-        __html: `(() => {\n  const onScroll = () => {\n    const h = document.documentElement;\n    const scrolled = (h.scrollTop / (h.scrollHeight - h.clientHeight)) * 100;\n    document.documentElement.style.setProperty('--scroll-progress', scrolled.toFixed(2) + '%');\n  };\n  document.addEventListener('scroll', onScroll, { passive: true });\n  onScroll();\n})();`
-      }} />
+      <script
+        dangerouslySetInnerHTML={{
+          __html: `(() => {\n  const onScroll = () => {\n    const h = document.documentElement;\n    const scrolled = (h.scrollTop / (h.scrollHeight - h.clientHeight)) * 100;\n    document.documentElement.style.setProperty('--scroll-progress', scrolled.toFixed(2) + '%');\n  };\n  document.addEventListener('scroll', onScroll, { passive: true });\n  onScroll();\n})();`,
+        }}
+      />
     </>
   );
 }
