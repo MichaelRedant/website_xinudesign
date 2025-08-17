@@ -14,7 +14,8 @@
     "format": "prettier --check .",
     "format:write": "prettier --write .",
     "gen:city-images": "node scripts/generate-city-images.mjs",
-    "create:landing": "node scripts/new-landing.js"
+    "create:landing": "node scripts/new-landing.js",
+    "og:blogs": "node scripts/generate-blog-og.mjs"
   },
   "dependencies": {
     "aos": "^2.3.4",
@@ -22,6 +23,7 @@
     "fs": "^0.0.1-security",
     "gray-matter": "^4.0.3",
     "markdown-it": "^14.1.0",
+    "marked": "^16.1.2",
     "motion": "^12.23.12",
     "path": "^0.12.7",
     "react": "^19.1.0",

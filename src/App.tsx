@@ -6,6 +6,9 @@ import Footer from "./components/Footer";
 import { Routes, Route } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import RegionSection from "./components/RegionSection";
+import Blog from "./pages/Blog";
+import BlogDetail from "./pages/BlogDetail";
+
 
 const Home = lazy(() => import("./pages/Home"));
 const Contact = lazy(() => import("./pages/Contact"));
@@ -51,6 +54,8 @@ export default function App() {
             <Route path="/diensten/ui-ux" element={<UiUx />} />
             <Route path="/diensten/lokale-seo" element={<LokaleSeo />} />
             <Route path="/diensten/:city" element={<LokaleSeoPage />} />
+            <Route path="/blog" element={<Blog />} />
+            <Route path="/blog/:slug" element={<BlogDetail />} />
           </Routes>
         </Suspense>
       </div>
