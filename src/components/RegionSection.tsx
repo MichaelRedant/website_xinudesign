@@ -1,5 +1,5 @@
 import matter from "gray-matter";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { motion } from "framer-motion";
 
 interface CityLink {
@@ -12,30 +12,48 @@ const PAGE_SIZE = 12;
 
 export default function RegionSection() {
   // 1) Lees alle .md-landings en haal city/slug op
-  const files = import.meta.glob("/src/content/landings/*.md", {
-    query: "?raw",
-    import: "default",
-    eager: true,
-  }) as Record<string, string>;
+  const files = useMemo(
+    () =>
+      import.meta.glob("/src/content/landings/*.md", {
+        query: "?raw",
+        import: "default",
+        eager: false,
+      }) as Record<string, () => Promise<string>>,
+    [],
+  );
 
-  const allCities: CityLink[] = useMemo(() => {
-    const list = Object.values(files)
-      .map((raw) => {
-        const { data } = matter(raw);
-        const city = (data.city as string) || "";
-        const slug =
-          (data.slug as string) ||
-          city.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
-        return {
-          city,
-          slug,
-          province: (data.province as string) || undefined,
-        };
-      })
-      .filter((x) => x.city && x.slug);
+  const [allCities, setAllCities] = useState<CityLink[]>([]);
+  const [loading, setLoading] = useState(true);
 
-    // Sorteer alfabetisch (localeAware)
-    return [...list].sort((a, b) => a.city.localeCompare(b.city, "nl"));
+  useEffect(() => {
+    const load = async () => {
+      const modules = await Promise.all(
+        Object.values(files).map((loader) => loader()),
+      );
+      const list = modules
+        .map((raw) => {
+          const { data } = matter(raw);
+          const city = (data.city as string) || "";
+          const slug =
+            (data.slug as string) ||
+            city
+              .toLowerCase()
+              .replace(/\s+/g, "-")
+              .replace(/[^a-z0-9-]/g, "");
+          return {
+            city,
+            slug,
+            province: (data.province as string) || undefined,
+          };
+        })
+        .filter((x) => x.city && x.slug)
+        .sort((a, b) => a.city.localeCompare(b.city, "nl"));
+
+      setAllCities(list);
+      setLoading(false);
+    };
+
+    load();
   }, [files]);
 
   // 2) UI state
@@ -69,6 +87,14 @@ export default function RegionSection() {
       : byLetter;
   }, [allCities, letter, q]);
 
+  if (loading) {
+    return (
+      <section className="px-4 py-24 flex justify-center">
+        <div className="animate-pulse text-slate-500">Laden…</div>
+      </section>
+    );
+  }
+
   if (!allCities.length) return null;
 
   const visibleItems = filtered.slice(0, visible);
@@ -99,7 +125,8 @@ export default function RegionSection() {
           </h2>
           <p className="mt-3 text-slate-600 dark:text-slate-300">
             Vind een lokale landingspagina voor jouw stad of gemeente. We bouwen
-            snelle websites, doeltreffende advertenties en sterke SEO in Vlaanderen en omstreken.
+            snelle websites, doeltreffende advertenties en sterke SEO in
+            Vlaanderen en omstreken.
           </p>
         </div>
 
@@ -169,11 +196,7 @@ export default function RegionSection() {
           className="grid gap-3 sm:grid-cols-2 md:grid-cols-3"
         >
           {visibleItems.map((link) => (
-            <motion.li
-              key={link.slug}
-              variants={item}
-              className="list-none"
-            >
+            <motion.li key={link.slug} variants={item} className="list-none">
               <a
                 href={`/diensten/${link.slug}`}
                 title={`Webdesign & SEO in ${link.city} | Xinudesign`}
