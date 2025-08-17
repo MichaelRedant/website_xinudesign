@@ -37,6 +37,16 @@ const Home: React.FC = () => {
         title="Webdevelopment & Marketing | Xinudesign"
         description="Freelance webdeveloper en marketeer voor kmo's in Vlaanderen. Websites die scoren in Google."
         canonical="https://www.xinudesign.be/"
+        keywords={[
+          "webdevelopment",
+          "marketing",
+          "freelance developer",
+          "SEO",
+          "SEA",
+          "webdesign",
+          "kmo",
+          "Vlaanderen",
+        ]}
         jsonLd={jsonLd}
       />
       <Hero />

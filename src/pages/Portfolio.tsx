@@ -50,6 +50,16 @@ export default function Portfolio() {
         title="Portfolio Webdesign & Marketing | Xinudesign"
         description="Bekijk onze webdesign- en marketingprojecten in samenwerking met Pixapop. Professionele websites, SEO en online marketing voor kmo's in Vlaanderen."
         canonical="https://www.xinudesign.be/portfolio"
+        keywords={[
+          "portfolio",
+          "webdesign projecten",
+          "marketing cases",
+          "SEO realisaties",
+          "website voorbeelden",
+          "online marketing",
+          "kmo's",
+          "Pixapop",
+        ]}
       />
 
       <main className="bg-gradient-to-b from-white to-blue-50 dark:from-gray-900 dark:to-gray-800">
