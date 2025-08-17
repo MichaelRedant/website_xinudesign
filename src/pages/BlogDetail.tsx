@@ -5,7 +5,6 @@ import { marked } from "marked";
 import Seo from "../components/Seo";
 import { FaLinkedin, FaTwitter, FaFacebook, FaLink } from "react-icons/fa";
 
-
 interface BlogMeta {
   title: string;
   slug: string;
@@ -46,9 +45,11 @@ const slugify = (input: unknown) =>
 
 /** ---------- marked configuratie (token API) ---------- */
 marked.setOptions({ mangle: false, headerIds: true, headerPrefix: "" });
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
 (marked as any).use({
   renderer: {
     // In marked v8+ is het argument een token, niet "text, level"
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     heading(token: any) {
       const text = token?.text ?? token?.raw ?? "";
       const level = token?.depth ?? token?.level ?? 1;
@@ -79,16 +80,33 @@ export default function BlogDetail() {
     .filter((p) => p.meta?.date)
     .sort(
       (a, b) =>
-        new Date(b.meta.date).getTime() - new Date(a.meta.date).getTime()
+        new Date(b.meta.date).getTime() - new Date(a.meta.date).getTime(),
     );
 
   const currentIndex = sorted.findIndex((p) => p.meta.slug === slug);
   const current = sorted[currentIndex];
 
+  React.useEffect(() => {
+    const onScroll = () => {
+      const h = document.documentElement;
+      const scrolled = (h.scrollTop / (h.scrollHeight - h.clientHeight)) * 100;
+      h.style.setProperty("--scroll-progress", `${scrolled.toFixed(2)}%`);
+    };
+    onScroll();
+    document.addEventListener("scroll", onScroll, { passive: true });
+    window.addEventListener("resize", onScroll);
+    return () => {
+      document.removeEventListener("scroll", onScroll);
+      window.removeEventListener("resize", onScroll);
+    };
+  }, []);
+
   if (!current) {
     return (
       <main className="px-4 py-24 max-w-3xl mx-auto">
-        <p className="text-slate-600 dark:text-slate-300">Artikel niet gevonden.</p>
+        <p className="text-slate-600 dark:text-slate-300">
+          Artikel niet gevonden.
+        </p>
         <Link
           to="/blog"
           className="text-blue-600 dark:text-blue-400 hover:underline mt-4 inline-block"
@@ -156,7 +174,12 @@ export default function BlogDetail() {
       itemListElement: [
         { "@type": "ListItem", position: 1, name: "Home", item: siteUrl },
         { "@type": "ListItem", position: 2, name: "Blog", item: blogUrl },
-        { "@type": "ListItem", position: 3, name: meta.title, item: canonicalUrl },
+        {
+          "@type": "ListItem",
+          position: 3,
+          name: meta.title,
+          item: canonicalUrl,
+        },
       ],
     },
   ];
@@ -164,26 +187,12 @@ export default function BlogDetail() {
   const prev = sorted[currentIndex + 1]?.meta;
   const next = sorted[currentIndex - 1]?.meta;
 
-  // Scroll-progress (CSS var)
-  React.useEffect(() => {
-    const onScroll = () => {
-      const h = document.documentElement;
-      const scrolled = (h.scrollTop / (h.scrollHeight - h.clientHeight)) * 100;
-      h.style.setProperty("--scroll-progress", `${scrolled.toFixed(2)}%`);
-    };
-    onScroll();
-    document.addEventListener("scroll", onScroll, { passive: true });
-    window.addEventListener("resize", onScroll);
-    return () => {
-      document.removeEventListener("scroll", onScroll);
-      window.removeEventListener("resize", onScroll);
-    };
-  }, []);
-
   const onCopy = async () => {
     try {
       await navigator.clipboard.writeText(canonicalUrl);
-    } catch {}
+    } catch {
+      // ignore
+    }
   };
 
   return (
@@ -197,7 +206,7 @@ export default function BlogDetail() {
         image={imageUrl}
         keywords={keywords ? keywords.split(",") : []}
         lastmod={meta.lastmod}
-         type="article"
+        type="article"
         publishedTime={meta.date}
         authorName={meta.author || "Xinudesign"}
       />
@@ -214,7 +223,8 @@ export default function BlogDetail() {
           {/* Hero */}
           <header className="mb-10 text-center" data-aos="fade-up">
             <p className="text-sm text-slate-500 dark:text-slate-400">
-              {formatDate(meta.date)} • {readingMinutes} min {meta.author && `• ${meta.author}`}
+              {formatDate(meta.date)} • {readingMinutes} min{" "}
+              {meta.author && `• ${meta.author}`}
             </p>
             <h1 className="text-4xl md:text-5xl font-extrabold mt-3 tracking-tight text-slate-900 dark:text-white">
               {meta.title}
@@ -301,7 +311,7 @@ export default function BlogDetail() {
               <a
                 className="inline-flex items-center gap-2 px-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 hover:border-blue-400 text-sm"
                 href={`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(
-                  canonicalUrl
+                  canonicalUrl,
                 )}`}
                 target="_blank"
                 rel="noreferrer"
@@ -311,7 +321,7 @@ export default function BlogDetail() {
               <a
                 className="inline-flex items-center gap-2 px-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 hover:border-blue-400 text-sm"
                 href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(
-                  canonicalUrl
+                  canonicalUrl,
                 )}&text=${encodeURIComponent(meta.title)}`}
                 target="_blank"
                 rel="noreferrer"
@@ -321,7 +331,7 @@ export default function BlogDetail() {
               <a
                 className="inline-flex items-center gap-2 px-3 py-2 rounded-xl border border-slate-200 dark:border-slate-700 hover:border-blue-400 text-sm"
                 href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
-                  canonicalUrl
+                  canonicalUrl,
                 )}`}
                 target="_blank"
                 rel="noreferrer"
