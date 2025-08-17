@@ -4,6 +4,7 @@ import Intro from "../components/Intro";
 import NewSection from "../components/NewSection";
 import Specializations from "../components/Specializations";
 import ProjectSection from "../components/ProjectSection";
+import BlogSection from "../components/BlogSection";
 import Seo from "../components/Seo";
 
 const ToolsMarquee = lazy(() => import("../components/ToolsMarquee"));
@@ -60,6 +61,7 @@ const Home: React.FC = () => {
       </div>
       <NewSection />
       <Specializations />
+      <BlogSection />
       <ProjectSection />
     </>
   );

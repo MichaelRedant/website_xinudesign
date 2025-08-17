@@ -7,6 +7,7 @@ import { AnimatePresence, motion } from "framer-motion";
 const NAV = [
   { to: "/persona-vault", label: "Persona Vault" },
   { to: "/portfolio", label: "Portfolio" },
+  { to: "/blog", label: "Blog" },
   { to: "/cv", label: "Over mij" },
 ];
 
@@ -42,7 +43,10 @@ export default function Header() {
   };
   const closeServices = () => {
     if (servicesTimer.current) window.clearTimeout(servicesTimer.current);
-    servicesTimer.current = window.setTimeout(() => setServicesOpen(false), 100);
+    servicesTimer.current = window.setTimeout(
+      () => setServicesOpen(false),
+      100,
+    );
   };
 
   return (
@@ -55,7 +59,11 @@ export default function Header() {
     >
       <nav className="mx-auto flex h-full max-w-[1400px] items-center justify-between px-4 md:px-8">
         {/* Logo */}
-        <Link to="/" className="flex items-center gap-3 select-none h-full" aria-label="Ga naar home">
+        <Link
+          to="/"
+          className="flex items-center gap-3 select-none h-full"
+          aria-label="Ga naar home"
+        >
           <img
             src="/assets/xinu.webp"
             alt=""
@@ -159,7 +167,11 @@ export default function Header() {
           className="md:hidden p-2"
           onClick={() => setMenuOpen((s) => !s)}
         >
-          {menuOpen ? <FaTimes className="text-2xl text-slate-900" /> : <FaBars className="text-2xl text-slate-900" />}
+          {menuOpen ? (
+            <FaTimes className="text-2xl text-slate-900" />
+          ) : (
+            <FaBars className="text-2xl text-slate-900" />
+          )}
         </button>
       </nav>
 
