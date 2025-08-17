@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import matter from "gray-matter";
 import { marked } from "marked";
 import Seo from "../components/Seo"; // zelfde SEO-component die je al gebruikt
@@ -74,9 +74,24 @@ export default function BlogDetail() {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       itemListElement: [
-        { "@type": "ListItem", position: 1, name: "Home", item: "https://www.xinudesign.be/" },
-        { "@type": "ListItem", position: 2, name: "Blog", item: "https://www.xinudesign.be/blog" },
-        { "@type": "ListItem", position: 3, name: meta.title, item: canonicalUrl },
+        {
+          "@type": "ListItem",
+          position: 1,
+          name: "Home",
+          item: "https://www.xinudesign.be/",
+        },
+        {
+          "@type": "ListItem",
+          position: 2,
+          name: "Blog",
+          item: "https://www.xinudesign.be/blog",
+        },
+        {
+          "@type": "ListItem",
+          position: 3,
+          name: meta.title,
+          item: canonicalUrl,
+        },
       ],
     },
   ];
@@ -95,37 +110,50 @@ export default function BlogDetail() {
       />
 
       {/* 🔹 Blog content */}
-      <main className="max-w-4xl mx-auto px-6 py-20 prose dark:prose-invert">
-        <header className="mb-12">
-          <h1 className="text-4xl font-bold mb-2">{meta.title}</h1>
-          <p className="text-sm text-slate-500">
-            {meta.date} {meta.author && `• Geschreven door ${meta.author}`}
-          </p>
-          {meta.tags && (
-            <div className="mt-3 flex flex-wrap gap-2">
-              {meta.tags.map((tag) => (
-                <span
-                  key={tag}
-                  className="px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-700"
-                >
-                  #{tag}
-                </span>
-              ))}
-            </div>
-          )}
-          {meta.image && (
-            <img
-              src={meta.image}
-              alt={meta.title}
-              className="rounded-2xl shadow-lg mt-8"
-              loading="lazy"
-            />
-          )}
-        </header>
+      <main className="px-4 py-24 bg-gradient-to-b from-white to-sky-50 dark:from-gray-900 dark:to-gray-800">
+        <article className="mx-auto max-w-3xl">
+          <header className="mb-12 text-center">
+            <h1 className="text-4xl md:text-5xl font-extrabold mb-4 text-slate-900 dark:text-white">
+              {meta.title}
+            </h1>
+            <p className="text-sm text-slate-500">
+              {meta.date} {meta.author && `• Geschreven door ${meta.author}`}
+            </p>
+            {meta.tags && (
+              <div className="mt-4 flex flex-wrap justify-center gap-2">
+                {meta.tags.map((tag) => (
+                  <span
+                    key={tag}
+                    className="px-3 py-1 text-xs font-medium rounded-full bg-blue-100 text-blue-700 dark:bg-blue-900/40 dark:text-blue-300"
+                  >
+                    #{tag}
+                  </span>
+                ))}
+              </div>
+            )}
+            {meta.image && (
+              <img
+                src={meta.image}
+                alt={meta.title}
+                className="rounded-2xl shadow-lg mt-10 mx-auto"
+                loading="lazy"
+              />
+            )}
+          </header>
 
-        <article
-          dangerouslySetInnerHTML={{ __html: marked(post.content) }}
-        />
+          <div
+            className="prose dark:prose-invert max-w-none"
+            dangerouslySetInnerHTML={{ __html: marked(post.content) }}
+          />
+          <div className="mt-16 text-center">
+            <Link
+              to="/blog"
+              className="text-blue-600 dark:text-blue-400 hover:underline"
+            >
+              ← Terug naar blog
+            </Link>
+          </div>
+        </article>
       </main>
     </>
   );
