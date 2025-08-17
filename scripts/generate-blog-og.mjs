@@ -43,49 +43,45 @@ function wrapLines(
   text,
   maxWidthPx,
   fontSizePx,
-  approxCharWidth = 0.55,
-  maxLines = 5,
+  approxCharWidth = 0.60,
+  maxLines = 3,
   addEllipsis = true
 ) {
-  // ruwe schatting: charWidth ≈ fontSize * approxCharWidth
   const maxChars = Math.max(10, Math.floor(maxWidthPx / (fontSizePx * approxCharWidth)));
-  const words = (text || "").trim().split(/\s+/).filter(Boolean);
+  const words = String(text || "").trim().split(/\s+/).filter(Boolean);
   const lines = [];
-  let line = "";
+  let i = 0;
 
-  for (const w of words) {
-    const test = (line ? line + " " : "") + w;
-    if (test.length <= maxChars) {
-      line = test;
-    } else {
-      if (line) lines.push(line);
-      if (lines.length >= maxLines - 1) {
-        const remaining = test.slice(0, Math.max(0, maxChars - 1));
-        lines.push(addEllipsis ? remaining.replace(/\s+$/, "") + "…" : remaining);
-        return lines;
-      }
-      // extreem lang woord → hard-splitten
-      if (w.length > maxChars) {
-        let idx = 0;
-        while (idx < w.length) {
-          const chunk = w.slice(idx, idx + maxChars);
-          if (lines.length === maxLines - 1 && w.length > idx + maxChars && addEllipsis) {
-            lines.push(chunk.slice(0, Math.max(0, maxChars - 1)) + "…");
-            return lines;
-          }
-          lines.push(chunk);
-          if (lines.length >= maxLines) return lines;
-          idx += maxChars;
-        }
-        line = "";
-      } else {
-        line = w;
-      }
+  while (i < words.length && lines.length < maxLines) {
+    let line = words[i++];
+    // vul de huidige regel
+    while (i < words.length && (line + " " + words[i]).length <= maxChars) {
+      line += " " + words[i++];
     }
+
+    // laatste regel → clamp met ellipsis
+    if (i < words.length && lines.length === maxLines - 1 && addEllipsis) {
+      let remainder = "";
+      let j = i;
+      while (
+        j < words.length &&
+        (line + " " + (remainder ? remainder + " " : "") + words[j]).length <= maxChars - 1
+      ) {
+        remainder = (remainder + " " + words[j]).trim();
+        j++;
+      }
+      if (remainder) line = (line + " " + remainder).trim();
+      if (line.length >= maxChars) line = line.slice(0, Math.max(0, maxChars - 1)).trim();
+      lines.push(line + "…");
+      return lines;
+    }
+
+    lines.push(line);
   }
-  if (line) lines.push(line);
+
   return lines.slice(0, maxLines);
 }
+
 
 /** SVG generator voor blog OG */
 function svgForBlog({ title, subtitle, author, gradStart, gradEnd }) {

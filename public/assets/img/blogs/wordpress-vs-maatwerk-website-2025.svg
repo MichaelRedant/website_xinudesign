@@ -2,8 +2,8 @@
 <svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0ea5e9"/>
-      <stop offset="100%" stop-color="#6366f1"/>
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
     </linearGradient>
     <filter id="glow">
       <feGaussianBlur stdDeviation="30" result="blur"/>
@@ -29,12 +29,12 @@
 
     <!-- title -->
     <text x="80" y="260" font-weight="900" font-size="74">
-      <tspan x="80" dy="0">Persona Vault:</tspan><tspan x="80" dy="82">AI-Persona Management</tspan><tspan x="80" dy="82">voor Slimmere Marketin…</tspan>
+      <tspan x="80" dy="0">WordPress of maatwerk</tspan><tspan x="80" dy="82">website in 2025? De</tspan><tspan x="80" dy="82">ultieme vergelijking…</tspan>
     </text>
 
     <!-- subtitle -->
     <text x="80" y="522" font-weight="600" font-size="34" opacity="0.95">
-      <tspan x="80" dy="0">Ontdek Persona Vault — het AI-powered platform voor</tspan><tspan x="80" dy="40">persona- en promptmanagement. Beheer, categoriseer</tspan><tspan x="80" dy="40">en schaal AI-workflows met revisies, collecties en…</tspan>
+      <tspan x="80" dy="0">Twijfel je tussen een WordPress-website of een</tspan><tspan x="80" dy="40">maatwerkoplossing met code? Ontdek in dit artikel de</tspan><tspan x="80" dy="40">voordelen, nadelen en de nieuwste trend: vibe…</tspan>
     </text>
 
     <!-- footer -->
